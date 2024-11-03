@@ -42788,6 +42788,46 @@
     ]
   },
   {
+    "name": "modify-keys",
+    "scope": "unscoped",
+    "version": "2.0.0",
+    "description": "Modify the keys of an object",
+    "keywords": [
+      "object",
+      "assign",
+      "extend",
+      "properties",
+      "keys",
+      "key",
+      "transform",
+      "transformation",
+      "map",
+      "modify"
+    ],
+    "date": "2021-10-18T10:43:52.166Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/modify-keys",
+      "homepage": "https://github.com/sindresorhus/modify-keys#readme",
+      "repository": "https://github.com/sindresorhus/modify-keys"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "detect-newline-cli",
     "scope": "unscoped",
     "version": "2.0.0",
@@ -42810,46 +42850,6 @@
       "npm": "https://www.npmjs.com/package/detect-newline-cli",
       "homepage": "https://github.com/sindresorhus/detect-newline-cli#readme",
       "repository": "https://github.com/sindresorhus/detect-newline-cli"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "modify-keys",
-    "scope": "unscoped",
-    "version": "2.0.0",
-    "description": "Modify the keys of an object",
-    "keywords": [
-      "object",
-      "assign",
-      "extend",
-      "properties",
-      "keys",
-      "key",
-      "transform",
-      "transformation",
-      "map",
-      "modify"
-    ],
-    "date": "2021-10-18T10:43:52.166Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/modify-keys",
-      "homepage": "https://github.com/sindresorhus/modify-keys#readme",
-      "repository": "https://github.com/sindresorhus/modify-keys"
     },
     "author": {
       "name": "Sindre Sorhus",

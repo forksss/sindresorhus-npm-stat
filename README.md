@@ -1,12 +1,10 @@
 my-npm-stat
 ===
 
-![NPM Stats](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jaywcjlove/my-npm-stat/main/data/badge.json)
-[![Build & Deploy](https://github.com/jaywcjlove/my-npm-stat/actions/workflows/ci.yml/badge.svg)](https://github.com/jaywcjlove/my-npm-stat/actions/workflows/ci.yml)
+![NPM Stats](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/forksss/sindresorhus-npm-stat/main/data/badge.json)
+[![Build & Deploy](https://github.com/forksss/sindresorhus-npm-stat/actions/workflows/ci.yml/badge.svg)](https://github.com/forksss/sindresorhus-npm-stat/actions/workflows/ci.yml)
 
-NPM download statistics for [Kenny Wang](https://www.npmjs.com/~wcjiang)'s opens source projects for the past year. Updated Daily.
-
-https://github.com/user-attachments/assets/41cddae0-292f-470d-a4f9-00322e5d75c2
+NPM download statistics for [Sindre Sorhus](https://www.npmjs.com/~sindresorhus)'s opens source projects for the past year. Updated Daily.
 
 Update date: <!--GAMFC-->2024-11-03 09:41:08<!--GAMFC-END-->
 

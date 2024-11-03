@@ -4,7 +4,7 @@ import path from "path";
 import color from "colors-cli/safe";
 import { format, startOfWeek, subYears } from "date-fns";
 
-const username = 'wcjiang'; // 替换为你的 npm 用户名
+const username = 'sindresorhus'; // 替换为你的 npm 用户名
 const dataPath = 'data/data.json';
 const packageDir = 'data/package';
 const statsPath = 'data/package-stats.json';
@@ -118,13 +118,13 @@ async function main() {
 
       const allDownloads = [];
       const packageDownloads = {};
-
+      let index = 0;
       for (const pkg of packages) {
         const downloads = await getPackageDownloads(pkg.name);
         const packageName = pkg.name.replace(/\//g, '_'); // 替换斜杠
         const packagePath = path.join(packageDir, `${packageName}.json`);
         fs.writeFileSync(packagePath, JSON.stringify(downloads, null, 2));
-        console.log(color.green(`下载量数据已保存到 ${packagePath}`));
+        console.log(`${color.green(index)}/${packages.length} -> 下载量数据已保存到 ${color.green(packagePath)}`);
 
         if (Array.isArray(downloads.downloads)) {
           allDownloads.push(...downloads.downloads);
@@ -132,12 +132,13 @@ async function main() {
         } else {
           console.error(color.red(`Unexpected downloads structure for package ${pkg.name}`));
         }
+        index++;
       }
       
       const stats = calculateStats(allDownloads);
       stats.topPackages = Object.entries(packageDownloads)
         .sort(([, a], [, b]) => b - a)
-        .slice(0, 100)
+        .slice(0, 200)
         .map(([name, downloads]) => ({ name, downloads }));
 
       /// 合并旧的年下载统计数据 -------- Start --------

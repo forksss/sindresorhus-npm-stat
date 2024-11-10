@@ -7988,41 +7988,6 @@
     ]
   },
   {
-    "name": "is-obj",
-    "scope": "unscoped",
-    "version": "3.0.0",
-    "description": "Check if a value is an object",
-    "keywords": [
-      "object",
-      "is",
-      "check",
-      "test",
-      "type"
-    ],
-    "date": "2021-04-16T19:05:38.181Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/is-obj",
-      "homepage": "https://github.com/sindresorhus/is-obj#readme",
-      "repository": "https://github.com/sindresorhus/is-obj"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "temp-dir",
     "scope": "unscoped",
     "version": "3.0.0",
@@ -11267,6 +11232,41 @@
     ]
   },
   {
+    "name": "is-obj",
+    "scope": "unscoped",
+    "version": "3.0.0",
+    "description": "Check if a value is an object",
+    "keywords": [
+      "object",
+      "is",
+      "check",
+      "test",
+      "type"
+    ],
+    "date": "2021-04-16T19:05:38.181Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/is-obj",
+      "homepage": "https://github.com/sindresorhus/is-obj#readme",
+      "repository": "https://github.com/sindresorhus/is-obj"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "yosay",
     "scope": "unscoped",
     "version": "3.0.0",
@@ -11585,49 +11585,6 @@
     ]
   },
   {
-    "name": "map-obj",
-    "scope": "unscoped",
-    "version": "5.0.2",
-    "description": "Map object keys and values into a new object",
-    "keywords": [
-      "map",
-      "object",
-      "key",
-      "keys",
-      "value",
-      "values",
-      "iterate",
-      "iterator",
-      "rename",
-      "modify",
-      "deep",
-      "recurse",
-      "recursive"
-    ],
-    "date": "2022-06-21T22:08:50.354Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/map-obj",
-      "homepage": "https://github.com/sindresorhus/map-obj#readme",
-      "repository": "https://github.com/sindresorhus/map-obj"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "decamelize-keys",
     "scope": "unscoped",
     "version": "2.0.1",
@@ -11658,6 +11615,49 @@
       "homepage": "https://github.com/sindresorhus/decamelize-keys#readme",
       "repository": "https://github.com/sindresorhus/decamelize-keys",
       "bugs": "https://github.com/sindresorhus/decamelize-keys/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "map-obj",
+    "scope": "unscoped",
+    "version": "5.0.2",
+    "description": "Map object keys and values into a new object",
+    "keywords": [
+      "map",
+      "object",
+      "key",
+      "keys",
+      "value",
+      "values",
+      "iterate",
+      "iterator",
+      "rename",
+      "modify",
+      "deep",
+      "recurse",
+      "recursive"
+    ],
+    "date": "2022-06-21T22:08:50.354Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/map-obj",
+      "homepage": "https://github.com/sindresorhus/map-obj#readme",
+      "repository": "https://github.com/sindresorhus/map-obj"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -15727,41 +15727,6 @@
     ]
   },
   {
-    "name": "is-absolute-url",
-    "scope": "unscoped",
-    "version": "4.0.1",
-    "description": "Check if a URL is absolute",
-    "keywords": [
-      "url",
-      "absolute",
-      "relative",
-      "is",
-      "check"
-    ],
-    "date": "2021-08-11T14:21:05.948Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/is-absolute-url",
-      "homepage": "https://github.com/sindresorhus/is-absolute-url#readme",
-      "repository": "https://github.com/sindresorhus/is-absolute-url"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "safe-stringify",
     "scope": "unscoped",
     "version": "1.1.1",
@@ -15783,6 +15748,41 @@
       "homepage": "https://github.com/sindresorhus/safe-stringify#readme",
       "repository": "https://github.com/sindresorhus/safe-stringify",
       "bugs": "https://github.com/sindresorhus/safe-stringify/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "is-absolute-url",
+    "scope": "unscoped",
+    "version": "4.0.1",
+    "description": "Check if a URL is absolute",
+    "keywords": [
+      "url",
+      "absolute",
+      "relative",
+      "is",
+      "check"
+    ],
+    "date": "2021-08-11T14:21:05.948Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/is-absolute-url",
+      "homepage": "https://github.com/sindresorhus/is-absolute-url#readme",
+      "repository": "https://github.com/sindresorhus/is-absolute-url"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -22892,42 +22892,6 @@
     ]
   },
   {
-    "name": "file-url",
-    "scope": "unscoped",
-    "version": "4.0.0",
-    "description": "Convert a file path to a file url: `unicorn.jpg` → `file:///Users/sindresorhus/unicorn.jpg`",
-    "keywords": [
-      "file",
-      "url",
-      "uri",
-      "path",
-      "scheme",
-      "slash"
-    ],
-    "date": "2021-04-07T19:05:11.944Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/file-url",
-      "homepage": "https://github.com/sindresorhus/file-url#readme",
-      "repository": "https://github.com/sindresorhus/file-url"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "generator-webapp",
     "scope": "unscoped",
     "version": "4.0.0-9",
@@ -23003,25 +22967,23 @@
     ]
   },
   {
-    "name": "is-scoped",
+    "name": "file-url",
     "scope": "unscoped",
-    "version": "3.0.0",
-    "description": "Check if a string is a scoped npm package name",
+    "version": "4.0.0",
+    "description": "Convert a file path to a file url: `unicorn.jpg` → `file:///Users/sindresorhus/unicorn.jpg`",
     "keywords": [
-      "scoped",
-      "npm",
-      "package",
-      "name",
-      "is",
-      "detect",
-      "validate",
-      "validation"
+      "file",
+      "url",
+      "uri",
+      "path",
+      "scheme",
+      "slash"
     ],
-    "date": "2021-04-17T18:25:05.498Z",
+    "date": "2021-04-07T19:05:11.944Z",
     "links": {
-      "npm": "https://www.npmjs.com/package/is-scoped",
-      "homepage": "https://github.com/sindresorhus/is-scoped#readme",
-      "repository": "https://github.com/sindresorhus/is-scoped"
+      "npm": "https://www.npmjs.com/package/file-url",
+      "homepage": "https://github.com/sindresorhus/file-url#readme",
+      "repository": "https://github.com/sindresorhus/file-url"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -24539,42 +24501,6 @@
     ]
   },
   {
-    "name": "is-observable",
-    "scope": "unscoped",
-    "version": "3.0.0",
-    "description": "Check if a value is an Observable",
-    "keywords": [
-      "observable",
-      "observables",
-      "is",
-      "check",
-      "detect",
-      "type"
-    ],
-    "date": "2022-06-06T11:21:36.112Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/is-observable",
-      "homepage": "https://github.com/sindresorhus/is-observable#readme",
-      "repository": "https://github.com/sindresorhus/is-observable"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "temporary-path",
     "scope": "unscoped",
     "version": "1.0.0",
@@ -24597,6 +24523,42 @@
       "homepage": "https://github.com/sindresorhus/temporary-path#readme",
       "repository": "https://github.com/sindresorhus/temporary-path",
       "bugs": "https://github.com/sindresorhus/temporary-path/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "is-observable",
+    "scope": "unscoped",
+    "version": "3.0.0",
+    "description": "Check if a value is an Observable",
+    "keywords": [
+      "observable",
+      "observables",
+      "is",
+      "check",
+      "detect",
+      "type"
+    ],
+    "date": "2022-06-06T11:21:36.112Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/is-observable",
+      "homepage": "https://github.com/sindresorhus/is-observable#readme",
+      "repository": "https://github.com/sindresorhus/is-observable"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -26096,6 +26058,44 @@
     ]
   },
   {
+    "name": "is-scoped",
+    "scope": "unscoped",
+    "version": "3.0.0",
+    "description": "Check if a string is a scoped npm package name",
+    "keywords": [
+      "scoped",
+      "npm",
+      "package",
+      "name",
+      "is",
+      "detect",
+      "validate",
+      "validation"
+    ],
+    "date": "2021-04-17T18:25:05.498Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/is-scoped",
+      "homepage": "https://github.com/sindresorhus/is-scoped#readme",
+      "repository": "https://github.com/sindresorhus/is-scoped"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "p-time",
     "scope": "unscoped",
     "version": "4.0.0",
@@ -27136,6 +27136,42 @@
     ]
   },
   {
+    "name": "is-relative-url",
+    "scope": "unscoped",
+    "version": "4.0.0",
+    "description": "Check if a URL is relative",
+    "keywords": [
+      "url",
+      "relative",
+      "absolute",
+      "uri",
+      "is",
+      "check"
+    ],
+    "date": "2022-06-06T08:26:25.566Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/is-relative-url",
+      "homepage": "https://github.com/sindresorhus/is-relative-url#readme",
+      "repository": "https://github.com/sindresorhus/is-relative-url"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "grunt-usemin",
     "scope": "unscoped",
     "version": "3.1.1",
@@ -27226,42 +27262,6 @@
       "npm": "https://www.npmjs.com/package/hex-rgb",
       "homepage": "https://github.com/sindresorhus/hex-rgb#readme",
       "repository": "https://github.com/sindresorhus/hex-rgb"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "is-relative-url",
-    "scope": "unscoped",
-    "version": "4.0.0",
-    "description": "Check if a URL is relative",
-    "keywords": [
-      "url",
-      "relative",
-      "absolute",
-      "uri",
-      "is",
-      "check"
-    ],
-    "date": "2022-06-06T08:26:25.566Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/is-relative-url",
-      "homepage": "https://github.com/sindresorhus/is-relative-url#readme",
-      "repository": "https://github.com/sindresorhus/is-relative-url"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -27925,44 +27925,6 @@
     ]
   },
   {
-    "name": "is-supported-regexp-flag",
-    "scope": "unscoped",
-    "version": "2.0.0",
-    "description": "Check whether a RegExp flag is supported",
-    "keywords": [
-      "regexp",
-      "regex",
-      "check",
-      "is",
-      "support",
-      "supported",
-      "valid",
-      "flag"
-    ],
-    "date": "2021-07-26T11:19:49.122Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/is-supported-regexp-flag",
-      "homepage": "https://github.com/sindresorhus/is-supported-regexp-flag#readme",
-      "repository": "https://github.com/sindresorhus/is-supported-regexp-flag"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "gulp-strip-json-comments",
     "scope": "unscoped",
     "version": "5.0.0",
@@ -28575,49 +28537,6 @@
     ]
   },
   {
-    "name": "is-gif",
-    "scope": "unscoped",
-    "version": "4.0.1",
-    "description": "Check if a Buffer/Uint8Array is a GIF image",
-    "keywords": [
-      "gif",
-      "graphics",
-      "image",
-      "picture",
-      "photo",
-      "type",
-      "detect",
-      "check",
-      "is",
-      "exif",
-      "binary",
-      "buffer",
-      "uint8array"
-    ],
-    "date": "2021-09-02T14:12:33.134Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/is-gif",
-      "homepage": "https://github.com/sindresorhus/is-gif#readme",
-      "repository": "https://github.com/sindresorhus/is-gif"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "gulp-chmod",
     "scope": "unscoped",
     "version": "4.0.0",
@@ -28673,6 +28592,49 @@
       "npm": "https://www.npmjs.com/package/escape-string-applescript",
       "homepage": "https://github.com/sindresorhus/escape-string-applescript#readme",
       "repository": "https://github.com/sindresorhus/escape-string-applescript"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "is-gif",
+    "scope": "unscoped",
+    "version": "4.0.1",
+    "description": "Check if a Buffer/Uint8Array is a GIF image",
+    "keywords": [
+      "gif",
+      "graphics",
+      "image",
+      "picture",
+      "photo",
+      "type",
+      "detect",
+      "check",
+      "is",
+      "exif",
+      "binary",
+      "buffer",
+      "uint8array"
+    ],
+    "date": "2021-09-02T14:12:33.134Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/is-gif",
+      "homepage": "https://github.com/sindresorhus/is-gif#readme",
+      "repository": "https://github.com/sindresorhus/is-gif"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -30833,6 +30795,44 @@
     ]
   },
   {
+    "name": "is-supported-regexp-flag",
+    "scope": "unscoped",
+    "version": "2.0.0",
+    "description": "Check whether a RegExp flag is supported",
+    "keywords": [
+      "regexp",
+      "regex",
+      "check",
+      "is",
+      "support",
+      "supported",
+      "valid",
+      "flag"
+    ],
+    "date": "2021-07-26T11:19:49.122Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/is-supported-regexp-flag",
+      "homepage": "https://github.com/sindresorhus/is-supported-regexp-flag#readme",
+      "repository": "https://github.com/sindresorhus/is-supported-regexp-flag"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "ink-image",
     "scope": "unscoped",
     "version": "2.0.0",
@@ -31728,53 +31728,6 @@
     ]
   },
   {
-    "name": "is-elevated",
-    "scope": "unscoped",
-    "version": "4.0.0",
-    "description": "Check if the process is running with elevated privileges",
-    "keywords": [
-      "admin",
-      "administrator",
-      "win32",
-      "windows",
-      "process",
-      "running",
-      "cmd",
-      "shell",
-      "command-line",
-      "check",
-      "detect",
-      "is",
-      "root",
-      "sudo",
-      "elevate",
-      "elevated",
-      "privileges"
-    ],
-    "date": "2021-08-11T12:32:35.387Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/is-elevated",
-      "homepage": "https://github.com/sindresorhus/is-elevated#readme",
-      "repository": "https://github.com/sindresorhus/is-elevated"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "gravatar-url",
     "scope": "unscoped",
     "version": "4.0.1",
@@ -31920,6 +31873,53 @@
     "date": "2021-08-26T19:12:20.264Z",
     "links": {
       "npm": "https://www.npmjs.com/package/filter-console"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "is-elevated",
+    "scope": "unscoped",
+    "version": "4.0.0",
+    "description": "Check if the process is running with elevated privileges",
+    "keywords": [
+      "admin",
+      "administrator",
+      "win32",
+      "windows",
+      "process",
+      "running",
+      "cmd",
+      "shell",
+      "command-line",
+      "check",
+      "detect",
+      "is",
+      "root",
+      "sudo",
+      "elevate",
+      "elevated",
+      "privileges"
+    ],
+    "date": "2021-08-11T12:32:35.387Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/is-elevated",
+      "homepage": "https://github.com/sindresorhus/is-elevated#readme",
+      "repository": "https://github.com/sindresorhus/is-elevated"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -34703,6 +34703,42 @@
     ]
   },
   {
+    "name": "normalize-package",
+    "scope": "unscoped",
+    "version": "1.1.0",
+    "description": "Normalize packages based on various package manager's JSON files",
+    "keywords": [
+      "normalize",
+      "packages",
+      "component",
+      "npm",
+      "package"
+    ],
+    "date": "2014-12-22T01:16:17.563Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/normalize-package"
+    },
+    "author": {
+      "name": "Jonathan Ong",
+      "email": "me@jongleberry.com",
+      "url": "http://jongleberry.com"
+    },
+    "publisher": {
+      "username": "jongleberry",
+      "email": "jonathanrichardong@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      },
+      {
+        "username": "jongleberry",
+        "email": "jonathanrichardong@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "in-range",
     "scope": "unscoped",
     "version": "3.0.0",
@@ -34736,42 +34772,6 @@
       {
         "username": "sindresorhus",
         "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "normalize-package",
-    "scope": "unscoped",
-    "version": "1.1.0",
-    "description": "Normalize packages based on various package manager's JSON files",
-    "keywords": [
-      "normalize",
-      "packages",
-      "component",
-      "npm",
-      "package"
-    ],
-    "date": "2014-12-22T01:16:17.563Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/normalize-package"
-    },
-    "author": {
-      "name": "Jonathan Ong",
-      "email": "me@jongleberry.com",
-      "url": "http://jongleberry.com"
-    },
-    "publisher": {
-      "username": "jongleberry",
-      "email": "jonathanrichardong@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      },
-      {
-        "username": "jongleberry",
-        "email": "jonathanrichardong@gmail.com"
       }
     ]
   },
@@ -35617,6 +35617,46 @@
       "npm": "https://www.npmjs.com/package/latest-semver",
       "homepage": "https://github.com/sindresorhus/latest-semver#readme",
       "repository": "https://github.com/sindresorhus/latest-semver"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "is-array-sorted",
+    "scope": "unscoped",
+    "version": "3.0.0",
+    "description": "Check if an Array is sorted",
+    "keywords": [
+      "array",
+      "sorted",
+      "sort",
+      "is",
+      "check",
+      "detect",
+      "list",
+      "sequence",
+      "compare",
+      "comparator"
+    ],
+    "date": "2021-08-11T11:04:35.936Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/is-array-sorted",
+      "homepage": "https://github.com/sindresorhus/is-array-sorted#readme",
+      "repository": "https://github.com/sindresorhus/is-array-sorted"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -36779,46 +36819,6 @@
     ]
   },
   {
-    "name": "is-array-sorted",
-    "scope": "unscoped",
-    "version": "3.0.0",
-    "description": "Check if an Array is sorted",
-    "keywords": [
-      "array",
-      "sorted",
-      "sort",
-      "is",
-      "check",
-      "detect",
-      "list",
-      "sequence",
-      "compare",
-      "comparator"
-    ],
-    "date": "2021-08-11T11:04:35.936Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/is-array-sorted",
-      "homepage": "https://github.com/sindresorhus/is-array-sorted#readme",
-      "repository": "https://github.com/sindresorhus/is-array-sorted"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "kap-streamable",
     "scope": "unscoped",
     "version": "1.0.0",
@@ -36860,41 +36860,6 @@
     ]
   },
   {
-    "name": "@ava/write-file-atomic",
-    "scope": "ava",
-    "version": "2.2.0",
-    "description": "Write files in an atomic fashion w/configurable ownership",
-    "keywords": [
-      "writeFile",
-      "atomic"
-    ],
-    "date": "2017-06-25T15:07:15.845Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40ava%2Fwrite-file-atomic",
-      "homepage": "https://github.com/iarna/write-file-atomic",
-      "repository": "https://github.com/avajs/write-file-atomic"
-    },
-    "author": {
-      "name": "Rebecca Turner",
-      "email": "me@re-becca.org",
-      "url": "http://re-becca.org"
-    },
-    "publisher": {
-      "username": "novemberborn",
-      "email": "mark@novemberborn.net"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      },
-      {
-        "username": "novemberborn",
-        "email": "mark@novemberborn.net"
-      }
-    ]
-  },
-  {
     "name": "is-file-stream",
     "scope": "unscoped",
     "version": "1.0.0",
@@ -36928,6 +36893,41 @@
       {
         "username": "sindresorhus",
         "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "@ava/write-file-atomic",
+    "scope": "ava",
+    "version": "2.2.0",
+    "description": "Write files in an atomic fashion w/configurable ownership",
+    "keywords": [
+      "writeFile",
+      "atomic"
+    ],
+    "date": "2017-06-25T15:07:15.845Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40ava%2Fwrite-file-atomic",
+      "homepage": "https://github.com/iarna/write-file-atomic",
+      "repository": "https://github.com/avajs/write-file-atomic"
+    },
+    "author": {
+      "name": "Rebecca Turner",
+      "email": "me@re-becca.org",
+      "url": "http://re-becca.org"
+    },
+    "publisher": {
+      "username": "novemberborn",
+      "email": "mark@novemberborn.net"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      },
+      {
+        "username": "novemberborn",
+        "email": "mark@novemberborn.net"
       }
     ]
   },
@@ -38240,43 +38240,6 @@
     ]
   },
   {
-    "name": "ipify",
-    "scope": "unscoped",
-    "version": "6.0.0",
-    "description": "Get your public IP address",
-    "keywords": [
-      "ip",
-      "ipv6",
-      "ipv4",
-      "address",
-      "public",
-      "external",
-      "own"
-    ],
-    "date": "2022-01-01T01:27:34.476Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/ipify",
-      "homepage": "https://github.com/sindresorhus/ipify#readme",
-      "repository": "https://github.com/sindresorhus/ipify"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "random-float",
     "scope": "unscoped",
     "version": "3.0.0",
@@ -38300,6 +38263,43 @@
       "npm": "https://www.npmjs.com/package/random-float",
       "homepage": "https://github.com/sindresorhus/random-float#readme",
       "repository": "https://github.com/sindresorhus/random-float"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "ipify",
+    "scope": "unscoped",
+    "version": "6.0.0",
+    "description": "Get your public IP address",
+    "keywords": [
+      "ip",
+      "ipv6",
+      "ipv4",
+      "address",
+      "public",
+      "external",
+      "own"
+    ],
+    "date": "2022-01-01T01:27:34.476Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/ipify",
+      "homepage": "https://github.com/sindresorhus/ipify#readme",
+      "repository": "https://github.com/sindresorhus/ipify"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -39043,6 +39043,54 @@
     ]
   },
   {
+    "name": "is-webp",
+    "scope": "unscoped",
+    "version": "2.0.0",
+    "description": "Check if a Buffer/Uint8Array is a WebP image",
+    "keywords": [
+      "webp",
+      "google",
+      "weppy",
+      "network",
+      "graphics",
+      "image",
+      "img",
+      "pic",
+      "picture",
+      "photo",
+      "type",
+      "detect",
+      "check",
+      "is",
+      "exif",
+      "binary",
+      "buffer",
+      "uint8array"
+    ],
+    "date": "2021-09-18T18:26:05.138Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/is-webp",
+      "homepage": "https://github.com/sindresorhus/is-webp#readme",
+      "repository": "https://github.com/sindresorhus/is-webp"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "internal-ip-cli",
     "scope": "unscoped",
     "version": "2.0.0",
@@ -39090,20 +39138,23 @@
     ]
   },
   {
-    "name": "leap-year",
+    "name": "is-heroku",
     "scope": "unscoped",
-    "version": "4.0.0",
-    "description": "Check if a year is a leap year",
+    "version": "3.0.0",
+    "description": "Check if your code is running on Heroku",
     "keywords": [
-      "leap",
-      "year",
-      "date"
+      "heroku",
+      "is",
+      "check",
+      "detect",
+      "env",
+      "environment"
     ],
-    "date": "2021-04-07T17:37:38.813Z",
+    "date": "2022-02-23T07:01:38.098Z",
     "links": {
-      "npm": "https://www.npmjs.com/package/leap-year",
-      "homepage": "https://github.com/sindresorhus/leap-year#readme",
-      "repository": "https://github.com/sindresorhus/leap-year"
+      "npm": "https://www.npmjs.com/package/is-heroku",
+      "homepage": "https://github.com/sindresorhus/is-heroku#readme",
+      "repository": "https://github.com/sindresorhus/is-heroku"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -39123,23 +39174,20 @@
     ]
   },
   {
-    "name": "is-heroku",
+    "name": "leap-year",
     "scope": "unscoped",
-    "version": "3.0.0",
-    "description": "Check if your code is running on Heroku",
+    "version": "4.0.0",
+    "description": "Check if a year is a leap year",
     "keywords": [
-      "heroku",
-      "is",
-      "check",
-      "detect",
-      "env",
-      "environment"
+      "leap",
+      "year",
+      "date"
     ],
-    "date": "2022-02-23T07:01:38.098Z",
+    "date": "2021-04-07T17:37:38.813Z",
     "links": {
-      "npm": "https://www.npmjs.com/package/is-heroku",
-      "homepage": "https://github.com/sindresorhus/is-heroku#readme",
-      "repository": "https://github.com/sindresorhus/is-heroku"
+      "npm": "https://www.npmjs.com/package/leap-year",
+      "homepage": "https://github.com/sindresorhus/leap-year#readme",
+      "repository": "https://github.com/sindresorhus/leap-year"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -39267,6 +39315,44 @@
     "date": "2021-04-07T07:58:22.817Z",
     "links": {
       "npm": "https://www.npmjs.com/package/non-ascii"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "is-error-constructor",
+    "scope": "unscoped",
+    "version": "3.0.0",
+    "description": "Check if a value is an error constructor",
+    "keywords": [
+      "is",
+      "error",
+      "constructor",
+      "ctor",
+      "check",
+      "detect",
+      "instanceof"
+    ],
+    "date": "2021-04-07T07:37:45.173Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/is-error-constructor",
+      "homepage": "https://github.com/sindresorhus/is-error-constructor#readme",
+      "repository": "https://github.com/sindresorhus/is-error-constructor",
+      "bugs": "https://github.com/sindresorhus/is-error-constructor/issues"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -39497,44 +39583,6 @@
     ]
   },
   {
-    "name": "is-error-constructor",
-    "scope": "unscoped",
-    "version": "3.0.0",
-    "description": "Check if a value is an error constructor",
-    "keywords": [
-      "is",
-      "error",
-      "constructor",
-      "ctor",
-      "check",
-      "detect",
-      "instanceof"
-    ],
-    "date": "2021-04-07T07:37:45.173Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/is-error-constructor",
-      "homepage": "https://github.com/sindresorhus/is-error-constructor#readme",
-      "repository": "https://github.com/sindresorhus/is-error-constructor",
-      "bugs": "https://github.com/sindresorhus/is-error-constructor/issues"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "manage-wifi",
     "scope": "unscoped",
     "version": "2.1.0",
@@ -39563,6 +39611,50 @@
       "npm": "https://www.npmjs.com/package/manage-wifi",
       "homepage": "https://github.com/sindresorhus/manage-wifi#readme",
       "repository": "https://github.com/sindresorhus/manage-wifi"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "is-bmp",
+    "scope": "unscoped",
+    "version": "2.0.0",
+    "description": "Check if a Buffer/Uint8Array is a BMP image",
+    "keywords": [
+      "bmp",
+      "bitmap",
+      "graphics",
+      "image",
+      "picture",
+      "photo",
+      "type",
+      "detect",
+      "check",
+      "is",
+      "exif",
+      "binary",
+      "buffer",
+      "uint8array"
+    ],
+    "date": "2021-09-02T14:14:34.280Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/is-bmp",
+      "homepage": "https://github.com/sindresorhus/is-bmp#readme",
+      "repository": "https://github.com/sindresorhus/is-bmp"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -39855,6 +39947,52 @@
     ]
   },
   {
+    "name": "is-tif",
+    "scope": "unscoped",
+    "version": "2.0.0",
+    "description": "Check if a Buffer/Uint8Array is a TIFF image",
+    "keywords": [
+      "tif",
+      "tiff",
+      "graphics",
+      "image",
+      "img",
+      "pic",
+      "picture",
+      "photo",
+      "type",
+      "detect",
+      "check",
+      "is",
+      "exif",
+      "binary",
+      "buffer",
+      "uint8array"
+    ],
+    "date": "2021-08-09T19:50:17.129Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/is-tif",
+      "homepage": "https://github.com/sindresorhus/is-tif#readme",
+      "repository": "https://github.com/sindresorhus/is-tif"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "is-up",
     "scope": "unscoped",
     "version": "5.0.0",
@@ -39875,6 +40013,101 @@
       "npm": "https://www.npmjs.com/package/is-up",
       "homepage": "https://github.com/sindresorhus/is-up#readme",
       "repository": "https://github.com/sindresorhus/is-up"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "is-jxr",
+    "scope": "unscoped",
+    "version": "2.0.0",
+    "description": "Check if a Buffer/Uint8Array is a JPEG XR image",
+    "keywords": [
+      "jxr",
+      "jpeg xr",
+      "jpg",
+      "jpeg",
+      "image",
+      "img",
+      "pic",
+      "picture",
+      "photo",
+      "type",
+      "detect",
+      "check",
+      "is",
+      "exif",
+      "binary",
+      "buffer",
+      "uint8array",
+      "cli",
+      "bin"
+    ],
+    "date": "2021-09-18T18:46:41.379Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/is-jxr",
+      "homepage": "https://github.com/sindresorhus/is-jxr#readme",
+      "repository": "https://github.com/sindresorhus/is-jxr"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "is-psd",
+    "scope": "unscoped",
+    "version": "2.0.0",
+    "description": "Check if a Buffer/Uint8Array is a PSD image",
+    "keywords": [
+      "psd",
+      "photoshop",
+      "document",
+      "graphics",
+      "image",
+      "img",
+      "picture",
+      "photo",
+      "type",
+      "detect",
+      "check",
+      "is",
+      "exif",
+      "binary",
+      "buffer",
+      "uint8array"
+    ],
+    "date": "2021-08-10T10:31:38.391Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/is-psd",
+      "homepage": "https://github.com/sindresorhus/is-psd#readme",
+      "repository": "https://github.com/sindresorhus/is-psd"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -40006,54 +40239,6 @@
       "npm": "https://www.npmjs.com/package/cocoa-dialog",
       "homepage": "https://github.com/sindresorhus/cocoa-dialog#readme",
       "repository": "https://github.com/sindresorhus/cocoa-dialog"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "is-webp",
-    "scope": "unscoped",
-    "version": "2.0.0",
-    "description": "Check if a Buffer/Uint8Array is a WebP image",
-    "keywords": [
-      "webp",
-      "google",
-      "weppy",
-      "network",
-      "graphics",
-      "image",
-      "img",
-      "pic",
-      "picture",
-      "photo",
-      "type",
-      "detect",
-      "check",
-      "is",
-      "exif",
-      "binary",
-      "buffer",
-      "uint8array"
-    ],
-    "date": "2021-09-18T18:26:05.138Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/is-webp",
-      "homepage": "https://github.com/sindresorhus/is-webp#readme",
-      "repository": "https://github.com/sindresorhus/is-webp"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -40307,52 +40492,6 @@
     ]
   },
   {
-    "name": "is-tif",
-    "scope": "unscoped",
-    "version": "2.0.0",
-    "description": "Check if a Buffer/Uint8Array is a TIFF image",
-    "keywords": [
-      "tif",
-      "tiff",
-      "graphics",
-      "image",
-      "img",
-      "pic",
-      "picture",
-      "photo",
-      "type",
-      "detect",
-      "check",
-      "is",
-      "exif",
-      "binary",
-      "buffer",
-      "uint8array"
-    ],
-    "date": "2021-08-09T19:50:17.129Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/is-tif",
-      "homepage": "https://github.com/sindresorhus/is-tif#readme",
-      "repository": "https://github.com/sindresorhus/is-tif"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "pick-random-cli",
     "scope": "unscoped",
     "version": "2.0.0",
@@ -40379,50 +40518,6 @@
       "npm": "https://www.npmjs.com/package/pick-random-cli",
       "homepage": "https://github.com/sindresorhus/pick-random-cli#readme",
       "repository": "https://github.com/sindresorhus/pick-random-cli"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "is-bmp",
-    "scope": "unscoped",
-    "version": "2.0.0",
-    "description": "Check if a Buffer/Uint8Array is a BMP image",
-    "keywords": [
-      "bmp",
-      "bitmap",
-      "graphics",
-      "image",
-      "picture",
-      "photo",
-      "type",
-      "detect",
-      "check",
-      "is",
-      "exif",
-      "binary",
-      "buffer",
-      "uint8array"
-    ],
-    "date": "2021-09-02T14:14:34.280Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/is-bmp",
-      "homepage": "https://github.com/sindresorhus/is-bmp#readme",
-      "repository": "https://github.com/sindresorhus/is-bmp"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -40914,101 +41009,6 @@
       "homepage": "https://github.com/sindresorhus/open-editor-cli#readme",
       "repository": "https://github.com/sindresorhus/open-editor-cli",
       "bugs": "https://github.com/sindresorhus/open-editor-cli/issues"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "is-jxr",
-    "scope": "unscoped",
-    "version": "2.0.0",
-    "description": "Check if a Buffer/Uint8Array is a JPEG XR image",
-    "keywords": [
-      "jxr",
-      "jpeg xr",
-      "jpg",
-      "jpeg",
-      "image",
-      "img",
-      "pic",
-      "picture",
-      "photo",
-      "type",
-      "detect",
-      "check",
-      "is",
-      "exif",
-      "binary",
-      "buffer",
-      "uint8array",
-      "cli",
-      "bin"
-    ],
-    "date": "2021-09-18T18:46:41.379Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/is-jxr",
-      "homepage": "https://github.com/sindresorhus/is-jxr#readme",
-      "repository": "https://github.com/sindresorhus/is-jxr"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "is-psd",
-    "scope": "unscoped",
-    "version": "2.0.0",
-    "description": "Check if a Buffer/Uint8Array is a PSD image",
-    "keywords": [
-      "psd",
-      "photoshop",
-      "document",
-      "graphics",
-      "image",
-      "img",
-      "picture",
-      "photo",
-      "type",
-      "detect",
-      "check",
-      "is",
-      "exif",
-      "binary",
-      "buffer",
-      "uint8array"
-    ],
-    "date": "2021-08-10T10:31:38.391Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/is-psd",
-      "homepage": "https://github.com/sindresorhus/is-psd#readme",
-      "repository": "https://github.com/sindresorhus/is-psd"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -41641,30 +41641,28 @@
     ]
   },
   {
-    "name": "is-email-like",
+    "name": "is-epub",
     "scope": "unscoped",
     "version": "2.0.0",
-    "description": "Check if a string is email like",
+    "description": "Check if a Buffer/Uint8Array is EPUB",
     "keywords": [
-      "text",
-      "regex",
-      "regexp",
-      "match",
-      "test",
-      "find",
-      "pattern",
-      "email",
-      "address",
-      "validate",
+      "epub",
+      "ebook",
+      "book",
+      "type",
+      "detect",
       "check",
       "is",
-      "string"
+      "binary",
+      "buffer",
+      "uint8array"
     ],
-    "date": "2021-05-03T14:54:47.448Z",
+    "date": "2021-05-03T13:07:34.900Z",
     "links": {
-      "npm": "https://www.npmjs.com/package/is-email-like",
-      "homepage": "https://github.com/sindresorhus/is-email-like#readme",
-      "repository": "https://github.com/sindresorhus/is-email-like"
+      "npm": "https://www.npmjs.com/package/is-epub",
+      "homepage": "https://github.com/sindresorhus/is-epub#readme",
+      "repository": "https://github.com/sindresorhus/is-epub",
+      "bugs": "https://github.com/sindresorhus/is-epub/issues"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -41764,28 +41762,30 @@
     ]
   },
   {
-    "name": "is-epub",
+    "name": "is-email-like",
     "scope": "unscoped",
     "version": "2.0.0",
-    "description": "Check if a Buffer/Uint8Array is EPUB",
+    "description": "Check if a string is email like",
     "keywords": [
-      "epub",
-      "ebook",
-      "book",
-      "type",
-      "detect",
+      "text",
+      "regex",
+      "regexp",
+      "match",
+      "test",
+      "find",
+      "pattern",
+      "email",
+      "address",
+      "validate",
       "check",
       "is",
-      "binary",
-      "buffer",
-      "uint8array"
+      "string"
     ],
-    "date": "2021-05-03T13:07:34.900Z",
+    "date": "2021-05-03T14:54:47.448Z",
     "links": {
-      "npm": "https://www.npmjs.com/package/is-epub",
-      "homepage": "https://github.com/sindresorhus/is-epub#readme",
-      "repository": "https://github.com/sindresorhus/is-epub",
-      "bugs": "https://github.com/sindresorhus/is-epub/issues"
+      "npm": "https://www.npmjs.com/package/is-email-like",
+      "homepage": "https://github.com/sindresorhus/is-email-like#readme",
+      "repository": "https://github.com/sindresorhus/is-email-like"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -42113,45 +42113,6 @@
     ]
   },
   {
-    "name": "ipify-cli",
-    "scope": "unscoped",
-    "version": "4.0.0",
-    "description": "Get your public IP address",
-    "keywords": [
-      "cli-app",
-      "cli",
-      "ip",
-      "ipv6",
-      "ipv4",
-      "address",
-      "public",
-      "external",
-      "own"
-    ],
-    "date": "2022-01-01T01:33:09.025Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/ipify-cli",
-      "homepage": "https://github.com/sindresorhus/ipify-cli#readme",
-      "repository": "https://github.com/sindresorhus/ipify-cli"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "kap",
     "scope": "unscoped",
     "version": "0.0.1",
@@ -42174,50 +42135,6 @@
       "name": "Sindre Sorhus",
       "email": "sindresorhus@gmail.com",
       "url": "sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "is-camera-on",
-    "scope": "unscoped",
-    "version": "3.1.0",
-    "description": "Check if the built-in Mac camera is on",
-    "keywords": [
-      "macos",
-      "camera",
-      "webcam",
-      "cam",
-      "builtin",
-      "built-in",
-      "internal",
-      "status",
-      "on",
-      "off",
-      "enabled",
-      "disabled",
-      "used",
-      "swift"
-    ],
-    "date": "2022-01-10T05:44:27.263Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/is-camera-on",
-      "homepage": "https://github.com/sindresorhus/node-is-camera-on#readme",
-      "repository": "https://github.com/sindresorhus/node-is-camera-on"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
       "username": "sindresorhus"
     },
     "publisher": {
@@ -42302,6 +42219,50 @@
       "homepage": "https://github.com/sindresorhus/is-root-path#readme",
       "repository": "https://github.com/sindresorhus/is-root-path",
       "bugs": "https://github.com/sindresorhus/is-root-path/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "is-camera-on",
+    "scope": "unscoped",
+    "version": "3.1.0",
+    "description": "Check if the built-in Mac camera is on",
+    "keywords": [
+      "macos",
+      "camera",
+      "webcam",
+      "cam",
+      "builtin",
+      "built-in",
+      "internal",
+      "status",
+      "on",
+      "off",
+      "enabled",
+      "disabled",
+      "used",
+      "swift"
+    ],
+    "date": "2022-01-10T05:44:27.263Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/is-camera-on",
+      "homepage": "https://github.com/sindresorhus/node-is-camera-on#readme",
+      "repository": "https://github.com/sindresorhus/node-is-camera-on"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -42592,6 +42553,45 @@
     ]
   },
   {
+    "name": "ipify-cli",
+    "scope": "unscoped",
+    "version": "4.0.0",
+    "description": "Get your public IP address",
+    "keywords": [
+      "cli-app",
+      "cli",
+      "ip",
+      "ipv6",
+      "ipv4",
+      "address",
+      "public",
+      "external",
+      "own"
+    ],
+    "date": "2022-01-01T01:33:09.025Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/ipify-cli",
+      "homepage": "https://github.com/sindresorhus/ipify-cli#readme",
+      "repository": "https://github.com/sindresorhus/ipify-cli"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "file-icon-cli",
     "scope": "unscoped",
     "version": "3.0.0",
@@ -42619,46 +42619,6 @@
       "npm": "https://www.npmjs.com/package/file-icon-cli",
       "homepage": "https://github.com/sindresorhus/file-icon-cli#readme",
       "repository": "https://github.com/sindresorhus/file-icon-cli"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "is-jxa",
-    "scope": "unscoped",
-    "version": "3.0.0",
-    "description": "Check if your code is running in a JXA environment",
-    "keywords": [
-      "jxa",
-      "macos",
-      "is",
-      "detect",
-      "check",
-      "process",
-      "environment",
-      "automation",
-      "mac",
-      "osascript"
-    ],
-    "date": "2021-09-18T18:57:03.751Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/is-jxa",
-      "homepage": "https://github.com/sindresorhus/is-jxa#readme",
-      "repository": "https://github.com/sindresorhus/is-jxa"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -42845,6 +42805,46 @@
     ]
   },
   {
+    "name": "is-jxa",
+    "scope": "unscoped",
+    "version": "3.0.0",
+    "description": "Check if your code is running in a JXA environment",
+    "keywords": [
+      "jxa",
+      "macos",
+      "is",
+      "detect",
+      "check",
+      "process",
+      "environment",
+      "automation",
+      "mac",
+      "osascript"
+    ],
+    "date": "2021-09-18T18:57:03.751Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/is-jxa",
+      "homepage": "https://github.com/sindresorhus/is-jxa#readme",
+      "repository": "https://github.com/sindresorhus/is-jxa"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "has-ansi-cli",
     "scope": "unscoped",
     "version": "4.1.1",
@@ -42899,6 +42899,47 @@
       {
         "username": "qix",
         "email": "josh@junon.me"
+      }
+    ]
+  },
+  {
+    "name": "is-md",
+    "scope": "unscoped",
+    "version": "3.0.0",
+    "description": "Check if a file path is a Markdown file",
+    "keywords": [
+      "markdown",
+      "md",
+      "extensions",
+      "extension",
+      "file",
+      "path",
+      "filepath",
+      "check",
+      "is",
+      "detect"
+    ],
+    "date": "2021-05-04T14:31:47.587Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/is-md",
+      "homepage": "https://github.com/sindresorhus/is-md#readme",
+      "repository": "https://github.com/sindresorhus/is-md",
+      "bugs": "https://github.com/sindresorhus/is-md/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
       }
     ]
   },
@@ -43182,46 +43223,6 @@
     ]
   },
   {
-    "name": "is-md",
-    "scope": "unscoped",
-    "version": "3.0.0",
-    "description": "Check if a file path is a Markdown file",
-    "keywords": [
-      "markdown",
-      "md",
-      "extensions",
-      "extension",
-      "file",
-      "path",
-      "filepath",
-      "check",
-      "is",
-      "detect"
-    ],
-    "date": "2021-05-04T14:31:47.587Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/is-md",
-      "homepage": "https://github.com/sindresorhus/is-md#readme",
-      "repository": "https://github.com/sindresorhus/is-md"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "trayballoon",
     "scope": "unscoped",
     "version": "2.0.0",
@@ -43242,47 +43243,6 @@
     "date": "2021-08-17T12:00:24.175Z",
     "links": {
       "npm": "https://www.npmjs.com/package/trayballoon"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "filenamify-cli",
-    "scope": "unscoped",
-    "version": "2.1.0",
-    "description": "Convert a string to a valid safe filename on the command-line",
-    "keywords": [
-      "cli-app",
-      "cli",
-      "filename",
-      "safe",
-      "sanitize",
-      "file",
-      "name",
-      "string",
-      "path",
-      "filepath",
-      "convert",
-      "valid",
-      "dirname"
-    ],
-    "date": "2022-01-12T03:54:11.915Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/filenamify-cli"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -43324,6 +43284,47 @@
       "npm": "https://www.npmjs.com/package/date-now-cli",
       "homepage": "https://github.com/sindresorhus/date-now-cli#readme",
       "repository": "https://github.com/sindresorhus/date-now-cli"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "filenamify-cli",
+    "scope": "unscoped",
+    "version": "2.1.0",
+    "description": "Convert a string to a valid safe filename on the command-line",
+    "keywords": [
+      "cli-app",
+      "cli",
+      "filename",
+      "safe",
+      "sanitize",
+      "file",
+      "name",
+      "string",
+      "path",
+      "filepath",
+      "convert",
+      "valid",
+      "dirname"
+    ],
+    "date": "2022-01-12T03:54:11.915Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/filenamify-cli"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -43515,46 +43516,6 @@
     ]
   },
   {
-    "name": "indent-string-cli",
-    "scope": "unscoped",
-    "version": "3.0.0",
-    "description": "Indent each line in a string",
-    "keywords": [
-      "cli-app",
-      "cli",
-      "indent",
-      "string",
-      "str",
-      "pad",
-      "align",
-      "line",
-      "text"
-    ],
-    "date": "2021-10-16T13:13:40.755Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/indent-string-cli",
-      "homepage": "https://github.com/sindresorhus/indent-string-cli#readme",
-      "repository": "https://github.com/sindresorhus/indent-string-cli",
-      "bugs": "https://github.com/sindresorhus/indent-string-cli/issues"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "generator-chrome-extension",
     "scope": "unscoped",
     "version": "0.7.4",
@@ -43622,6 +43583,46 @@
       {
         "username": "ragingwind",
         "email": "ragingwind@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "indent-string-cli",
+    "scope": "unscoped",
+    "version": "3.0.0",
+    "description": "Indent each line in a string",
+    "keywords": [
+      "cli-app",
+      "cli",
+      "indent",
+      "string",
+      "str",
+      "pad",
+      "align",
+      "line",
+      "text"
+    ],
+    "date": "2021-10-16T13:13:40.755Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/indent-string-cli",
+      "homepage": "https://github.com/sindresorhus/indent-string-cli#readme",
+      "repository": "https://github.com/sindresorhus/indent-string-cli",
+      "bugs": "https://github.com/sindresorhus/indent-string-cli/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
       }
     ]
   },
@@ -43754,6 +43755,47 @@
       {
         "username": "stephenplusplus",
         "email": "sawchuk@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "is-public-domain",
+    "scope": "unscoped",
+    "version": "2.0.0",
+    "description": "Check if a domain is public",
+    "keywords": [
+      "domain",
+      "pulic",
+      "url",
+      "tld",
+      "is",
+      "detect",
+      "check"
+    ],
+    "date": "2021-08-10T10:23:15.827Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/is-public-domain",
+      "homepage": "https://github.com/sindresorhus/is-public-domain#readme",
+      "repository": "https://github.com/sindresorhus/is-public-domain"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      },
+      {
+        "username": "silverwind",
+        "email": "npm@silverwind.io"
       }
     ]
   },
@@ -44049,23 +44091,28 @@
     ]
   },
   {
-    "name": "do-not-disturb-cli",
+    "name": "magic-iterable",
     "scope": "unscoped",
     "version": "1.0.0",
-    "description": "Control the macOS `Do Not Disturb` feature from the command-line",
+    "description": "Call a method on all items in an iterable by calling it on the iterable itself",
     "keywords": [
-      "cli-app",
-      "cli",
-      "macos",
-      "swift",
-      "notifications"
+      "iterable",
+      "iterator",
+      "array",
+      "method",
+      "function",
+      "call",
+      "apply",
+      "proxy",
+      "proxies",
+      "es2015",
+      "magic"
     ],
-    "date": "2021-10-14T10:23:24.011Z",
+    "date": "2021-08-10T11:58:03.977Z",
     "links": {
-      "npm": "https://www.npmjs.com/package/do-not-disturb-cli",
-      "homepage": "https://github.com/sindresorhus/do-not-disturb-cli#readme",
-      "repository": "https://github.com/sindresorhus/do-not-disturb-cli",
-      "bugs": "https://github.com/sindresorhus/do-not-disturb-cli/issues"
+      "npm": "https://www.npmjs.com/package/magic-iterable",
+      "homepage": "https://github.com/sindresorhus/magic-iterable#readme",
+      "repository": "https://github.com/sindresorhus/magic-iterable"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -44128,28 +44175,23 @@
     ]
   },
   {
-    "name": "magic-iterable",
+    "name": "do-not-disturb-cli",
     "scope": "unscoped",
     "version": "1.0.0",
-    "description": "Call a method on all items in an iterable by calling it on the iterable itself",
+    "description": "Control the macOS `Do Not Disturb` feature from the command-line",
     "keywords": [
-      "iterable",
-      "iterator",
-      "array",
-      "method",
-      "function",
-      "call",
-      "apply",
-      "proxy",
-      "proxies",
-      "es2015",
-      "magic"
+      "cli-app",
+      "cli",
+      "macos",
+      "swift",
+      "notifications"
     ],
-    "date": "2021-08-10T11:58:03.977Z",
+    "date": "2021-10-14T10:23:24.011Z",
     "links": {
-      "npm": "https://www.npmjs.com/package/magic-iterable",
-      "homepage": "https://github.com/sindresorhus/magic-iterable#readme",
-      "repository": "https://github.com/sindresorhus/magic-iterable"
+      "npm": "https://www.npmjs.com/package/do-not-disturb-cli",
+      "homepage": "https://github.com/sindresorhus/do-not-disturb-cli#readme",
+      "repository": "https://github.com/sindresorhus/do-not-disturb-cli",
+      "bugs": "https://github.com/sindresorhus/do-not-disturb-cli/issues"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -44612,47 +44654,6 @@
       {
         "username": "sindresorhus",
         "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "is-public-domain",
-    "scope": "unscoped",
-    "version": "2.0.0",
-    "description": "Check if a domain is public",
-    "keywords": [
-      "domain",
-      "pulic",
-      "url",
-      "tld",
-      "is",
-      "detect",
-      "check"
-    ],
-    "date": "2021-08-10T10:23:15.827Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/is-public-domain",
-      "homepage": "https://github.com/sindresorhus/is-public-domain#readme",
-      "repository": "https://github.com/sindresorhus/is-public-domain"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      },
-      {
-        "username": "silverwind",
-        "email": "npm@silverwind.io"
       }
     ]
   },
@@ -45259,43 +45260,6 @@
     ]
   },
   {
-    "name": "is-github-down",
-    "scope": "unscoped",
-    "version": "3.0.0",
-    "description": "Check if GitHub is down",
-    "keywords": [
-      "cli-app",
-      "cli",
-      "github",
-      "down",
-      "check",
-      "up",
-      "status"
-    ],
-    "date": "2021-10-17T07:08:07.118Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/is-github-down",
-      "homepage": "https://github.com/sindresorhus/is-github-down#readme",
-      "repository": "https://github.com/sindresorhus/is-github-down"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "dev-null-cli",
     "scope": "unscoped",
     "version": "2.0.0",
@@ -45318,6 +45282,43 @@
       "homepage": "https://github.com/sindresorhus/dev-null-cli#readme",
       "repository": "https://github.com/sindresorhus/dev-null-cli",
       "bugs": "https://github.com/sindresorhus/dev-null-cli/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "is-github-down",
+    "scope": "unscoped",
+    "version": "3.0.0",
+    "description": "Check if GitHub is down",
+    "keywords": [
+      "cli-app",
+      "cli",
+      "github",
+      "down",
+      "check",
+      "up",
+      "status"
+    ],
+    "date": "2021-10-17T07:08:07.118Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/is-github-down",
+      "homepage": "https://github.com/sindresorhus/is-github-down#readme",
+      "repository": "https://github.com/sindresorhus/is-github-down"
     },
     "author": {
       "name": "Sindre Sorhus",

@@ -3272,6 +3272,42 @@
     ]
   },
   {
+    "name": "http2-wrapper",
+    "scope": "unscoped",
+    "version": "2.2.1",
+    "description": "HTTP2 client, just with the familiar `https` API",
+    "keywords": [
+      "http2",
+      "https",
+      "http",
+      "request"
+    ],
+    "date": "2023-11-10T16:11:05.951Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/http2-wrapper",
+      "homepage": "https://github.com/szmarczak/http2-wrapper#readme",
+      "repository": "https://github.com/szmarczak/http2-wrapper",
+      "bugs": "https://github.com/szmarczak/http2-wrapper/issues"
+    },
+    "author": {
+      "name": "Szymon Marczak"
+    },
+    "publisher": {
+      "username": "szmarczak",
+      "email": "sz.marczak@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      },
+      {
+        "username": "szmarczak",
+        "email": "sz.marczak@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "p-locate",
     "scope": "unscoped",
     "version": "6.0.0",
@@ -3317,42 +3353,6 @@
       {
         "username": "sindresorhus",
         "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "http2-wrapper",
-    "scope": "unscoped",
-    "version": "2.2.1",
-    "description": "HTTP2 client, just with the familiar `https` API",
-    "keywords": [
-      "http2",
-      "https",
-      "http",
-      "request"
-    ],
-    "date": "2023-11-10T16:11:05.951Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/http2-wrapper",
-      "homepage": "https://github.com/szmarczak/http2-wrapper#readme",
-      "repository": "https://github.com/szmarczak/http2-wrapper",
-      "bugs": "https://github.com/szmarczak/http2-wrapper/issues"
-    },
-    "author": {
-      "name": "Szymon Marczak"
-    },
-    "publisher": {
-      "username": "szmarczak",
-      "email": "sz.marczak@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      },
-      {
-        "username": "szmarczak",
-        "email": "sz.marczak@gmail.com"
       }
     ]
   },
@@ -6300,6 +6300,43 @@
     ]
   },
   {
+    "name": "run-applescript",
+    "scope": "unscoped",
+    "version": "7.0.0",
+    "description": "Run AppleScript and get the result",
+    "keywords": [
+      "macos",
+      "mac",
+      "applescript",
+      "osascript",
+      "run",
+      "execute"
+    ],
+    "date": "2023-12-18T23:16:52.202Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/run-applescript",
+      "homepage": "https://github.com/sindresorhus/run-applescript#readme",
+      "repository": "https://github.com/sindresorhus/run-applescript",
+      "bugs": "https://github.com/sindresorhus/run-applescript/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "path-match",
     "scope": "unscoped",
     "version": "1.2.4",
@@ -6350,43 +6387,6 @@
       {
         "username": "defunctzombie",
         "email": "shtylman@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "run-applescript",
-    "scope": "unscoped",
-    "version": "7.0.0",
-    "description": "Run AppleScript and get the result",
-    "keywords": [
-      "macos",
-      "mac",
-      "applescript",
-      "osascript",
-      "run",
-      "execute"
-    ],
-    "date": "2023-12-18T23:16:52.202Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/run-applescript",
-      "homepage": "https://github.com/sindresorhus/run-applescript#readme",
-      "repository": "https://github.com/sindresorhus/run-applescript",
-      "bugs": "https://github.com/sindresorhus/run-applescript/issues"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
       }
     ]
   },
@@ -6940,6 +6940,47 @@
     ]
   },
   {
+    "name": "redent",
+    "scope": "unscoped",
+    "version": "4.0.0",
+    "description": "Strip redundant indentation and indent the string",
+    "keywords": [
+      "string",
+      "strip",
+      "trim",
+      "indent",
+      "indentation",
+      "add",
+      "reindent",
+      "normalize",
+      "remove",
+      "whitespace",
+      "space"
+    ],
+    "date": "2021-05-03T19:21:04.019Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/redent",
+      "homepage": "https://github.com/sindresorhus/redent#readme",
+      "repository": "https://github.com/sindresorhus/redent"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "macos-release",
     "scope": "unscoped",
     "version": "3.3.0",
@@ -7413,47 +7454,6 @@
     ]
   },
   {
-    "name": "redent",
-    "scope": "unscoped",
-    "version": "4.0.0",
-    "description": "Strip redundant indentation and indent the string",
-    "keywords": [
-      "string",
-      "strip",
-      "trim",
-      "indent",
-      "indentation",
-      "add",
-      "reindent",
-      "normalize",
-      "remove",
-      "whitespace",
-      "space"
-    ],
-    "date": "2021-05-03T19:21:04.019Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/redent",
-      "homepage": "https://github.com/sindresorhus/redent#readme",
-      "repository": "https://github.com/sindresorhus/redent"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "p-cancelable",
     "scope": "unscoped",
     "version": "4.0.1",
@@ -7718,45 +7718,6 @@
     ]
   },
   {
-    "name": "unique-string",
-    "scope": "unscoped",
-    "version": "3.0.0",
-    "description": "Generate a unique random string",
-    "keywords": [
-      "unique",
-      "string",
-      "random",
-      "text",
-      "id",
-      "identifier",
-      "slug",
-      "hex"
-    ],
-    "date": "2021-04-05T08:20:51.892Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/unique-string",
-      "homepage": "https://github.com/sindresorhus/unique-string#readme",
-      "repository": "https://github.com/sindresorhus/unique-string",
-      "bugs": "https://github.com/sindresorhus/unique-string/issues"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "grunt-contrib-watch",
     "scope": "unscoped",
     "version": "1.1.0",
@@ -7805,6 +7766,45 @@
       {
         "username": "vladikoff",
         "email": "vlad@vladikoff.com"
+      }
+    ]
+  },
+  {
+    "name": "unique-string",
+    "scope": "unscoped",
+    "version": "3.0.0",
+    "description": "Generate a unique random string",
+    "keywords": [
+      "unique",
+      "string",
+      "random",
+      "text",
+      "id",
+      "identifier",
+      "slug",
+      "hex"
+    ],
+    "date": "2021-04-05T08:20:51.892Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/unique-string",
+      "homepage": "https://github.com/sindresorhus/unique-string#readme",
+      "repository": "https://github.com/sindresorhus/unique-string",
+      "bugs": "https://github.com/sindresorhus/unique-string/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
       }
     ]
   },
@@ -8700,6 +8700,43 @@
     ]
   },
   {
+    "name": "set-immediate-shim",
+    "scope": "unscoped",
+    "version": "3.1.0",
+    "description": "Simple setImmediate shim",
+    "keywords": [
+      "setimmediate",
+      "immediate",
+      "settimeout",
+      "timeout",
+      "shim",
+      "polyfill",
+      "ponyfill"
+    ],
+    "date": "2024-03-12T05:26:39.706Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/set-immediate-shim",
+      "homepage": "https://github.com/sindresorhus/set-immediate-shim#readme",
+      "repository": "https://github.com/sindresorhus/set-immediate-shim"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "public-ip",
     "scope": "unscoped",
     "version": "7.0.1",
@@ -8723,6 +8760,48 @@
       "homepage": "https://github.com/sindresorhus/public-ip#readme",
       "repository": "https://github.com/sindresorhus/public-ip",
       "bugs": "https://github.com/sindresorhus/public-ip/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "clipboardy",
+    "scope": "unscoped",
+    "version": "4.0.0",
+    "description": "Access the system clipboard (copy/paste)",
+    "keywords": [
+      "clipboard",
+      "copy",
+      "paste",
+      "copy-paste",
+      "pasteboard",
+      "read",
+      "write",
+      "pbcopy",
+      "clip",
+      "xclip",
+      "xsel"
+    ],
+    "date": "2023-10-23T08:10:35.028Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/clipboardy",
+      "homepage": "https://github.com/sindresorhus/clipboardy#readme",
+      "repository": "https://github.com/sindresorhus/clipboardy",
+      "bugs": "https://github.com/sindresorhus/clipboardy/issues"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -8771,48 +8850,6 @@
       {
         "username": "vdemedes",
         "email": "vadimdemedes@hey.com"
-      }
-    ]
-  },
-  {
-    "name": "clipboardy",
-    "scope": "unscoped",
-    "version": "4.0.0",
-    "description": "Access the system clipboard (copy/paste)",
-    "keywords": [
-      "clipboard",
-      "copy",
-      "paste",
-      "copy-paste",
-      "pasteboard",
-      "read",
-      "write",
-      "pbcopy",
-      "clip",
-      "xclip",
-      "xsel"
-    ],
-    "date": "2023-10-23T08:10:35.028Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/clipboardy",
-      "homepage": "https://github.com/sindresorhus/clipboardy#readme",
-      "repository": "https://github.com/sindresorhus/clipboardy",
-      "bugs": "https://github.com/sindresorhus/clipboardy/issues"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
       }
     ]
   },
@@ -10369,43 +10406,6 @@
     ]
   },
   {
-    "name": "load-json-file",
-    "scope": "unscoped",
-    "version": "7.0.1",
-    "description": "Read and parse a JSON file",
-    "keywords": [
-      "read",
-      "json",
-      "parse",
-      "file",
-      "fs",
-      "load"
-    ],
-    "date": "2021-09-13T04:47:45.199Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/load-json-file",
-      "homepage": "https://github.com/sindresorhus/load-json-file#readme",
-      "repository": "https://github.com/sindresorhus/load-json-file",
-      "bugs": "https://github.com/sindresorhus/load-json-file/issues"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "irregular-plurals",
     "scope": "unscoped",
     "version": "4.0.0",
@@ -10429,6 +10429,43 @@
       "homepage": "https://github.com/sindresorhus/irregular-plurals#readme",
       "repository": "https://github.com/sindresorhus/irregular-plurals",
       "bugs": "https://github.com/sindresorhus/irregular-plurals/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "load-json-file",
+    "scope": "unscoped",
+    "version": "7.0.1",
+    "description": "Read and parse a JSON file",
+    "keywords": [
+      "read",
+      "json",
+      "parse",
+      "file",
+      "fs",
+      "load"
+    ],
+    "date": "2021-09-13T04:47:45.199Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/load-json-file",
+      "homepage": "https://github.com/sindresorhus/load-json-file#readme",
+      "repository": "https://github.com/sindresorhus/load-json-file",
+      "bugs": "https://github.com/sindresorhus/load-json-file/issues"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -10975,6 +11012,58 @@
     ]
   },
   {
+    "name": "global-directory",
+    "scope": "unscoped",
+    "version": "4.0.1",
+    "description": "Get the directory of globally installed packages and binaries",
+    "keywords": [
+      "global",
+      "prefix",
+      "path",
+      "paths",
+      "npm",
+      "yarn",
+      "node",
+      "modules",
+      "node-modules",
+      "package",
+      "packages",
+      "binary",
+      "binaries",
+      "bin",
+      "directory",
+      "directories",
+      "npmrc",
+      "rc",
+      "config",
+      "root",
+      "resolve"
+    ],
+    "date": "2023-11-06T15:44:04.954Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/global-directory",
+      "homepage": "https://github.com/sindresorhus/global-directory#readme",
+      "repository": "https://github.com/sindresorhus/global-directory",
+      "bugs": "https://github.com/sindresorhus/global-directory/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "append-transform",
     "scope": "unscoped",
     "version": "2.0.0",
@@ -11022,58 +11111,6 @@
         "username": "novemberborn",
         "email": "mark@novemberborn.net"
       },
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "global-directory",
-    "scope": "unscoped",
-    "version": "4.0.1",
-    "description": "Get the directory of globally installed packages and binaries",
-    "keywords": [
-      "global",
-      "prefix",
-      "path",
-      "paths",
-      "npm",
-      "yarn",
-      "node",
-      "modules",
-      "node-modules",
-      "package",
-      "packages",
-      "binary",
-      "binaries",
-      "bin",
-      "directory",
-      "directories",
-      "npmrc",
-      "rc",
-      "config",
-      "root",
-      "resolve"
-    ],
-    "date": "2023-11-06T15:44:04.954Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/global-directory",
-      "homepage": "https://github.com/sindresorhus/global-directory#readme",
-      "repository": "https://github.com/sindresorhus/global-directory",
-      "bugs": "https://github.com/sindresorhus/global-directory/issues"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
       {
         "username": "sindresorhus",
         "email": "sindresorhus@gmail.com"
@@ -11523,43 +11560,6 @@
     ]
   },
   {
-    "name": "set-immediate-shim",
-    "scope": "unscoped",
-    "version": "3.1.0",
-    "description": "Simple setImmediate shim",
-    "keywords": [
-      "setimmediate",
-      "immediate",
-      "settimeout",
-      "timeout",
-      "shim",
-      "polyfill",
-      "ponyfill"
-    ],
-    "date": "2024-03-12T05:26:39.706Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/set-immediate-shim",
-      "homepage": "https://github.com/sindresorhus/set-immediate-shim#readme",
-      "repository": "https://github.com/sindresorhus/set-immediate-shim"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "terminal-image",
     "scope": "unscoped",
     "version": "3.0.0",
@@ -11938,6 +11938,44 @@
     ]
   },
   {
+    "name": "gulp-zip",
+    "scope": "unscoped",
+    "version": "6.0.0",
+    "description": "ZIP compress files",
+    "keywords": [
+      "gulpplugin",
+      "zip",
+      "archive",
+      "archiver",
+      "compress",
+      "compression",
+      "file"
+    ],
+    "date": "2023-11-03T10:24:23.624Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/gulp-zip",
+      "homepage": "https://github.com/sindresorhus/gulp-zip#readme",
+      "repository": "https://github.com/sindresorhus/gulp-zip",
+      "bugs": "https://github.com/sindresorhus/gulp-zip/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "is-npm",
     "scope": "unscoped",
     "version": "6.0.0",
@@ -11958,44 +11996,6 @@
       "npm": "https://www.npmjs.com/package/is-npm",
       "homepage": "https://github.com/sindresorhus/is-npm#readme",
       "repository": "https://github.com/sindresorhus/is-npm"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "gulp-zip",
-    "scope": "unscoped",
-    "version": "6.0.0",
-    "description": "ZIP compress files",
-    "keywords": [
-      "gulpplugin",
-      "zip",
-      "archive",
-      "archiver",
-      "compress",
-      "compression",
-      "file"
-    ],
-    "date": "2023-11-03T10:24:23.624Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/gulp-zip",
-      "homepage": "https://github.com/sindresorhus/gulp-zip#readme",
-      "repository": "https://github.com/sindresorhus/gulp-zip",
-      "bugs": "https://github.com/sindresorhus/gulp-zip/issues"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -12762,6 +12762,42 @@
     ]
   },
   {
+    "name": "repeating",
+    "scope": "unscoped",
+    "version": "4.0.0",
+    "description": "Repeat a string - fast",
+    "keywords": [
+      "repeat",
+      "string",
+      "repeating",
+      "text",
+      "fill",
+      "pad"
+    ],
+    "date": "2021-05-03T19:06:44.748Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/repeating",
+      "homepage": "https://github.com/sindresorhus/repeating#readme",
+      "repository": "https://github.com/sindresorhus/repeating"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "eslint-formatter-pretty",
     "scope": "unscoped",
     "version": "6.0.1",
@@ -13116,24 +13152,30 @@
     ]
   },
   {
-    "name": "electron-dl",
+    "name": "spdx-license-list",
     "scope": "unscoped",
-    "version": "4.0.0",
-    "description": "Simplified file downloads for your Electron app",
+    "version": "6.9.0",
+    "description": "List of SPDX licenses",
     "keywords": [
-      "electron",
-      "app",
-      "file",
-      "download",
-      "downloader",
-      "progress"
+      "spdx",
+      "license",
+      "licenses",
+      "mit",
+      "bsd",
+      "list",
+      "open source",
+      "software",
+      "id",
+      "ids",
+      "identifiers",
+      "set"
     ],
-    "date": "2024-05-01T13:49:04.771Z",
+    "date": "2024-02-21T18:59:09.716Z",
     "links": {
-      "npm": "https://www.npmjs.com/package/electron-dl",
-      "homepage": "https://github.com/sindresorhus/electron-dl#readme",
-      "repository": "https://github.com/sindresorhus/electron-dl",
-      "bugs": "https://github.com/sindresorhus/electron-dl/issues"
+      "npm": "https://www.npmjs.com/package/spdx-license-list",
+      "homepage": "https://github.com/sindresorhus/spdx-license-list#readme",
+      "repository": "https://github.com/sindresorhus/spdx-license-list",
+      "bugs": "https://github.com/sindresorhus/spdx-license-list/issues"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -13194,49 +13236,6 @@
     ]
   },
   {
-    "name": "spdx-license-list",
-    "scope": "unscoped",
-    "version": "6.9.0",
-    "description": "List of SPDX licenses",
-    "keywords": [
-      "spdx",
-      "license",
-      "licenses",
-      "mit",
-      "bsd",
-      "list",
-      "open source",
-      "software",
-      "id",
-      "ids",
-      "identifiers",
-      "set"
-    ],
-    "date": "2024-02-21T18:59:09.716Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/spdx-license-list",
-      "homepage": "https://github.com/sindresorhus/spdx-license-list#readme",
-      "repository": "https://github.com/sindresorhus/spdx-license-list",
-      "bugs": "https://github.com/sindresorhus/spdx-license-list/issues"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "imagemin-cli",
     "scope": "unscoped",
     "version": "8.0.0",
@@ -13260,6 +13259,53 @@
       "homepage": "https://github.com/imagemin/imagemin-cli#readme",
       "repository": "https://github.com/imagemin/imagemin-cli",
       "bugs": "https://github.com/imagemin/imagemin-cli/issues"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "@sindresorhus/slugify",
+    "scope": "sindresorhus",
+    "version": "2.2.1",
+    "description": "Slugify a string",
+    "keywords": [
+      "string",
+      "slugify",
+      "slug",
+      "url",
+      "url-safe",
+      "urlify",
+      "transliterate",
+      "transliteration",
+      "deburr",
+      "unicode",
+      "ascii",
+      "text",
+      "decamelize",
+      "pretty",
+      "clean",
+      "filename",
+      "id"
+    ],
+    "date": "2023-05-17T11:35:06.892Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40sindresorhus%2Fslugify",
+      "homepage": "https://github.com/sindresorhus/slugify#readme",
+      "repository": "https://github.com/sindresorhus/slugify"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
     },
     "publisher": {
       "username": "sindresorhus",
@@ -13354,53 +13400,6 @@
       "name": "Sindre Sorhus",
       "email": "sindresorhus@gmail.com",
       "url": "sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "@sindresorhus/slugify",
-    "scope": "sindresorhus",
-    "version": "2.2.1",
-    "description": "Slugify a string",
-    "keywords": [
-      "string",
-      "slugify",
-      "slug",
-      "url",
-      "url-safe",
-      "urlify",
-      "transliterate",
-      "transliteration",
-      "deburr",
-      "unicode",
-      "ascii",
-      "text",
-      "decamelize",
-      "pretty",
-      "clean",
-      "filename",
-      "id"
-    ],
-    "date": "2023-05-17T11:35:06.892Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40sindresorhus%2Fslugify",
-      "homepage": "https://github.com/sindresorhus/slugify#readme",
-      "repository": "https://github.com/sindresorhus/slugify"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
       "username": "sindresorhus"
     },
     "publisher": {
@@ -14164,46 +14163,6 @@
     ]
   },
   {
-    "name": "has-yarn",
-    "scope": "unscoped",
-    "version": "3.0.0",
-    "description": "Check if a project is using Yarn",
-    "keywords": [
-      "yarn",
-      "has",
-      "detect",
-      "is",
-      "project",
-      "app",
-      "module",
-      "package",
-      "manager",
-      "npm"
-    ],
-    "date": "2021-09-10T18:23:37.532Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/has-yarn",
-      "homepage": "https://github.com/sindresorhus/has-yarn#readme",
-      "repository": "https://github.com/sindresorhus/has-yarn"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "on-change",
     "scope": "unscoped",
     "version": "5.0.1",
@@ -14249,6 +14208,46 @@
       {
         "username": "darrenpaulwright",
         "email": "Darren@DarrenPaulWright.com"
+      }
+    ]
+  },
+  {
+    "name": "has-yarn",
+    "scope": "unscoped",
+    "version": "3.0.0",
+    "description": "Check if a project is using Yarn",
+    "keywords": [
+      "yarn",
+      "has",
+      "detect",
+      "is",
+      "project",
+      "app",
+      "module",
+      "package",
+      "manager",
+      "npm"
+    ],
+    "date": "2021-09-10T18:23:37.532Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/has-yarn",
+      "homepage": "https://github.com/sindresorhus/has-yarn#readme",
+      "repository": "https://github.com/sindresorhus/has-yarn"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
       }
     ]
   },
@@ -14921,6 +14920,44 @@
     ]
   },
   {
+    "name": "array-equal",
+    "scope": "unscoped",
+    "version": "1.0.2",
+    "description": "Check if two arrays are equal",
+    "keywords": [
+      "array",
+      "equal",
+      "equals",
+      "same",
+      "identical",
+      "equality",
+      "compare",
+      "validate"
+    ],
+    "date": "2023-11-16T17:08:39.617Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/array-equal",
+      "homepage": "https://github.com/sindresorhus/array-equal#readme",
+      "repository": "https://github.com/sindresorhus/array-equal",
+      "bugs": "https://github.com/sindresorhus/array-equal/issues"
+    },
+    "author": {
+      "name": "Jonathan Ong",
+      "email": "me@jongleberry.com",
+      "url": "http://jongleberry.com"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "caller-path",
     "scope": "unscoped",
     "version": "4.0.0",
@@ -15010,44 +15047,6 @@
       {
         "username": "xhmikosr",
         "email": "xhmikosr@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "array-equal",
-    "scope": "unscoped",
-    "version": "1.0.2",
-    "description": "Check if two arrays are equal",
-    "keywords": [
-      "array",
-      "equal",
-      "equals",
-      "same",
-      "identical",
-      "equality",
-      "compare",
-      "validate"
-    ],
-    "date": "2023-11-16T17:08:39.617Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/array-equal",
-      "homepage": "https://github.com/sindresorhus/array-equal#readme",
-      "repository": "https://github.com/sindresorhus/array-equal",
-      "bugs": "https://github.com/sindresorhus/array-equal/issues"
-    },
-    "author": {
-      "name": "Jonathan Ong",
-      "email": "me@jongleberry.com",
-      "url": "http://jongleberry.com"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
       }
     ]
   },
@@ -15491,7 +15490,8 @@
     "links": {
       "npm": "https://www.npmjs.com/package/is-html",
       "homepage": "https://github.com/sindresorhus/is-html#readme",
-      "repository": "https://github.com/sindresorhus/is-html"
+      "repository": "https://github.com/sindresorhus/is-html",
+      "bugs": "https://github.com/sindresorhus/is-html/issues"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -16013,51 +16013,6 @@
     ]
   },
   {
-    "name": "electron-unhandled",
-    "scope": "unscoped",
-    "version": "5.0.0",
-    "description": "Catch unhandled errors and promise rejections in your Electron app",
-    "keywords": [
-      "electron",
-      "unhandled",
-      "error",
-      "exception",
-      "promise",
-      "rejection",
-      "uncaught",
-      "handler",
-      "stack",
-      "report",
-      "log",
-      "logger",
-      "debug",
-      "debugging"
-    ],
-    "date": "2024-05-01T08:41:16.037Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/electron-unhandled",
-      "homepage": "https://github.com/sindresorhus/electron-unhandled#readme",
-      "repository": "https://github.com/sindresorhus/electron-unhandled",
-      "bugs": "https://github.com/sindresorhus/electron-unhandled/issues"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "read-package-up",
     "scope": "unscoped",
     "version": "11.0.0",
@@ -16171,6 +16126,43 @@
     "author": {
       "name": "Shinnosuke Watanabe",
       "url": "https://github.com/shinnn"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "electron-dl",
+    "scope": "unscoped",
+    "version": "4.0.0",
+    "description": "Simplified file downloads for your Electron app",
+    "keywords": [
+      "electron",
+      "app",
+      "file",
+      "download",
+      "downloader",
+      "progress"
+    ],
+    "date": "2024-05-01T13:49:04.771Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/electron-dl",
+      "homepage": "https://github.com/sindresorhus/electron-dl#readme",
+      "repository": "https://github.com/sindresorhus/electron-dl",
+      "bugs": "https://github.com/sindresorhus/electron-dl/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
     },
     "publisher": {
       "username": "sindresorhus",
@@ -16723,49 +16715,6 @@
     ]
   },
   {
-    "name": "gulp-jsvalidate",
-    "scope": "unscoped",
-    "version": "6.1.0",
-    "description": "Validate JavaScript code and report possible syntax errors",
-    "keywords": [
-      "gulpplugin",
-      "js",
-      "javascript",
-      "syntax",
-      "errors",
-      "check",
-      "lint",
-      "parse",
-      "esprima",
-      "ast",
-      "source",
-      "code"
-    ],
-    "date": "2024-08-12T19:57:49.390Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/gulp-jsvalidate",
-      "homepage": "https://github.com/sindresorhus/gulp-jsvalidate#readme",
-      "repository": "https://github.com/sindresorhus/gulp-jsvalidate",
-      "bugs": "https://github.com/sindresorhus/gulp-jsvalidate/issues"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "gif2webp-bin",
     "scope": "unscoped",
     "version": "5.0.0",
@@ -16807,6 +16756,49 @@
       {
         "username": "1000ch",
         "email": "shogosensui@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "gulp-jsvalidate",
+    "scope": "unscoped",
+    "version": "6.1.0",
+    "description": "Validate JavaScript code and report possible syntax errors",
+    "keywords": [
+      "gulpplugin",
+      "js",
+      "javascript",
+      "syntax",
+      "errors",
+      "check",
+      "lint",
+      "parse",
+      "esprima",
+      "ast",
+      "source",
+      "code"
+    ],
+    "date": "2024-08-12T19:57:49.390Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/gulp-jsvalidate",
+      "homepage": "https://github.com/sindresorhus/gulp-jsvalidate#readme",
+      "repository": "https://github.com/sindresorhus/gulp-jsvalidate",
+      "bugs": "https://github.com/sindresorhus/gulp-jsvalidate/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
       }
     ]
   },
@@ -17016,6 +17008,52 @@
     ]
   },
   {
+    "name": "is-progressive",
+    "scope": "unscoped",
+    "version": "5.0.1",
+    "description": "Check if JPEG images are progressive",
+    "keywords": [
+      "jpg",
+      "jpeg",
+      "progressive",
+      "file",
+      "image",
+      "img",
+      "picture",
+      "photo",
+      "detect",
+      "check",
+      "is",
+      "exif",
+      "buffer",
+      "stream",
+      "fs"
+    ],
+    "date": "2024-07-06T13:46:13.235Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/is-progressive",
+      "homepage": "https://github.com/sindresorhus/is-progressive#readme",
+      "repository": "https://github.com/sindresorhus/is-progressive",
+      "bugs": "https://github.com/sindresorhus/is-progressive/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "get-windows",
     "scope": "unscoped",
     "version": "9.2.0",
@@ -17056,52 +17094,6 @@
       "homepage": "https://github.com/sindresorhus/get-windows#readme",
       "repository": "https://github.com/sindresorhus/get-windows",
       "bugs": "https://github.com/sindresorhus/get-windows/issues"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "is-progressive",
-    "scope": "unscoped",
-    "version": "5.0.1",
-    "description": "Check if JPEG images are progressive",
-    "keywords": [
-      "jpg",
-      "jpeg",
-      "progressive",
-      "file",
-      "image",
-      "img",
-      "picture",
-      "photo",
-      "detect",
-      "check",
-      "is",
-      "exif",
-      "buffer",
-      "stream",
-      "fs"
-    ],
-    "date": "2024-07-06T13:46:13.235Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/is-progressive",
-      "homepage": "https://github.com/sindresorhus/is-progressive#readme",
-      "repository": "https://github.com/sindresorhus/is-progressive",
-      "bugs": "https://github.com/sindresorhus/is-progressive/issues"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -17612,42 +17604,6 @@
       {
         "username": "fregante",
         "email": "opensource@bfred.it"
-      }
-    ]
-  },
-  {
-    "name": "repeating",
-    "scope": "unscoped",
-    "version": "4.0.0",
-    "description": "Repeat a string - fast",
-    "keywords": [
-      "repeat",
-      "string",
-      "repeating",
-      "text",
-      "fill",
-      "pad"
-    ],
-    "date": "2021-05-03T19:06:44.748Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/repeating",
-      "homepage": "https://github.com/sindresorhus/repeating#readme",
-      "repository": "https://github.com/sindresorhus/repeating"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
       }
     ]
   },
@@ -18374,28 +18330,32 @@
     ]
   },
   {
-    "name": "electron-main-fetch",
+    "name": "capture-website",
     "scope": "unscoped",
-    "version": "2.0.0",
-    "description": "Use the browser Fetch API from the main process in Electron",
+    "version": "4.1.0",
+    "description": "Capture screenshots of websites",
     "keywords": [
-      "electron",
-      "fetch",
-      "request",
-      "get",
-      "requests",
-      "http",
-      "https",
-      "whatwg",
-      "web",
-      "browser"
+      "capture",
+      "screenshot",
+      "website",
+      "page",
+      "url",
+      "screen",
+      "webshot",
+      "puppeteer",
+      "chrome",
+      "chromium",
+      "image",
+      "png",
+      "jpg",
+      "jpeg"
     ],
-    "date": "2024-05-01T09:43:51.885Z",
+    "date": "2024-01-29T07:36:32.813Z",
     "links": {
-      "npm": "https://www.npmjs.com/package/electron-main-fetch",
-      "homepage": "https://github.com/sindresorhus/electron-main-fetch#readme",
-      "repository": "https://github.com/sindresorhus/electron-main-fetch",
-      "bugs": "https://github.com/sindresorhus/electron-main-fetch/issues"
+      "npm": "https://www.npmjs.com/package/capture-website",
+      "homepage": "https://github.com/sindresorhus/capture-website#readme",
+      "repository": "https://github.com/sindresorhus/capture-website",
+      "bugs": "https://github.com/sindresorhus/capture-website/issues"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -18439,51 +18399,6 @@
       "homepage": "https://github.com/sindresorhus/terminal-image-cli#readme",
       "repository": "https://github.com/sindresorhus/terminal-image-cli",
       "bugs": "https://github.com/sindresorhus/terminal-image-cli/issues"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "capture-website",
-    "scope": "unscoped",
-    "version": "4.1.0",
-    "description": "Capture screenshots of websites",
-    "keywords": [
-      "capture",
-      "screenshot",
-      "website",
-      "page",
-      "url",
-      "screen",
-      "webshot",
-      "puppeteer",
-      "chrome",
-      "chromium",
-      "image",
-      "png",
-      "jpg",
-      "jpeg"
-    ],
-    "date": "2024-01-29T07:36:32.813Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/capture-website",
-      "homepage": "https://github.com/sindresorhus/capture-website#readme",
-      "repository": "https://github.com/sindresorhus/capture-website",
-      "bugs": "https://github.com/sindresorhus/capture-website/issues"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -18587,45 +18502,6 @@
     ]
   },
   {
-    "name": "wait-for-localhost-cli",
-    "scope": "unscoped",
-    "version": "3.2.0",
-    "description": "Wait for localhost to be ready from the command-line",
-    "keywords": [
-      "cli-app",
-      "cli",
-      "wait",
-      "localhost",
-      "server",
-      "port",
-      "delay",
-      "sleep",
-      "ready"
-    ],
-    "date": "2024-05-18T22:07:04.281Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/wait-for-localhost-cli",
-      "homepage": "https://github.com/sindresorhus/wait-for-localhost-cli#readme",
-      "repository": "https://github.com/sindresorhus/wait-for-localhost-cli"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "github-username",
     "scope": "unscoped",
     "version": "8.0.0",
@@ -18664,33 +18540,26 @@
     ]
   },
   {
-    "name": "electron-timber",
+    "name": "wait-for-localhost-cli",
     "scope": "unscoped",
-    "version": "1.0.0",
-    "description": "Pretty logger for Electron apps",
+    "version": "3.2.0",
+    "description": "Wait for localhost to be ready from the command-line",
     "keywords": [
-      "electron",
-      "logger",
-      "logging",
-      "log",
-      "timber",
-      "lumber",
-      "dev",
-      "development",
-      "stdout",
-      "stderr",
-      "stream",
-      "error",
-      "debug",
-      "pretty",
-      "console"
+      "cli-app",
+      "cli",
+      "wait",
+      "localhost",
+      "server",
+      "port",
+      "delay",
+      "sleep",
+      "ready"
     ],
-    "date": "2024-05-01T09:13:20.051Z",
+    "date": "2024-05-18T22:07:04.281Z",
     "links": {
-      "npm": "https://www.npmjs.com/package/electron-timber",
-      "homepage": "https://github.com/sindresorhus/electron-timber#readme",
-      "repository": "https://github.com/sindresorhus/electron-timber",
-      "bugs": "https://github.com/sindresorhus/electron-timber/issues"
+      "npm": "https://www.npmjs.com/package/wait-for-localhost-cli",
+      "homepage": "https://github.com/sindresorhus/wait-for-localhost-cli#readme",
+      "repository": "https://github.com/sindresorhus/wait-for-localhost-cli"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -19217,61 +19086,6 @@
     ]
   },
   {
-    "name": "stylelint-config-xo-space",
-    "scope": "unscoped",
-    "version": "1.0.0",
-    "description": "Stylelint shareable config for XO with 2-space indent",
-    "keywords": [
-      "stylelint",
-      "stylelint-config",
-      "xo",
-      "space",
-      "code",
-      "quality",
-      "style",
-      "css",
-      "lint",
-      "linter",
-      "jscs",
-      "jshint",
-      "jslint",
-      "eslint",
-      "validate",
-      "code style",
-      "standard",
-      "strict",
-      "check",
-      "checker",
-      "verify",
-      "enforce",
-      "hint",
-      "simple"
-    ],
-    "date": "2024-05-01T12:16:52.344Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/stylelint-config-xo-space",
-      "homepage": "https://github.com/xojs/stylelint-config-xo-space#readme",
-      "repository": "https://github.com/xojs/stylelint-config-xo-space",
-      "bugs": "https://github.com/xojs/stylelint-config-xo-space/issues"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "term-img-cli",
     "scope": "unscoped",
     "version": "4.0.0",
@@ -19756,52 +19570,6 @@
     ]
   },
   {
-    "name": "is-camera-on-cli",
-    "scope": "unscoped",
-    "version": "3.0.0",
-    "description": "Check if the built-in Mac camera is on",
-    "keywords": [
-      "cli-app",
-      "cli",
-      "macos",
-      "camera",
-      "webcam",
-      "cam",
-      "builtin",
-      "built-in",
-      "internal",
-      "status",
-      "on",
-      "off",
-      "enabled",
-      "disabled",
-      "used",
-      "swift"
-    ],
-    "date": "2024-05-01T19:39:53.315Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/is-camera-on-cli",
-      "homepage": "https://github.com/sindresorhus/is-camera-on-cli#readme",
-      "repository": "https://github.com/sindresorhus/is-camera-on-cli"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "filenamify-url",
     "scope": "unscoped",
     "version": "3.1.0",
@@ -19939,6 +19707,48 @@
       "npm": "https://www.npmjs.com/package/%40sindresorhus%2Ftransliterate",
       "homepage": "https://github.com/sindresorhus/transliterate#readme",
       "repository": "https://github.com/sindresorhus/transliterate"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "root-check",
+    "scope": "unscoped",
+    "version": "2.0.0",
+    "description": "Try to downgrade the permissions of a process with root privileges and block access if it fails",
+    "keywords": [
+      "sudo",
+      "root",
+      "user",
+      "permissions",
+      "uid",
+      "block",
+      "prevent",
+      "stop",
+      "downgrade",
+      "drop",
+      "privileges",
+      "check"
+    ],
+    "date": "2021-05-03T20:40:14.092Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/root-check",
+      "homepage": "https://github.com/sindresorhus/root-check#readme",
+      "repository": "https://github.com/sindresorhus/root-check"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -20100,48 +19910,6 @@
       "homepage": "https://github.com/sindresorhus/hash-object#readme",
       "repository": "https://github.com/sindresorhus/hash-object",
       "bugs": "https://github.com/sindresorhus/hash-object/issues"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "root-check",
-    "scope": "unscoped",
-    "version": "2.0.0",
-    "description": "Try to downgrade the permissions of a process with root privileges and block access if it fails",
-    "keywords": [
-      "sudo",
-      "root",
-      "user",
-      "permissions",
-      "uid",
-      "block",
-      "prevent",
-      "stop",
-      "downgrade",
-      "drop",
-      "privileges",
-      "check"
-    ],
-    "date": "2021-05-03T20:40:14.092Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/root-check",
-      "homepage": "https://github.com/sindresorhus/root-check#readme",
-      "repository": "https://github.com/sindresorhus/root-check"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -20554,48 +20322,6 @@
     ]
   },
   {
-    "name": "math-clamp",
-    "scope": "unscoped",
-    "version": "2.2.1",
-    "description": "Clamp a number",
-    "keywords": [
-      "math",
-      "number",
-      "numbers",
-      "clamp",
-      "limit",
-      "min",
-      "max",
-      "minimum",
-      "maximum",
-      "between",
-      "range"
-    ],
-    "date": "2024-02-03T10:26:41.185Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/math-clamp",
-      "homepage": "https://github.com/sindresorhus/math-clamp#readme",
-      "repository": "https://github.com/sindresorhus/math-clamp",
-      "bugs": "https://github.com/sindresorhus/math-clamp/issues"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "fkill",
     "scope": "unscoped",
     "version": "9.0.0",
@@ -20623,6 +20349,48 @@
       "homepage": "https://github.com/sindresorhus/fkill#readme",
       "repository": "https://github.com/sindresorhus/fkill",
       "bugs": "https://github.com/sindresorhus/fkill/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "math-clamp",
+    "scope": "unscoped",
+    "version": "2.2.1",
+    "description": "Clamp a number",
+    "keywords": [
+      "math",
+      "number",
+      "numbers",
+      "clamp",
+      "limit",
+      "min",
+      "max",
+      "minimum",
+      "maximum",
+      "between",
+      "range"
+    ],
+    "date": "2024-02-03T10:26:41.185Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/math-clamp",
+      "homepage": "https://github.com/sindresorhus/math-clamp#readme",
+      "repository": "https://github.com/sindresorhus/math-clamp",
+      "bugs": "https://github.com/sindresorhus/math-clamp/issues"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -22661,6 +22429,51 @@
     ]
   },
   {
+    "name": "electron-unhandled",
+    "scope": "unscoped",
+    "version": "5.0.0",
+    "description": "Catch unhandled errors and promise rejections in your Electron app",
+    "keywords": [
+      "electron",
+      "unhandled",
+      "error",
+      "exception",
+      "promise",
+      "rejection",
+      "uncaught",
+      "handler",
+      "stack",
+      "report",
+      "log",
+      "logger",
+      "debug",
+      "debugging"
+    ],
+    "date": "2024-05-01T08:41:16.037Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/electron-unhandled",
+      "homepage": "https://github.com/sindresorhus/electron-unhandled#readme",
+      "repository": "https://github.com/sindresorhus/electron-unhandled",
+      "bugs": "https://github.com/sindresorhus/electron-unhandled/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "yeoman-assert",
     "scope": "unscoped",
     "version": "3.1.1",
@@ -23031,6 +22844,46 @@
     ]
   },
   {
+    "name": "gulp-debug",
+    "scope": "unscoped",
+    "version": "5.0.1",
+    "description": "Debug Vinyl file streams to see what files are run through your Gulp pipeline",
+    "keywords": [
+      "gulpplugin",
+      "debug",
+      "debugging",
+      "inspect",
+      "log",
+      "logger",
+      "vinyl",
+      "file",
+      "fs"
+    ],
+    "date": "2023-11-03T08:41:41.427Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/gulp-debug",
+      "homepage": "https://github.com/sindresorhus/gulp-debug#readme",
+      "repository": "https://github.com/sindresorhus/gulp-debug",
+      "bugs": "https://github.com/sindresorhus/gulp-debug/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "p-some",
     "scope": "unscoped",
     "version": "6.0.0",
@@ -23056,46 +22909,6 @@
       "npm": "https://www.npmjs.com/package/p-some",
       "homepage": "https://github.com/sindresorhus/p-some#readme",
       "repository": "https://github.com/sindresorhus/p-some"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "gulp-debug",
-    "scope": "unscoped",
-    "version": "5.0.1",
-    "description": "Debug Vinyl file streams to see what files are run through your Gulp pipeline",
-    "keywords": [
-      "gulpplugin",
-      "debug",
-      "debugging",
-      "inspect",
-      "log",
-      "logger",
-      "vinyl",
-      "file",
-      "fs"
-    ],
-    "date": "2023-11-03T08:41:41.427Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/gulp-debug",
-      "homepage": "https://github.com/sindresorhus/gulp-debug#readme",
-      "repository": "https://github.com/sindresorhus/gulp-debug",
-      "bugs": "https://github.com/sindresorhus/gulp-debug/issues"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -23521,46 +23334,6 @@
     ]
   },
   {
-    "name": "xdg-trashdir",
-    "scope": "unscoped",
-    "version": "3.1.0",
-    "description": "Get the correct trash path on Linux",
-    "keywords": [
-      "dir",
-      "file",
-      "linux",
-      "recycle",
-      "trash",
-      "xdg"
-    ],
-    "date": "2019-09-07T15:06:44.921Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/xdg-trashdir",
-      "homepage": "https://github.com/kevva/xdg-trashdir#readme",
-      "repository": "https://github.com/kevva/xdg-trashdir"
-    },
-    "author": {
-      "name": "Kevin Mårtensson",
-      "email": "kevinmartensson@gmail.com",
-      "url": "https://github.com/kevva",
-      "username": "kevva"
-    },
-    "publisher": {
-      "username": "kevva",
-      "email": "kevinmartensson@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "kevva",
-        "email": "kevinmartensson@gmail.com"
-      },
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "strip-ansi-cli",
     "scope": "unscoped",
     "version": "4.0.0",
@@ -23616,6 +23389,46 @@
       {
         "username": "qix",
         "email": "josh@junon.me"
+      }
+    ]
+  },
+  {
+    "name": "xdg-trashdir",
+    "scope": "unscoped",
+    "version": "3.1.0",
+    "description": "Get the correct trash path on Linux",
+    "keywords": [
+      "dir",
+      "file",
+      "linux",
+      "recycle",
+      "trash",
+      "xdg"
+    ],
+    "date": "2019-09-07T15:06:44.921Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/xdg-trashdir",
+      "homepage": "https://github.com/kevva/xdg-trashdir#readme",
+      "repository": "https://github.com/kevva/xdg-trashdir"
+    },
+    "author": {
+      "name": "Kevin Mårtensson",
+      "email": "kevinmartensson@gmail.com",
+      "url": "https://github.com/kevva",
+      "username": "kevva"
+    },
+    "publisher": {
+      "username": "kevva",
+      "email": "kevinmartensson@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "kevva",
+        "email": "kevinmartensson@gmail.com"
+      },
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
       }
     ]
   },
@@ -23825,53 +23638,6 @@
     ]
   },
   {
-    "name": "replace-string",
-    "scope": "unscoped",
-    "version": "4.0.0",
-    "description": "Replace all substring matches in a string",
-    "keywords": [
-      "replace",
-      "string",
-      "text",
-      "all",
-      "many",
-      "multiple",
-      "global",
-      "match",
-      "matches",
-      "replacement",
-      "replacer",
-      "modify",
-      "substring",
-      "sub-string",
-      "needle",
-      "search",
-      "replaceall"
-    ],
-    "date": "2021-08-09T20:24:04.023Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/replace-string",
-      "homepage": "https://github.com/sindresorhus/replace-string#readme",
-      "repository": "https://github.com/sindresorhus/replace-string"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "chunkify",
     "scope": "unscoped",
     "version": "5.0.0",
@@ -23909,6 +23675,53 @@
       "npm": "https://www.npmjs.com/package/chunkify",
       "homepage": "https://github.com/sindresorhus/chunkify#readme",
       "repository": "https://github.com/sindresorhus/chunkify"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "replace-string",
+    "scope": "unscoped",
+    "version": "4.0.0",
+    "description": "Replace all substring matches in a string",
+    "keywords": [
+      "replace",
+      "string",
+      "text",
+      "all",
+      "many",
+      "multiple",
+      "global",
+      "match",
+      "matches",
+      "replacement",
+      "replacer",
+      "modify",
+      "substring",
+      "sub-string",
+      "needle",
+      "search",
+      "replaceall"
+    ],
+    "date": "2021-08-09T20:24:04.023Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/replace-string",
+      "homepage": "https://github.com/sindresorhus/replace-string#readme",
+      "repository": "https://github.com/sindresorhus/replace-string"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -24373,6 +24186,45 @@
     ]
   },
   {
+    "name": "random-object-key",
+    "scope": "unscoped",
+    "version": "4.0.0",
+    "description": "Get a random key from an object",
+    "keywords": [
+      "random",
+      "randomize",
+      "math",
+      "object",
+      "key",
+      "pick",
+      "select",
+      "choice"
+    ],
+    "date": "2024-04-09T14:38:39.709Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/random-object-key",
+      "homepage": "https://github.com/sindresorhus/random-object-key#readme",
+      "repository": "https://github.com/sindresorhus/random-object-key",
+      "bugs": "https://github.com/sindresorhus/random-object-key/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "p-debounce",
     "scope": "unscoped",
     "version": "4.0.0",
@@ -24403,45 +24255,6 @@
       "npm": "https://www.npmjs.com/package/p-debounce",
       "homepage": "https://github.com/sindresorhus/p-debounce#readme",
       "repository": "https://github.com/sindresorhus/p-debounce"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "random-object-key",
-    "scope": "unscoped",
-    "version": "4.0.0",
-    "description": "Get a random key from an object",
-    "keywords": [
-      "random",
-      "randomize",
-      "math",
-      "object",
-      "key",
-      "pick",
-      "select",
-      "choice"
-    ],
-    "date": "2024-04-09T14:38:39.709Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/random-object-key",
-      "homepage": "https://github.com/sindresorhus/random-object-key#readme",
-      "repository": "https://github.com/sindresorhus/random-object-key",
-      "bugs": "https://github.com/sindresorhus/random-object-key/issues"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -24635,6 +24448,48 @@
     ]
   },
   {
+    "name": "p-state",
+    "scope": "unscoped",
+    "version": "2.0.1",
+    "description": "Inspect the state of a promise",
+    "keywords": [
+      "promise",
+      "state",
+      "inspect",
+      "inspection",
+      "reflect",
+      "reflection",
+      "introspect",
+      "introspection",
+      "pending",
+      "fulfilled",
+      "rejected"
+    ],
+    "date": "2024-03-16T18:43:34.089Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/p-state",
+      "homepage": "https://github.com/sindresorhus/p-state#readme",
+      "repository": "https://github.com/sindresorhus/p-state",
+      "bugs": "https://github.com/sindresorhus/p-state/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "ink-gradient",
     "scope": "unscoped",
     "version": "3.0.0",
@@ -24663,48 +24518,6 @@
       "homepage": "https://github.com/sindresorhus/ink-gradient#readme",
       "repository": "https://github.com/sindresorhus/ink-gradient",
       "bugs": "https://github.com/sindresorhus/ink-gradient/issues"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "p-state",
-    "scope": "unscoped",
-    "version": "2.0.1",
-    "description": "Inspect the state of a promise",
-    "keywords": [
-      "promise",
-      "state",
-      "inspect",
-      "inspection",
-      "reflect",
-      "reflection",
-      "introspect",
-      "introspection",
-      "pending",
-      "fulfilled",
-      "rejected"
-    ],
-    "date": "2024-03-16T18:43:34.089Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/p-state",
-      "homepage": "https://github.com/sindresorhus/p-state#readme",
-      "repository": "https://github.com/sindresorhus/p-state",
-      "bugs": "https://github.com/sindresorhus/p-state/issues"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -25114,6 +24927,37 @@
     ]
   },
   {
+    "name": "aperture",
+    "scope": "unscoped",
+    "version": "7.0.0",
+    "description": "Record the screen on macOS",
+    "date": "2024-03-27T02:03:28.338Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/aperture",
+      "homepage": "https://github.com/wulkano/aperture-node#readme",
+      "repository": "https://github.com/wulkano/aperture-node",
+      "bugs": "https://github.com/wulkano/aperture-node/issues"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      },
+      {
+        "username": "codetheory",
+        "email": "thecodetheory@gmail.com"
+      },
+      {
+        "username": "matheuss",
+        "email": "matheus.frndes@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "downgrade-root",
     "scope": "unscoped",
     "version": "2.0.0",
@@ -25152,37 +24996,6 @@
       {
         "username": "sindresorhus",
         "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "aperture",
-    "scope": "unscoped",
-    "version": "7.0.0",
-    "description": "Record the screen on macOS",
-    "date": "2024-03-27T02:03:28.338Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/aperture",
-      "homepage": "https://github.com/wulkano/aperture-node#readme",
-      "repository": "https://github.com/wulkano/aperture-node",
-      "bugs": "https://github.com/wulkano/aperture-node/issues"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      },
-      {
-        "username": "codetheory",
-        "email": "thecodetheory@gmail.com"
-      },
-      {
-        "username": "matheuss",
-        "email": "matheus.frndes@gmail.com"
       }
     ]
   },
@@ -25439,45 +25252,6 @@
     ]
   },
   {
-    "name": "hex-rgb",
-    "scope": "unscoped",
-    "version": "5.0.0",
-    "description": "Convert HEX color to RGBA",
-    "keywords": [
-      "hex",
-      "rgb",
-      "rgba",
-      "color",
-      "colour",
-      "convert",
-      "conversion",
-      "converter",
-      "css"
-    ],
-    "date": "2021-05-03T12:21:33.891Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/hex-rgb",
-      "homepage": "https://github.com/sindresorhus/hex-rgb#readme",
-      "repository": "https://github.com/sindresorhus/hex-rgb"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "grunt-usemin",
     "scope": "unscoped",
     "version": "3.1.1",
@@ -25544,6 +25318,45 @@
       {
         "username": "paulirish",
         "email": "paul.irish@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "hex-rgb",
+    "scope": "unscoped",
+    "version": "5.0.0",
+    "description": "Convert HEX color to RGBA",
+    "keywords": [
+      "hex",
+      "rgb",
+      "rgba",
+      "color",
+      "colour",
+      "convert",
+      "conversion",
+      "converter",
+      "css"
+    ],
+    "date": "2021-05-03T12:21:33.891Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/hex-rgb",
+      "homepage": "https://github.com/sindresorhus/hex-rgb#readme",
+      "repository": "https://github.com/sindresorhus/hex-rgb"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
       }
     ]
   },
@@ -25925,6 +25738,47 @@
     ]
   },
   {
+    "name": "electron-main-fetch",
+    "scope": "unscoped",
+    "version": "2.0.0",
+    "description": "Use the browser Fetch API from the main process in Electron",
+    "keywords": [
+      "electron",
+      "fetch",
+      "request",
+      "get",
+      "requests",
+      "http",
+      "https",
+      "whatwg",
+      "web",
+      "browser"
+    ],
+    "date": "2024-05-01T09:43:51.885Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/electron-main-fetch",
+      "homepage": "https://github.com/sindresorhus/electron-main-fetch#readme",
+      "repository": "https://github.com/sindresorhus/electron-main-fetch",
+      "bugs": "https://github.com/sindresorhus/electron-main-fetch/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "parse-help",
     "scope": "unscoped",
     "version": "2.0.0",
@@ -26119,44 +25973,6 @@
     ]
   },
   {
-    "name": "extract-stack",
-    "scope": "unscoped",
-    "version": "3.0.0",
-    "description": "Extract the actual stack of an error",
-    "keywords": [
-      "extract",
-      "stack",
-      "error",
-      "trace",
-      "traces",
-      "lines",
-      "parse",
-      "get"
-    ],
-    "date": "2021-04-07T18:53:20.063Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/extract-stack",
-      "homepage": "https://github.com/sindresorhus/extract-stack#readme",
-      "repository": "https://github.com/sindresorhus/extract-stack"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "archive-extensions",
     "scope": "unscoped",
     "version": "3.0.0",
@@ -26183,6 +25999,44 @@
       "homepage": "https://github.com/sindresorhus/archive-extensions#readme",
       "repository": "https://github.com/sindresorhus/archive-extensions",
       "bugs": "https://github.com/sindresorhus/archive-extensions/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "extract-stack",
+    "scope": "unscoped",
+    "version": "3.0.0",
+    "description": "Extract the actual stack of an error",
+    "keywords": [
+      "extract",
+      "stack",
+      "error",
+      "trace",
+      "traces",
+      "lines",
+      "parse",
+      "get"
+    ],
+    "date": "2021-04-07T18:53:20.063Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/extract-stack",
+      "homepage": "https://github.com/sindresorhus/extract-stack#readme",
+      "repository": "https://github.com/sindresorhus/extract-stack"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -26302,6 +26156,52 @@
     ]
   },
   {
+    "name": "electron-timber",
+    "scope": "unscoped",
+    "version": "1.0.0",
+    "description": "Pretty logger for Electron apps",
+    "keywords": [
+      "electron",
+      "logger",
+      "logging",
+      "log",
+      "timber",
+      "lumber",
+      "dev",
+      "development",
+      "stdout",
+      "stderr",
+      "stream",
+      "error",
+      "debug",
+      "pretty",
+      "console"
+    ],
+    "date": "2024-05-01T09:13:20.051Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/electron-timber",
+      "homepage": "https://github.com/sindresorhus/electron-timber#readme",
+      "repository": "https://github.com/sindresorhus/electron-timber",
+      "bugs": "https://github.com/sindresorhus/electron-timber/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "find-versions-cli",
     "scope": "unscoped",
     "version": "5.0.0",
@@ -26326,6 +26226,47 @@
       "npm": "https://www.npmjs.com/package/find-versions-cli",
       "homepage": "https://github.com/sindresorhus/find-versions-cli#readme",
       "repository": "https://github.com/sindresorhus/find-versions-cli"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "get-range",
+    "scope": "unscoped",
+    "version": "4.0.0",
+    "description": "Lazy number range generator",
+    "keywords": [
+      "range",
+      "xrange",
+      "generator",
+      "generate",
+      "iterator",
+      "iterable",
+      "iterate",
+      "gen",
+      "get",
+      "number",
+      "numbers"
+    ],
+    "date": "2024-01-02T10:11:55.285Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/get-range",
+      "homepage": "https://github.com/sindresorhus/get-range#readme",
+      "repository": "https://github.com/sindresorhus/get-range"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -26441,47 +26382,6 @@
       {
         "username": "queckezz",
         "email": "fabian.eichenberger@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "get-range",
-    "scope": "unscoped",
-    "version": "4.0.0",
-    "description": "Lazy number range generator",
-    "keywords": [
-      "range",
-      "xrange",
-      "generator",
-      "generate",
-      "iterator",
-      "iterable",
-      "iterate",
-      "gen",
-      "get",
-      "number",
-      "numbers"
-    ],
-    "date": "2024-01-02T10:11:55.285Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/get-range",
-      "homepage": "https://github.com/sindresorhus/get-range#readme",
-      "repository": "https://github.com/sindresorhus/get-range"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
       }
     ]
   },
@@ -26662,6 +26562,61 @@
     ]
   },
   {
+    "name": "stylelint-config-xo-space",
+    "scope": "unscoped",
+    "version": "1.0.0",
+    "description": "Stylelint shareable config for XO with 2-space indent",
+    "keywords": [
+      "stylelint",
+      "stylelint-config",
+      "xo",
+      "space",
+      "code",
+      "quality",
+      "style",
+      "css",
+      "lint",
+      "linter",
+      "jscs",
+      "jshint",
+      "jslint",
+      "eslint",
+      "validate",
+      "code style",
+      "standard",
+      "strict",
+      "check",
+      "checker",
+      "verify",
+      "enforce",
+      "hint",
+      "simple"
+    ],
+    "date": "2024-05-01T12:16:52.344Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/stylelint-config-xo-space",
+      "homepage": "https://github.com/xojs/stylelint-config-xo-space#readme",
+      "repository": "https://github.com/xojs/stylelint-config-xo-space",
+      "bugs": "https://github.com/xojs/stylelint-config-xo-space/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "default-uid",
     "scope": "unscoped",
     "version": "2.0.0",
@@ -26788,40 +26743,6 @@
     ]
   },
   {
-    "name": "pid-port",
-    "scope": "unscoped",
-    "version": "1.0.0",
-    "description": "Get the ID of the process that uses a certain port",
-    "keywords": [
-      "pid",
-      "port",
-      "ports",
-      "netstat",
-      "process",
-      "processes",
-      "id",
-      "convert",
-      "converter"
-    ],
-    "date": "2023-11-04T15:03:48.173Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/pid-port",
-      "homepage": "https://github.com/sindresorhus/pid-port#readme",
-      "repository": "https://github.com/sindresorhus/pid-port",
-      "bugs": "https://github.com/sindresorhus/pid-port/issues"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "default-browser-cli",
     "scope": "unscoped",
     "version": "4.0.0",
@@ -26855,6 +26776,40 @@
       "email": "sindresorhus@gmail.com",
       "url": "https://sindresorhus.com",
       "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "pid-port",
+    "scope": "unscoped",
+    "version": "1.0.0",
+    "description": "Get the ID of the process that uses a certain port",
+    "keywords": [
+      "pid",
+      "port",
+      "ports",
+      "netstat",
+      "process",
+      "processes",
+      "id",
+      "convert",
+      "converter"
+    ],
+    "date": "2023-11-04T15:03:48.173Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/pid-port",
+      "homepage": "https://github.com/sindresorhus/pid-port#readme",
+      "repository": "https://github.com/sindresorhus/pid-port",
+      "bugs": "https://github.com/sindresorhus/pid-port/issues"
     },
     "publisher": {
       "username": "sindresorhus",
@@ -27414,49 +27369,6 @@
     ]
   },
   {
-    "name": "is-gif",
-    "scope": "unscoped",
-    "version": "4.0.1",
-    "description": "Check if a Buffer/Uint8Array is a GIF image",
-    "keywords": [
-      "gif",
-      "graphics",
-      "image",
-      "picture",
-      "photo",
-      "type",
-      "detect",
-      "check",
-      "is",
-      "exif",
-      "binary",
-      "buffer",
-      "uint8array"
-    ],
-    "date": "2021-09-02T14:12:33.134Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/is-gif",
-      "homepage": "https://github.com/sindresorhus/is-gif#readme",
-      "repository": "https://github.com/sindresorhus/is-gif"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "pokemon-cli",
     "scope": "unscoped",
     "version": "3.0.0",
@@ -27482,6 +27394,92 @@
       "homepage": "https://github.com/sindresorhus/pokemon-cli#readme",
       "repository": "https://github.com/sindresorhus/pokemon-cli",
       "bugs": "https://github.com/sindresorhus/pokemon-cli/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "npm-user-cli",
+    "scope": "unscoped",
+    "version": "4.0.0",
+    "description": "Get user info of an npm user",
+    "keywords": [
+      "cli-app",
+      "cli",
+      "npm",
+      "user",
+      "username",
+      "homepage",
+      "email",
+      "get",
+      "website",
+      "scrape",
+      "info",
+      "profile"
+    ],
+    "date": "2024-02-28T07:42:55.705Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/npm-user-cli",
+      "homepage": "https://github.com/sindresorhus/npm-user-cli#readme",
+      "repository": "https://github.com/sindresorhus/npm-user-cli",
+      "bugs": "https://github.com/sindresorhus/npm-user-cli/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "is-gif",
+    "scope": "unscoped",
+    "version": "4.0.1",
+    "description": "Check if a Buffer/Uint8Array is a GIF image",
+    "keywords": [
+      "gif",
+      "graphics",
+      "image",
+      "picture",
+      "photo",
+      "type",
+      "detect",
+      "check",
+      "is",
+      "exif",
+      "binary",
+      "buffer",
+      "uint8array"
+    ],
+    "date": "2021-09-02T14:12:33.134Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/is-gif",
+      "homepage": "https://github.com/sindresorhus/is-gif#readme",
+      "repository": "https://github.com/sindresorhus/is-gif"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -27538,30 +27536,72 @@
     ]
   },
   {
-    "name": "npm-user-cli",
+    "name": "random-word-cli",
     "scope": "unscoped",
-    "version": "4.0.0",
-    "description": "Get user info of an npm user",
+    "version": "2.0.0",
+    "description": "Get a random English word",
     "keywords": [
       "cli-app",
       "cli",
-      "npm",
-      "user",
-      "username",
-      "homepage",
-      "email",
-      "get",
-      "website",
-      "scrape",
-      "info",
-      "profile"
+      "word",
+      "words",
+      "random",
+      "en",
+      "english",
+      "dict",
+      "dictionary"
     ],
-    "date": "2024-02-28T07:42:55.705Z",
+    "date": "2024-04-30T15:32:38.609Z",
     "links": {
-      "npm": "https://www.npmjs.com/package/npm-user-cli",
-      "homepage": "https://github.com/sindresorhus/npm-user-cli#readme",
-      "repository": "https://github.com/sindresorhus/npm-user-cli",
-      "bugs": "https://github.com/sindresorhus/npm-user-cli/issues"
+      "npm": "https://www.npmjs.com/package/random-word-cli",
+      "homepage": "https://github.com/sindresorhus/random-word-cli#readme",
+      "repository": "https://github.com/sindresorhus/random-word-cli"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "is-camera-on-cli",
+    "scope": "unscoped",
+    "version": "3.0.0",
+    "description": "Check if the built-in Mac camera is on",
+    "keywords": [
+      "cli-app",
+      "cli",
+      "macos",
+      "camera",
+      "webcam",
+      "cam",
+      "builtin",
+      "built-in",
+      "internal",
+      "status",
+      "on",
+      "off",
+      "enabled",
+      "disabled",
+      "used",
+      "swift"
+    ],
+    "date": "2024-05-01T19:39:53.315Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/is-camera-on-cli",
+      "homepage": "https://github.com/sindresorhus/is-camera-on-cli#readme",
+      "repository": "https://github.com/sindresorhus/is-camera-on-cli"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -27657,45 +27697,6 @@
       "homepage": "https://github.com/sindresorhus/modify-filename#readme",
       "repository": "https://github.com/sindresorhus/modify-filename",
       "bugs": "https://github.com/sindresorhus/modify-filename/issues"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "random-word-cli",
-    "scope": "unscoped",
-    "version": "2.0.0",
-    "description": "Get a random English word",
-    "keywords": [
-      "cli-app",
-      "cli",
-      "word",
-      "words",
-      "random",
-      "en",
-      "english",
-      "dict",
-      "dictionary"
-    ],
-    "date": "2024-04-30T15:32:38.609Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/random-word-cli",
-      "homepage": "https://github.com/sindresorhus/random-word-cli#readme",
-      "repository": "https://github.com/sindresorhus/random-word-cli"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -29014,45 +29015,6 @@
     ]
   },
   {
-    "name": "round-to",
-    "scope": "unscoped",
-    "version": "6.0.0",
-    "description": "Round a number to a specific number of decimal places: `1.234` → `1.2`",
-    "keywords": [
-      "round",
-      "number",
-      "decimal",
-      "places",
-      "ceil",
-      "floor",
-      "math",
-      "increment",
-      "precision"
-    ],
-    "date": "2021-11-05T18:28:44.958Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/round-to",
-      "homepage": "https://github.com/sindresorhus/round-to#readme",
-      "repository": "https://github.com/sindresorhus/round-to"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "gulp-strip-debug",
     "scope": "unscoped",
     "version": "6.0.0",
@@ -29122,6 +29084,45 @@
       "name": "Sindre Sorhus",
       "email": "sindresorhus@gmail.com",
       "url": "sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "round-to",
+    "scope": "unscoped",
+    "version": "6.0.0",
+    "description": "Round a number to a specific number of decimal places: `1.234` → `1.2`",
+    "keywords": [
+      "round",
+      "number",
+      "decimal",
+      "places",
+      "ceil",
+      "floor",
+      "math",
+      "increment",
+      "precision"
+    ],
+    "date": "2021-11-05T18:28:44.958Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/round-to",
+      "homepage": "https://github.com/sindresorhus/round-to#readme",
+      "repository": "https://github.com/sindresorhus/round-to"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
       "username": "sindresorhus"
     },
     "publisher": {
@@ -29475,49 +29476,6 @@
     ]
   },
   {
-    "name": "neat-csv",
-    "scope": "unscoped",
-    "version": "7.0.0",
-    "description": "Fast CSV parser",
-    "keywords": [
-      "parse",
-      "csv",
-      "comma",
-      "separated",
-      "values",
-      "tab",
-      "delimiter",
-      "separator",
-      "text",
-      "string",
-      "buffer",
-      "stream",
-      "parser"
-    ],
-    "date": "2021-10-18T11:36:39.264Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/neat-csv",
-      "homepage": "https://github.com/sindresorhus/neat-csv#readme",
-      "repository": "https://github.com/sindresorhus/neat-csv"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "ky-universal",
     "scope": "unscoped",
     "version": "0.12.0",
@@ -29577,6 +29535,49 @@
     ]
   },
   {
+    "name": "neat-csv",
+    "scope": "unscoped",
+    "version": "7.0.0",
+    "description": "Fast CSV parser",
+    "keywords": [
+      "parse",
+      "csv",
+      "comma",
+      "separated",
+      "values",
+      "tab",
+      "delimiter",
+      "separator",
+      "text",
+      "string",
+      "buffer",
+      "stream",
+      "parser"
+    ],
+    "date": "2021-10-18T11:36:39.264Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/neat-csv",
+      "homepage": "https://github.com/sindresorhus/neat-csv#readme",
+      "repository": "https://github.com/sindresorhus/neat-csv"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "ncname",
     "scope": "unscoped",
     "version": "3.0.0",
@@ -29598,47 +29599,6 @@
       "npm": "https://www.npmjs.com/package/ncname",
       "homepage": "https://github.com/sindresorhus/ncname#readme",
       "repository": "https://github.com/sindresorhus/ncname"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "remote-git-tags",
-    "scope": "unscoped",
-    "version": "4.0.0",
-    "description": "Get tags from a remote Git repo",
-    "keywords": [
-      "git",
-      "tags",
-      "tag",
-      "remote",
-      "ls-remote",
-      "ls",
-      "repo",
-      "repository",
-      "commit",
-      "sha",
-      "url"
-    ],
-    "date": "2021-08-09T20:09:12.154Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/remote-git-tags",
-      "homepage": "https://github.com/sindresorhus/remote-git-tags#readme",
-      "repository": "https://github.com/sindresorhus/remote-git-tags"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -29794,6 +29754,47 @@
       "npm": "https://www.npmjs.com/package/is-supported-regexp-flag",
       "homepage": "https://github.com/sindresorhus/is-supported-regexp-flag#readme",
       "repository": "https://github.com/sindresorhus/is-supported-regexp-flag"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "remote-git-tags",
+    "scope": "unscoped",
+    "version": "4.0.0",
+    "description": "Get tags from a remote Git repo",
+    "keywords": [
+      "git",
+      "tags",
+      "tag",
+      "remote",
+      "ls-remote",
+      "ls",
+      "repo",
+      "repository",
+      "commit",
+      "sha",
+      "url"
+    ],
+    "date": "2021-08-09T20:09:12.154Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/remote-git-tags",
+      "homepage": "https://github.com/sindresorhus/remote-git-tags#readme",
+      "repository": "https://github.com/sindresorhus/remote-git-tags"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -31512,6 +31513,55 @@
     ]
   },
   {
+    "name": "screenshot-stream",
+    "scope": "unscoped",
+    "version": "4.2.0",
+    "description": "Capture screenshot of a website and return it as a stream",
+    "keywords": [
+      "image",
+      "page",
+      "phantom",
+      "phantomjs",
+      "resolution",
+      "screen",
+      "screenshot",
+      "size",
+      "stream",
+      "url"
+    ],
+    "date": "2017-06-11T13:17:31.995Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/screenshot-stream",
+      "homepage": "https://github.com/kevva/screenshot-stream#readme",
+      "repository": "https://github.com/kevva/screenshot-stream",
+      "bugs": "https://github.com/kevva/screenshot-stream/issues"
+    },
+    "author": {
+      "name": "Kevin Mårtensson",
+      "email": "kevinmartensson@gmail.com",
+      "url": "github.com/kevva",
+      "username": "kevva"
+    },
+    "publisher": {
+      "username": "kevva",
+      "email": "kevinmartensson@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "kevva",
+        "email": "kevinmartensson@gmail.com"
+      },
+      {
+        "username": "samverschueren",
+        "email": "sam.verschueren@gmail.com"
+      },
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "@yeoman/eslint",
     "scope": "yeoman",
     "version": "0.2.0",
@@ -32269,55 +32319,6 @@
     ]
   },
   {
-    "name": "screenshot-stream",
-    "scope": "unscoped",
-    "version": "4.2.0",
-    "description": "Capture screenshot of a website and return it as a stream",
-    "keywords": [
-      "image",
-      "page",
-      "phantom",
-      "phantomjs",
-      "resolution",
-      "screen",
-      "screenshot",
-      "size",
-      "stream",
-      "url"
-    ],
-    "date": "2017-06-11T13:17:31.995Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/screenshot-stream",
-      "homepage": "https://github.com/kevva/screenshot-stream#readme",
-      "repository": "https://github.com/kevva/screenshot-stream",
-      "bugs": "https://github.com/kevva/screenshot-stream/issues"
-    },
-    "author": {
-      "name": "Kevin Mårtensson",
-      "email": "kevinmartensson@gmail.com",
-      "url": "github.com/kevva",
-      "username": "kevva"
-    },
-    "publisher": {
-      "username": "kevva",
-      "email": "kevinmartensson@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "kevva",
-        "email": "kevinmartensson@gmail.com"
-      },
-      {
-        "username": "samverschueren",
-        "email": "sam.verschueren@gmail.com"
-      },
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "grunt-dependency-check",
     "scope": "unscoped",
     "version": "1.1.0",
@@ -32972,6 +32973,45 @@
     ]
   },
   {
+    "name": "gulp-bom",
+    "scope": "unscoped",
+    "version": "5.0.0",
+    "description": "Add a UTF-8 BOM to files",
+    "keywords": [
+      "gulpplugin",
+      "bom",
+      "byte",
+      "order",
+      "mark",
+      "utf8",
+      "utf-8",
+      "add",
+      "prepend"
+    ],
+    "date": "2023-10-31T19:05:05.904Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/gulp-bom",
+      "homepage": "https://github.com/sindresorhus/gulp-bom#readme",
+      "repository": "https://github.com/sindresorhus/gulp-bom"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "grunt-strip-css-comments",
     "scope": "unscoped",
     "version": "1.3.0",
@@ -33000,45 +33040,6 @@
       "name": "Sindre Sorhus",
       "email": "sindresorhus@gmail.com",
       "url": "sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "gulp-bom",
-    "scope": "unscoped",
-    "version": "5.0.0",
-    "description": "Add a UTF-8 BOM to files",
-    "keywords": [
-      "gulpplugin",
-      "bom",
-      "byte",
-      "order",
-      "mark",
-      "utf8",
-      "utf-8",
-      "add",
-      "prepend"
-    ],
-    "date": "2023-10-31T19:05:05.904Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/gulp-bom",
-      "homepage": "https://github.com/sindresorhus/gulp-bom#readme",
-      "repository": "https://github.com/sindresorhus/gulp-bom"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
       "username": "sindresorhus"
     },
     "publisher": {
@@ -33288,6 +33289,41 @@
     ]
   },
   {
+    "name": "sindresorhus",
+    "scope": "unscoped",
+    "version": "3.0.2",
+    "description": "The Sindre Sorhus CLI",
+    "keywords": [
+      "cli-app",
+      "cli",
+      "sindresorhus",
+      "unicorns"
+    ],
+    "date": "2023-06-11T10:55:27.657Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/sindresorhus",
+      "homepage": "https://github.com/sindresorhus/sindresorhus-cli#readme",
+      "repository": "https://github.com/sindresorhus/sindresorhus-cli",
+      "bugs": "https://github.com/sindresorhus/sindresorhus-cli/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "react-extras",
     "scope": "unscoped",
     "version": "3.0.1",
@@ -33335,22 +33371,34 @@
     ]
   },
   {
-    "name": "sindresorhus",
+    "name": "file-icon",
     "scope": "unscoped",
-    "version": "3.0.2",
-    "description": "The Sindre Sorhus CLI",
+    "version": "5.1.1",
+    "description": "Get the icon of a file or app as a PNG image (macOS)",
     "keywords": [
-      "cli-app",
-      "cli",
-      "sindresorhus",
-      "unicorns"
+      "macos",
+      "file",
+      "icon",
+      "app",
+      "png",
+      "application",
+      "icons",
+      "path",
+      "filepath",
+      "bundle",
+      "id",
+      "image",
+      "size",
+      "swift",
+      "pid",
+      "process",
+      "id"
     ],
-    "date": "2023-06-11T10:55:27.657Z",
+    "date": "2022-12-09T12:18:27.230Z",
     "links": {
-      "npm": "https://www.npmjs.com/package/sindresorhus",
-      "homepage": "https://github.com/sindresorhus/sindresorhus-cli#readme",
-      "repository": "https://github.com/sindresorhus/sindresorhus-cli",
-      "bugs": "https://github.com/sindresorhus/sindresorhus-cli/issues"
+      "npm": "https://www.npmjs.com/package/file-icon",
+      "homepage": "https://github.com/sindresorhus/file-icon#readme",
+      "repository": "https://github.com/sindresorhus/file-icon"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -33390,53 +33438,6 @@
       "homepage": "https://github.com/sindresorhus/protocolify#readme",
       "repository": "https://github.com/sindresorhus/protocolify",
       "bugs": "https://github.com/sindresorhus/protocolify/issues"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "file-icon",
-    "scope": "unscoped",
-    "version": "5.1.1",
-    "description": "Get the icon of a file or app as a PNG image (macOS)",
-    "keywords": [
-      "macos",
-      "file",
-      "icon",
-      "app",
-      "png",
-      "application",
-      "icons",
-      "path",
-      "filepath",
-      "bundle",
-      "id",
-      "image",
-      "size",
-      "swift",
-      "pid",
-      "process",
-      "id"
-    ],
-    "date": "2022-12-09T12:18:27.230Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/file-icon",
-      "homepage": "https://github.com/sindresorhus/file-icon#readme",
-      "repository": "https://github.com/sindresorhus/file-icon"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -33542,6 +33543,46 @@
     ]
   },
   {
+    "name": "github-add-collab",
+    "scope": "unscoped",
+    "version": "2.0.2",
+    "description": "Add collaborators to Github repos",
+    "keywords": [
+      "api",
+      "collab",
+      "github",
+      "repo",
+      "repositories"
+    ],
+    "date": "2016-06-02T08:08:40.099Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/github-add-collab",
+      "homepage": "https://github.com/kevva/github-add-collab#readme",
+      "repository": "https://github.com/kevva/github-add-collab",
+      "bugs": "https://github.com/kevva/github-add-collab/issues"
+    },
+    "author": {
+      "name": "Kevin Mårtensson",
+      "email": "kevinmartensson@gmail.com",
+      "url": "github.com/kevva",
+      "username": "kevva"
+    },
+    "publisher": {
+      "username": "kevva",
+      "email": "kevinmartensson@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "kevva",
+        "email": "kevinmartensson@gmail.com"
+      },
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "grunt-strip-json-comments",
     "scope": "unscoped",
     "version": "2.2.0",
@@ -33581,46 +33622,6 @@
       "email": "sindresorhus@gmail.com"
     },
     "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "github-add-collab",
-    "scope": "unscoped",
-    "version": "2.0.2",
-    "description": "Add collaborators to Github repos",
-    "keywords": [
-      "api",
-      "collab",
-      "github",
-      "repo",
-      "repositories"
-    ],
-    "date": "2016-06-02T08:08:40.099Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/github-add-collab",
-      "homepage": "https://github.com/kevva/github-add-collab#readme",
-      "repository": "https://github.com/kevva/github-add-collab",
-      "bugs": "https://github.com/kevva/github-add-collab/issues"
-    },
-    "author": {
-      "name": "Kevin Mårtensson",
-      "email": "kevinmartensson@gmail.com",
-      "url": "github.com/kevva",
-      "username": "kevva"
-    },
-    "publisher": {
-      "username": "kevva",
-      "email": "kevinmartensson@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "kevva",
-        "email": "kevinmartensson@gmail.com"
-      },
       {
         "username": "sindresorhus",
         "email": "sindresorhus@gmail.com"
@@ -34641,48 +34642,6 @@
     ]
   },
   {
-    "name": "comment-regex",
-    "scope": "unscoped",
-    "version": "2.0.0",
-    "description": "Regular expression for matching JavaScript comments",
-    "keywords": [
-      "text",
-      "string",
-      "regex",
-      "regexp",
-      "match",
-      "test",
-      "find",
-      "pattern",
-      "comment",
-      "comments",
-      "js",
-      "javascript",
-      "line",
-      "block"
-    ],
-    "date": "2021-10-13T17:03:49.039Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/comment-regex"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "strip-json-comments-cli",
     "scope": "unscoped",
     "version": "3.0.0",
@@ -34711,6 +34670,48 @@
       "homepage": "https://github.com/sindresorhus/strip-json-comments-cli#readme",
       "repository": "https://github.com/sindresorhus/strip-json-comments-cli",
       "bugs": "https://github.com/sindresorhus/strip-json-comments-cli/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "comment-regex",
+    "scope": "unscoped",
+    "version": "2.0.0",
+    "description": "Regular expression for matching JavaScript comments",
+    "keywords": [
+      "text",
+      "string",
+      "regex",
+      "regexp",
+      "match",
+      "test",
+      "find",
+      "pattern",
+      "comment",
+      "comments",
+      "js",
+      "javascript",
+      "line",
+      "block"
+    ],
+    "date": "2021-10-13T17:03:49.039Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/comment-regex"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -34977,49 +34978,6 @@
     ]
   },
   {
-    "name": "rev-file",
-    "scope": "unscoped",
-    "version": "4.0.0",
-    "description": "Get the revved file path of a file",
-    "keywords": [
-      "rev",
-      "revving",
-      "web",
-      "file",
-      "name",
-      "filename",
-      "path",
-      "cache",
-      "caching",
-      "fs",
-      "hash",
-      "md5"
-    ],
-    "date": "2021-11-11T07:06:56.729Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/rev-file",
-      "homepage": "https://github.com/sindresorhus/rev-file#readme",
-      "repository": "https://github.com/sindresorhus/rev-file",
-      "bugs": "https://github.com/sindresorhus/rev-file/issues"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "@yeoman/api",
     "scope": "yeoman",
     "version": "0.0.2",
@@ -35078,6 +35036,49 @@
       {
         "username": "ruyadorno",
         "email": "ruyadorno@hotmail.com"
+      }
+    ]
+  },
+  {
+    "name": "rev-file",
+    "scope": "unscoped",
+    "version": "4.0.0",
+    "description": "Get the revved file path of a file",
+    "keywords": [
+      "rev",
+      "revving",
+      "web",
+      "file",
+      "name",
+      "filename",
+      "path",
+      "cache",
+      "caching",
+      "fs",
+      "hash",
+      "md5"
+    ],
+    "date": "2021-11-11T07:06:56.729Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/rev-file",
+      "homepage": "https://github.com/sindresorhus/rev-file#readme",
+      "repository": "https://github.com/sindresorhus/rev-file",
+      "bugs": "https://github.com/sindresorhus/rev-file/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
       }
     ]
   },
@@ -35968,6 +35969,52 @@
     ]
   },
   {
+    "name": "gulp-strip-json-comments",
+    "scope": "unscoped",
+    "version": "5.0.0",
+    "description": "Strip comments from JSON. Lets you use comments in your JSON files!",
+    "keywords": [
+      "gulpplugin",
+      "json",
+      "strip",
+      "remove",
+      "delete",
+      "trim",
+      "comments",
+      "multiline",
+      "parse",
+      "config",
+      "configuration",
+      "settings",
+      "util",
+      "env",
+      "environment"
+    ],
+    "date": "2023-11-01T19:08:03.898Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/gulp-strip-json-comments",
+      "homepage": "https://github.com/sindresorhus/gulp-strip-json-comments#readme",
+      "repository": "https://github.com/sindresorhus/gulp-strip-json-comments",
+      "bugs": "https://github.com/sindresorhus/gulp-strip-json-comments/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "yoctodelay",
     "scope": "unscoped",
     "version": "2.0.0",
@@ -36016,33 +36063,25 @@
     ]
   },
   {
-    "name": "gulp-strip-json-comments",
+    "name": "xbar",
     "scope": "unscoped",
-    "version": "5.0.0",
-    "description": "Strip comments from JSON. Lets you use comments in your JSON files!",
+    "version": "3.0.0",
+    "description": "Simplifies xbar app plugin creation",
     "keywords": [
-      "gulpplugin",
-      "json",
-      "strip",
-      "remove",
-      "delete",
-      "trim",
-      "comments",
-      "multiline",
-      "parse",
-      "config",
-      "configuration",
-      "settings",
-      "util",
-      "env",
-      "environment"
+      "xbar",
+      "bitbar",
+      "macos",
+      "menubar",
+      "app",
+      "bit",
+      "bar"
     ],
-    "date": "2023-11-01T19:08:03.898Z",
+    "date": "2023-11-06T06:57:40.297Z",
     "links": {
-      "npm": "https://www.npmjs.com/package/gulp-strip-json-comments",
-      "homepage": "https://github.com/sindresorhus/gulp-strip-json-comments#readme",
-      "repository": "https://github.com/sindresorhus/gulp-strip-json-comments",
-      "bugs": "https://github.com/sindresorhus/gulp-strip-json-comments/issues"
+      "npm": "https://www.npmjs.com/package/xbar",
+      "homepage": "https://github.com/sindresorhus/xbar#readme",
+      "repository": "https://github.com/sindresorhus/xbar",
+      "bugs": "https://github.com/sindresorhus/xbar/issues"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -36055,43 +36094,6 @@
       "email": "sindresorhus@gmail.com"
     },
     "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "is-file-stream",
-    "scope": "unscoped",
-    "version": "1.0.0",
-    "description": "Detect if a stream is a file stream",
-    "keywords": [
-      "stream",
-      "file",
-      "filestream"
-    ],
-    "date": "2017-03-29T22:47:29.203Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/is-file-stream",
-      "homepage": "https://github.com/jamestalmage/is-file-stream#readme",
-      "repository": "https://github.com/jamestalmage/is-file-stream"
-    },
-    "author": {
-      "name": "James Talmage",
-      "email": "james@talmage.io",
-      "url": "github.com/jamestalmage",
-      "username": "jamestalmage"
-    },
-    "publisher": {
-      "username": "jamestalmage",
-      "email": "james@talmage.io"
-    },
-    "maintainers": [
-      {
-        "username": "jamestalmage",
-        "email": "james@talmage.io"
-      },
       {
         "username": "sindresorhus",
         "email": "sindresorhus@gmail.com"
@@ -36134,37 +36136,36 @@
     ]
   },
   {
-    "name": "xbar",
+    "name": "is-file-stream",
     "scope": "unscoped",
-    "version": "3.0.0",
-    "description": "Simplifies xbar app plugin creation",
+    "version": "1.0.0",
+    "description": "Detect if a stream is a file stream",
     "keywords": [
-      "xbar",
-      "bitbar",
-      "macos",
-      "menubar",
-      "app",
-      "bit",
-      "bar"
+      "stream",
+      "file",
+      "filestream"
     ],
-    "date": "2023-11-06T06:57:40.297Z",
+    "date": "2017-03-29T22:47:29.203Z",
     "links": {
-      "npm": "https://www.npmjs.com/package/xbar",
-      "homepage": "https://github.com/sindresorhus/xbar#readme",
-      "repository": "https://github.com/sindresorhus/xbar",
-      "bugs": "https://github.com/sindresorhus/xbar/issues"
+      "npm": "https://www.npmjs.com/package/is-file-stream",
+      "homepage": "https://github.com/jamestalmage/is-file-stream#readme",
+      "repository": "https://github.com/jamestalmage/is-file-stream"
     },
     "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
+      "name": "James Talmage",
+      "email": "james@talmage.io",
+      "url": "github.com/jamestalmage",
+      "username": "jamestalmage"
     },
     "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
+      "username": "jamestalmage",
+      "email": "james@talmage.io"
     },
     "maintainers": [
+      {
+        "username": "jamestalmage",
+        "email": "james@talmage.io"
+      },
       {
         "username": "sindresorhus",
         "email": "sindresorhus@gmail.com"
@@ -36348,6 +36349,43 @@
     ]
   },
   {
+    "name": "wifi-name",
+    "scope": "unscoped",
+    "version": "3.1.1",
+    "description": "Get current wifi name",
+    "keywords": [
+      "name",
+      "network",
+      "wifi"
+    ],
+    "date": "2017-09-10T14:37:34.562Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/wifi-name",
+      "homepage": "https://github.com/kevva/wifi-name#readme",
+      "repository": "https://github.com/kevva/wifi-name"
+    },
+    "author": {
+      "name": "Kevin Mårtensson",
+      "email": "kevinmartensson@gmail.com",
+      "url": "https://github.com/kevva",
+      "username": "kevva"
+    },
+    "publisher": {
+      "username": "kevva",
+      "email": "kevinmartensson@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "kevva",
+        "email": "kevinmartensson@gmail.com"
+      },
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "kap-streamable",
     "scope": "unscoped",
     "version": "1.0.0",
@@ -36376,43 +36414,6 @@
     "publisher": {
       "username": "sindresorhus",
       "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "kevva",
-        "email": "kevinmartensson@gmail.com"
-      },
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "wifi-name",
-    "scope": "unscoped",
-    "version": "3.1.1",
-    "description": "Get current wifi name",
-    "keywords": [
-      "name",
-      "network",
-      "wifi"
-    ],
-    "date": "2017-09-10T14:37:34.562Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/wifi-name",
-      "homepage": "https://github.com/kevva/wifi-name#readme",
-      "repository": "https://github.com/kevva/wifi-name"
-    },
-    "author": {
-      "name": "Kevin Mårtensson",
-      "email": "kevinmartensson@gmail.com",
-      "url": "https://github.com/kevva",
-      "username": "kevva"
-    },
-    "publisher": {
-      "username": "kevva",
-      "email": "kevinmartensson@gmail.com"
     },
     "maintainers": [
       {
@@ -36583,6 +36584,25 @@
     ]
   },
   {
+    "name": "enva",
+    "scope": "unscoped",
+    "version": "0.0.0",
+    "date": "2019-09-27T19:19:41.354Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/enva"
+    },
+    "publisher": {
+      "username": "alireza29675",
+      "email": "alireza@sheikholmolouki.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "lazy-value",
     "scope": "unscoped",
     "version": "3.0.0",
@@ -36626,16 +36646,32 @@
     ]
   },
   {
-    "name": "enva",
+    "name": "is-executable",
     "scope": "unscoped",
-    "version": "0.0.0",
-    "date": "2019-09-27T19:19:41.354Z",
+    "version": "2.0.1",
+    "description": "Check whether a file can be executed",
+    "keywords": [
+      "executable",
+      "execute",
+      "exe",
+      "file",
+      "binary",
+      "check",
+      "detect",
+      "access",
+      "fs",
+      "permission"
+    ],
+    "date": "2023-04-08T12:18:09.597Z",
     "links": {
-      "npm": "https://www.npmjs.com/package/enva"
+      "npm": "https://www.npmjs.com/package/is-executable",
+      "homepage": "https://github.com/sindresorhus/is-executable#readme",
+      "repository": "https://github.com/sindresorhus/is-executable",
+      "bugs": "https://github.com/sindresorhus/is-executable/issues"
     },
     "publisher": {
-      "username": "alireza29675",
-      "email": "alireza@sheikholmolouki.com"
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
     },
     "maintainers": [
       {
@@ -36680,41 +36716,6 @@
       "email": "sindresorhus@gmail.com",
       "url": "https://sindresorhus.com",
       "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "is-executable",
-    "scope": "unscoped",
-    "version": "2.0.1",
-    "description": "Check whether a file can be executed",
-    "keywords": [
-      "executable",
-      "execute",
-      "exe",
-      "file",
-      "binary",
-      "check",
-      "detect",
-      "access",
-      "fs",
-      "permission"
-    ],
-    "date": "2023-04-08T12:18:09.597Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/is-executable",
-      "homepage": "https://github.com/sindresorhus/is-executable#readme",
-      "repository": "https://github.com/sindresorhus/is-executable",
-      "bugs": "https://github.com/sindresorhus/is-executable/issues"
     },
     "publisher": {
       "username": "sindresorhus",
@@ -37019,55 +37020,6 @@
     ]
   },
   {
-    "name": "urls-md",
-    "scope": "unscoped",
-    "version": "5.0.0",
-    "description": "Convert URLs to Markdown links and images: Extracts URLs from text → Gets their article title → Creates Markdown links",
-    "keywords": [
-      "cli-app",
-      "cli",
-      "bin",
-      "link",
-      "links",
-      "dump",
-      "text",
-      "string",
-      "url",
-      "urls",
-      "convert",
-      "extract",
-      "get",
-      "markdown",
-      "md",
-      "article",
-      "title",
-      "image",
-      "images"
-    ],
-    "date": "2023-05-17T19:18:21.942Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/urls-md",
-      "homepage": "https://github.com/sindresorhus/urls-md#readme",
-      "repository": "https://github.com/sindresorhus/urls-md"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "gh-user",
     "scope": "unscoped",
     "version": "6.0.0",
@@ -37186,6 +37138,55 @@
     ]
   },
   {
+    "name": "urls-md",
+    "scope": "unscoped",
+    "version": "5.0.0",
+    "description": "Convert URLs to Markdown links and images: Extracts URLs from text → Gets their article title → Creates Markdown links",
+    "keywords": [
+      "cli-app",
+      "cli",
+      "bin",
+      "link",
+      "links",
+      "dump",
+      "text",
+      "string",
+      "url",
+      "urls",
+      "convert",
+      "extract",
+      "get",
+      "markdown",
+      "md",
+      "article",
+      "title",
+      "image",
+      "images"
+    ],
+    "date": "2023-05-17T19:18:21.942Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/urls-md",
+      "homepage": "https://github.com/sindresorhus/urls-md#readme",
+      "repository": "https://github.com/sindresorhus/urls-md"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "get-emails",
     "scope": "unscoped",
     "version": "4.0.0",
@@ -37267,6 +37268,43 @@
     ]
   },
   {
+    "name": "wifi-password",
+    "scope": "unscoped",
+    "version": "3.0.1",
+    "description": "Get current wifi password",
+    "keywords": [
+      "network",
+      "password",
+      "wifi"
+    ],
+    "date": "2017-06-21T09:15:43.733Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/wifi-password",
+      "homepage": "https://github.com/kevva/wifi-password#readme",
+      "repository": "https://github.com/kevva/wifi-password"
+    },
+    "author": {
+      "name": "Kevin Mårtensson",
+      "email": "kevinmartensson@gmail.com",
+      "url": "github.com/kevva",
+      "username": "kevva"
+    },
+    "publisher": {
+      "username": "kevva",
+      "email": "kevinmartensson@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "kevva",
+        "email": "kevinmartensson@gmail.com"
+      },
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "p-if",
     "scope": "unscoped",
     "version": "3.0.0",
@@ -37305,43 +37343,6 @@
       "email": "sindresorhus@gmail.com"
     },
     "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "wifi-password",
-    "scope": "unscoped",
-    "version": "3.0.1",
-    "description": "Get current wifi password",
-    "keywords": [
-      "network",
-      "password",
-      "wifi"
-    ],
-    "date": "2017-06-21T09:15:43.733Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/wifi-password",
-      "homepage": "https://github.com/kevva/wifi-password#readme",
-      "repository": "https://github.com/kevva/wifi-password"
-    },
-    "author": {
-      "name": "Kevin Mårtensson",
-      "email": "kevinmartensson@gmail.com",
-      "url": "github.com/kevva",
-      "username": "kevva"
-    },
-    "publisher": {
-      "username": "kevva",
-      "email": "kevinmartensson@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "kevva",
-        "email": "kevinmartensson@gmail.com"
-      },
       {
         "username": "sindresorhus",
         "email": "sindresorhus@gmail.com"
@@ -38094,29 +38095,27 @@
     ]
   },
   {
-    "name": "unicode-escapes",
+    "name": "stable-function",
     "scope": "unscoped",
-    "version": "1.0.0",
-    "description": "Encode and decode Unicode escapes in a string",
+    "version": "4.0.0",
+    "description": "Ensure a function is stable, meaning the same input always produces the same output",
     "keywords": [
-      "unicode",
-      "escape",
-      "escapes",
-      "encode",
-      "decode",
-      "character",
-      "string",
-      "debugging",
-      "logging",
-      "text-processing",
-      "data-sanitization"
+      "stable",
+      "function",
+      "consistent",
+      "reproducable",
+      "stress",
+      "load",
+      "test",
+      "is",
+      "difference"
     ],
-    "date": "2023-08-25T13:56:35.667Z",
+    "date": "2023-11-04T19:24:38.285Z",
     "links": {
-      "npm": "https://www.npmjs.com/package/unicode-escapes",
-      "homepage": "https://github.com/sindresorhus/unicode-escapes#readme",
-      "repository": "https://github.com/sindresorhus/unicode-escapes",
-      "bugs": "https://github.com/sindresorhus/unicode-escapes/issues"
+      "npm": "https://www.npmjs.com/package/stable-function",
+      "homepage": "https://github.com/sindresorhus/stable-function#readme",
+      "repository": "https://github.com/sindresorhus/stable-function",
+      "bugs": "https://github.com/sindresorhus/stable-function/issues"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -38169,27 +38168,29 @@
     ]
   },
   {
-    "name": "stable-function",
+    "name": "unicode-escapes",
     "scope": "unscoped",
-    "version": "4.0.0",
-    "description": "Ensure a function is stable, meaning the same input always produces the same output",
+    "version": "1.0.0",
+    "description": "Encode and decode Unicode escapes in a string",
     "keywords": [
-      "stable",
-      "function",
-      "consistent",
-      "reproducable",
-      "stress",
-      "load",
-      "test",
-      "is",
-      "difference"
+      "unicode",
+      "escape",
+      "escapes",
+      "encode",
+      "decode",
+      "character",
+      "string",
+      "debugging",
+      "logging",
+      "text-processing",
+      "data-sanitization"
     ],
-    "date": "2023-11-04T19:24:38.285Z",
+    "date": "2023-08-25T13:56:35.667Z",
     "links": {
-      "npm": "https://www.npmjs.com/package/stable-function",
-      "homepage": "https://github.com/sindresorhus/stable-function#readme",
-      "repository": "https://github.com/sindresorhus/stable-function",
-      "bugs": "https://github.com/sindresorhus/stable-function/issues"
+      "npm": "https://www.npmjs.com/package/unicode-escapes",
+      "homepage": "https://github.com/sindresorhus/unicode-escapes#readme",
+      "repository": "https://github.com/sindresorhus/unicode-escapes",
+      "bugs": "https://github.com/sindresorhus/unicode-escapes/issues"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -38257,6 +38258,50 @@
     ]
   },
   {
+    "name": "terminal-size-cli",
+    "scope": "unscoped",
+    "version": "3.0.0",
+    "description": "Reliably get the terminal window size (columns & rows)",
+    "keywords": [
+      "cli-app",
+      "cli",
+      "terminal",
+      "size",
+      "console",
+      "window",
+      "width",
+      "height",
+      "columns",
+      "rows",
+      "lines",
+      "tty",
+      "redirected"
+    ],
+    "date": "2023-11-04T17:56:49.061Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/terminal-size-cli",
+      "homepage": "https://github.com/sindresorhus/terminal-size-cli#readme",
+      "repository": "https://github.com/sindresorhus/terminal-size-cli",
+      "bugs": "https://github.com/sindresorhus/terminal-size-cli/issues"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "internal-ip-cli",
     "scope": "unscoped",
     "version": "2.0.0",
@@ -38300,50 +38345,6 @@
       {
         "username": "silverwind",
         "email": "npm@silverwind.io"
-      }
-    ]
-  },
-  {
-    "name": "terminal-size-cli",
-    "scope": "unscoped",
-    "version": "3.0.0",
-    "description": "Reliably get the terminal window size (columns & rows)",
-    "keywords": [
-      "cli-app",
-      "cli",
-      "terminal",
-      "size",
-      "console",
-      "window",
-      "width",
-      "height",
-      "columns",
-      "rows",
-      "lines",
-      "tty",
-      "redirected"
-    ],
-    "date": "2023-11-04T17:56:49.061Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/terminal-size-cli",
-      "homepage": "https://github.com/sindresorhus/terminal-size-cli#readme",
-      "repository": "https://github.com/sindresorhus/terminal-size-cli",
-      "bugs": "https://github.com/sindresorhus/terminal-size-cli/issues"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
       }
     ]
   },
@@ -41943,6 +41944,42 @@
     ]
   },
   {
+    "name": "kap",
+    "scope": "unscoped",
+    "version": "0.0.1",
+    "description": "Quick way to capture a screenshot to the current directory (macOS only)",
+    "keywords": [
+      "cli-app",
+      "cli",
+      "screenshot",
+      "screen",
+      "capture",
+      "shot",
+      "image",
+      "picture"
+    ],
+    "date": "2017-05-20T10:37:18.349Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/kap"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
     "name": "year-days",
     "scope": "unscoped",
     "version": "4.0.0",
@@ -42010,42 +42047,6 @@
       "name": "Sindre Sorhus",
       "email": "sindresorhus@gmail.com",
       "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
-    "name": "kap",
-    "scope": "unscoped",
-    "version": "0.0.1",
-    "description": "Quick way to capture a screenshot to the current directory (macOS only)",
-    "keywords": [
-      "cli-app",
-      "cli",
-      "screenshot",
-      "screen",
-      "capture",
-      "shot",
-      "image",
-      "picture"
-    ],
-    "date": "2017-05-20T10:37:18.349Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/kap"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "sindresorhus.com",
       "username": "sindresorhus"
     },
     "publisher": {
@@ -42552,47 +42553,6 @@
     ]
   },
   {
-    "name": "detect-newline-cli",
-    "scope": "unscoped",
-    "version": "2.0.0",
-    "description": "Detect the dominant newline character",
-    "keywords": [
-      "cli-app",
-      "cli",
-      "newline",
-      "linebreak",
-      "line-break",
-      "line",
-      "lf",
-      "crlf",
-      "eol",
-      "linefeed",
-      "character"
-    ],
-    "date": "2021-10-14T08:26:03.611Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/detect-newline-cli",
-      "homepage": "https://github.com/sindresorhus/detect-newline-cli#readme",
-      "repository": "https://github.com/sindresorhus/detect-newline-cli"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "normalize-newline-cli",
     "scope": "unscoped",
     "version": "3.0.0",
@@ -42617,6 +42577,47 @@
       "npm": "https://www.npmjs.com/package/normalize-newline-cli",
       "homepage": "https://github.com/sindresorhus/normalize-newline-cli#readme",
       "repository": "https://github.com/sindresorhus/normalize-newline-cli"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "detect-newline-cli",
+    "scope": "unscoped",
+    "version": "2.0.0",
+    "description": "Detect the dominant newline character",
+    "keywords": [
+      "cli-app",
+      "cli",
+      "newline",
+      "linebreak",
+      "line-break",
+      "line",
+      "lf",
+      "crlf",
+      "eol",
+      "linefeed",
+      "character"
+    ],
+    "date": "2021-10-14T08:26:03.611Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/detect-newline-cli",
+      "homepage": "https://github.com/sindresorhus/detect-newline-cli#readme",
+      "repository": "https://github.com/sindresorhus/detect-newline-cli"
     },
     "author": {
       "name": "Sindre Sorhus",
@@ -43922,41 +43923,6 @@
     ]
   },
   {
-    "name": "set-map",
-    "scope": "unscoped",
-    "version": "2.0.0",
-    "description": "Map over a `Set`",
-    "keywords": [
-      "set",
-      "map",
-      "es2015",
-      "iterator",
-      "iterate"
-    ],
-    "date": "2021-05-03T12:46:54.792Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/set-map",
-      "homepage": "https://github.com/sindresorhus/set-map#readme",
-      "repository": "https://github.com/sindresorhus/set-map"
-    },
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "https://sindresorhus.com",
-      "username": "sindresorhus"
-    },
-    "publisher": {
-      "username": "sindresorhus",
-      "email": "sindresorhus@gmail.com"
-    },
-    "maintainers": [
-      {
-        "username": "sindresorhus",
-        "email": "sindresorhus@gmail.com"
-      }
-    ]
-  },
-  {
     "name": "generator-gruntfile",
     "scope": "unscoped",
     "version": "0.1.4",
@@ -44027,6 +43993,41 @@
       {
         "username": "kevva",
         "email": "kevinmartensson@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "set-map",
+    "scope": "unscoped",
+    "version": "2.0.0",
+    "description": "Map over a `Set`",
+    "keywords": [
+      "set",
+      "map",
+      "es2015",
+      "iterator",
+      "iterate"
+    ],
+    "date": "2021-05-03T12:46:54.792Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/set-map",
+      "homepage": "https://github.com/sindresorhus/set-map#readme",
+      "repository": "https://github.com/sindresorhus/set-map"
+    },
+    "author": {
+      "name": "Sindre Sorhus",
+      "email": "sindresorhus@gmail.com",
+      "url": "https://sindresorhus.com",
+      "username": "sindresorhus"
+    },
+    "publisher": {
+      "username": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    "maintainers": [
+      {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
       }
     ]
   },
@@ -45201,7 +45202,8 @@
     "links": {
       "npm": "https://www.npmjs.com/package/repeating-cli",
       "homepage": "https://github.com/sindresorhus/repeating-cli#readme",
-      "repository": "https://github.com/sindresorhus/repeating-cli"
+      "repository": "https://github.com/sindresorhus/repeating-cli",
+      "bugs": "https://github.com/sindresorhus/repeating-cli/issues"
     },
     "author": {
       "name": "Sindre Sorhus",

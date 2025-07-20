@@ -1,6 +1,5 @@
 {
   "dailyDownloads": {
-    "2024-07-20": 327648851,
     "2024-07-21": 328389772,
     "2024-07-22": 1302958116,
     "2024-07-23": 1352617293,
@@ -363,10 +362,11 @@
     "2025-07-15": 1586866869,
     "2025-07-16": 1775667765,
     "2025-07-17": 1987414869,
-    "2025-07-18": 1463007339
+    "2025-07-18": 1465368156,
+    "2025-07-19": 600602884
   },
   "weeklyDownloads": {
-    "2024-W29": 656038623,
+    "2024-W29": 328389772,
     "2024-W30": 6979701598,
     "2024-W31": 6987730416,
     "2024-W32": 6939769883,
@@ -418,10 +418,10 @@
     "2025-W26": 11887808146,
     "2025-W27": 9826811988,
     "2025-W28": 10232255124,
-    "2025-W29": 8637534850
+    "2025-W29": 9240498551
   },
   "monthlyDownloads": {
-    "2024-7": 11577331149,
+    "2024-7": 11249682298,
     "2024-8": 30264703879,
     "2024-9": 30888783254,
     "2024-10": 33975342581,
@@ -433,2014 +433,2014 @@
     "2025-4": 36323699322,
     "2025-5": 38058200816,
     "2025-6": 46145066109,
-    "2025-7": 26729135720
+    "2025-7": 27332099421
   },
   "yearlyDownloads": {
     "2023": 49505252228,
     "2024": 366748071281,
-    "2025": 244817968727
+    "2025": 245420932428
   },
-  "totalDownloads": 412843463368,
+  "totalDownloads": 413118778218,
   "topPackages": [
     {
       "name": "ansi-styles",
-      "downloads": 19043815546
+      "downloads": 19010619991
     },
     {
       "name": "supports-color",
-      "downloads": 16364414999
+      "downloads": 16333983202
     },
     {
       "name": "chalk",
-      "downloads": 16052236097
+      "downloads": 16023223486
     },
     {
       "name": "has-flag",
-      "downloads": 11914338575
+      "downloads": 11889587151
     },
     {
       "name": "strip-ansi",
-      "downloads": 11083992460
+      "downloads": 11073555886
     },
     {
       "name": "ansi-regex",
-      "downloads": 10232490138
+      "downloads": 10223155808
     },
     {
       "name": "type-fest",
-      "downloads": 9857064890
+      "downloads": 9844011094
     },
     {
       "name": "string-width",
-      "downloads": 9146631088
+      "downloads": 9138656187
     },
     {
       "name": "wrap-ansi",
-      "downloads": 8211379274
+      "downloads": 8203125192
     },
     {
       "name": "escape-string-regexp",
-      "downloads": 7687206794
+      "downloads": 7677317789
     },
     {
       "name": "find-up",
-      "downloads": 7555094332
+      "downloads": 7546118403
     },
     {
       "name": "p-locate",
-      "downloads": 7200656351
+      "downloads": 7192129575
     },
     {
       "name": "locate-path",
-      "downloads": 7189341946
+      "downloads": 7180792490
     },
     {
       "name": "p-limit",
-      "downloads": 6960642830
+      "downloads": 6952446283
     },
     {
       "name": "is-fullwidth-code-point",
-      "downloads": 6008638328
+      "downloads": 6002819188
     },
     {
       "name": "globals",
-      "downloads": 5532852370
+      "downloads": 5527596704
     },
     {
       "name": "get-stream",
-      "downloads": 5486658283
+      "downloads": 5478872330
     },
     {
       "name": "resolve-from",
-      "downloads": 5035576999
+      "downloads": 5030393135
     },
     {
       "name": "path-exists",
-      "downloads": 4971520941
+      "downloads": 4965890445
     },
     {
       "name": "camelcase",
-      "downloads": 4801771420
+      "downloads": 4796240391
     },
     {
       "name": "path-key",
-      "downloads": 4748700305
+      "downloads": 4743103664
     },
     {
       "name": "is-stream",
-      "downloads": 4670894342
+      "downloads": 4664572867
     },
     {
       "name": "execa",
-      "downloads": 4563790746
+      "downloads": 4556760755
     },
     {
       "name": "slash",
-      "downloads": 4361675198
+      "downloads": 4355750848
     },
     {
       "name": "make-dir",
-      "downloads": 4064724509
+      "downloads": 4059325818
     },
     {
       "name": "pify",
-      "downloads": 3986924245
+      "downloads": 3981893790
     },
     {
       "name": "onetime",
-      "downloads": 3879803196
+      "downloads": 3875178142
     },
     {
       "name": "shebang-regex",
-      "downloads": 3832414011
+      "downloads": 3828310115
     },
     {
       "name": "npm-run-path",
-      "downloads": 3699526353
+      "downloads": 3694323305
     },
     {
       "name": "strip-bom",
-      "downloads": 3687792124
+      "downloads": 3683621531
     },
     {
       "name": "strip-json-comments",
-      "downloads": 3510395968
+      "downloads": 3507333324
     },
     {
       "name": "globby",
-      "downloads": 3487731327
+      "downloads": 3481883192
     },
     {
       "name": "parse-json",
-      "downloads": 3431856357
+      "downloads": 3428197758
     },
     {
       "name": "path-type",
-      "downloads": 3298892457
+      "downloads": 3294764097
     },
     {
       "name": "ansi-escapes",
-      "downloads": 3058165263
+      "downloads": 3054944782
     },
     {
       "name": "yocto-queue",
-      "downloads": 2912563639
+      "downloads": 2909119051
     },
     {
       "name": "slice-ansi",
-      "downloads": 2768004947
+      "downloads": 2764519535
     },
     {
       "name": "strip-final-newline",
-      "downloads": 2749880364
+      "downloads": 2745934713
     },
     {
       "name": "callsites",
-      "downloads": 2748256354
+      "downloads": 2745775142
     },
     {
       "name": "import-fresh",
-      "downloads": 2694785816
+      "downloads": 2692494534
     },
     {
       "name": "p-try",
-      "downloads": 2674202513
+      "downloads": 2671688097
     },
     {
       "name": "binary-extensions",
-      "downloads": 2518888916
+      "downloads": 2515607551
     },
     {
       "name": "is-plain-obj",
-      "downloads": 2487592392
+      "downloads": 2484438312
     },
     {
       "name": "cli-cursor",
-      "downloads": 2480940715
+      "downloads": 2478016483
     },
     {
       "name": "restore-cursor",
-      "downloads": 2478942956
+      "downloads": 2476038498
     },
     {
       "name": "object-assign",
-      "downloads": 2471077761
+      "downloads": 2468410878
     },
     {
       "name": "is-binary-path",
-      "downloads": 2396938164
+      "downloads": 2393905418
     },
     {
       "name": "p-map",
-      "downloads": 2383038881
+      "downloads": 2380056870
     },
     {
       "name": "indent-string",
-      "downloads": 2368342056
+      "downloads": 2365607924
     },
     {
       "name": "array-union",
-      "downloads": 2333709914
+      "downloads": 2330138174
     },
     {
       "name": "is-wsl",
-      "downloads": 2293591476
+      "downloads": 2290607385
     },
     {
       "name": "parent-module",
-      "downloads": 2268792705
+      "downloads": 2266532884
     },
     {
       "name": "open",
-      "downloads": 2176905899
+      "downloads": 2173752765
     },
     {
       "name": "error-ex",
-      "downloads": 2105668059
+      "downloads": 2103477246
     },
     {
       "name": "log-symbols",
-      "downloads": 2065512800
+      "downloads": 2063075394
     },
     {
       "name": "is-path-inside",
-      "downloads": 2061100607
+      "downloads": 2057929476
     },
     {
       "name": "read-pkg",
-      "downloads": 2023347725
+      "downloads": 2021196321
     },
     {
       "name": "figures",
-      "downloads": 2014111241
+      "downloads": 2011601572
     },
     {
       "name": "decamelize",
-      "downloads": 1896922130
+      "downloads": 1894806032
     },
     {
       "name": "is-docker",
-      "downloads": 1868614253
+      "downloads": 1866298296
     },
     {
       "name": "is-unicode-supported",
-      "downloads": 1792472726
+      "downloads": 1790286507
     },
     {
       "name": "merge-descriptors",
-      "downloads": 1732548900
+      "downloads": 1730772944
     },
     {
       "name": "mimic-response",
-      "downloads": 1705031174
+      "downloads": 1702616353
     },
     {
       "name": "clean-stack",
-      "downloads": 1621560820
+      "downloads": 1619349246
     },
     {
       "name": "ora",
-      "downloads": 1600726717
+      "downloads": 1598342456
     },
     {
       "name": "to-fast-properties",
-      "downloads": 1598665856
+      "downloads": 1594796932
     },
     {
       "name": "string-length",
-      "downloads": 1585815693
+      "downloads": 1583960034
     },
     {
       "name": "import-local",
-      "downloads": 1561396764
+      "downloads": 1559647570
     },
     {
       "name": "strip-indent",
-      "downloads": 1535435619
+      "downloads": 1533678773
     },
     {
       "name": "aggregate-error",
-      "downloads": 1513334530
+      "downloads": 1511232865
     },
     {
       "name": "normalize-url",
-      "downloads": 1505571334
+      "downloads": 1503507346
     },
     {
       "name": "resolve-cwd",
-      "downloads": 1503833580
+      "downloads": 1502100887
     },
     {
       "name": "leven",
-      "downloads": 1498892320
+      "downloads": 1497169775
     },
     {
       "name": "emittery",
-      "downloads": 1442825495
+      "downloads": 1440855810
     },
     {
       "name": "arrify",
-      "downloads": 1413298020
+      "downloads": 1411438817
     },
     {
       "name": "detect-newline",
-      "downloads": 1401125116
+      "downloads": 1399530583
     },
     {
       "name": "define-lazy-prop",
-      "downloads": 1379462114
+      "downloads": 1377669319
     },
     {
       "name": "cli-spinners",
-      "downloads": 1372993501
+      "downloads": 1370717373
     },
     {
       "name": "map-obj",
-      "downloads": 1322072933
+      "downloads": 1320512698
     },
     {
       "name": "is-obj",
-      "downloads": 1283566042
+      "downloads": 1282033451
     },
     {
       "name": "lowercase-keys",
-      "downloads": 1253319321
+      "downloads": 1251608680
     },
     {
       "name": "yn",
-      "downloads": 1253024691
+      "downloads": 1251592027
     },
     {
       "name": "quick-lru",
-      "downloads": 1234905243
+      "downloads": 1233341400
     },
     {
       "name": "decompress-response",
-      "downloads": 1226210612
+      "downloads": 1224438541
     },
     {
       "name": "defaults",
-      "downloads": 1225398165
+      "downloads": 1223590759
     },
     {
       "name": "is-interactive",
-      "downloads": 1223974779
+      "downloads": 1222095032
     },
     {
       "name": "redent",
-      "downloads": 1221770810
+      "downloads": 1220383158
     },
     {
       "name": "is-generator-fn",
-      "downloads": 1194166748
+      "downloads": 1192886134
     },
     {
       "name": "meow",
-      "downloads": 1183063421
+      "downloads": 1181913114
     },
     {
       "name": "cli-truncate",
-      "downloads": 1178885672
+      "downloads": 1177308037
     },
     {
       "name": "file-type",
-      "downloads": 1154607055
+      "downloads": 1152940394
     },
     {
       "name": "got",
-      "downloads": 1144881473
+      "downloads": 1143269050
     },
     {
       "name": "dot-prop",
-      "downloads": 1115083981
+      "downloads": 1113917021
     },
     {
       "name": "component-emitter",
-      "downloads": 1080430170
+      "downloads": 1078946531
     },
     {
       "name": "load-json-file",
-      "downloads": 1076431036
+      "downloads": 1075631380
     },
     {
       "name": "env-paths",
-      "downloads": 1069644653
+      "downloads": 1068528526
     },
     {
       "name": "@sindresorhus/is",
-      "downloads": 1056247853
+      "downloads": 1055023879
     },
     {
       "name": "log-update",
-      "downloads": 1052460250
+      "downloads": 1051050982
     },
     {
       "name": "p-cancelable",
-      "downloads": 1045553824
+      "downloads": 1044125274
     },
     {
       "name": "min-indent",
-      "downloads": 1034358717
+      "downloads": 1033122932
     },
     {
       "name": "supports-hyperlinks",
-      "downloads": 956338774
+      "downloads": 955221264
     },
     {
       "name": "responselike",
-      "downloads": 910940288
+      "downloads": 909685247
     },
     {
       "name": "crypto-random-string",
-      "downloads": 904659026
+      "downloads": 903200595
     },
     {
       "name": "unique-string",
-      "downloads": 895462989
+      "downloads": 894020028
     },
     {
       "name": "thenify-all",
-      "downloads": 871247580
+      "downloads": 870449138
     },
     {
       "name": "mz",
-      "downloads": 870654902
+      "downloads": 869865599
     },
     {
       "name": "p-retry",
-      "downloads": 842389956
+      "downloads": 841016545
     },
     {
       "name": "camelcase-keys",
-      "downloads": 838998534
+      "downloads": 837996524
     },
     {
       "name": "get-stdin",
-      "downloads": 828025374
+      "downloads": 826855099
     },
     {
       "name": "detect-indent",
-      "downloads": 784362743
+      "downloads": 783222142
     },
     {
       "name": "trim-newlines",
-      "downloads": 768175118
+      "downloads": 767337998
     },
     {
       "name": "widest-line",
-      "downloads": 755802618
+      "downloads": 754950387
     },
     {
       "name": "pretty-bytes",
-      "downloads": 749843919
+      "downloads": 748674054
     },
     {
       "name": "builtin-modules",
-      "downloads": 733793307
+      "downloads": 732923983
     },
     {
       "name": "p-timeout",
-      "downloads": 722934015
+      "downloads": 722033818
     },
     {
       "name": "del",
-      "downloads": 708377525
+      "downloads": 707182083
     },
     {
       "name": "temp-dir",
-      "downloads": 698070783
+      "downloads": 696922481
     },
     {
       "name": "cli-boxes",
-      "downloads": 685088843
+      "downloads": 684251535
     },
     {
       "name": "boxen",
-      "downloads": 684071699
+      "downloads": 683239189
     },
     {
       "name": "has-ansi",
-      "downloads": 671893074
+      "downloads": 670960595
     },
     {
       "name": "query-string",
-      "downloads": 670264302
+      "downloads": 669166503
     },
     {
       "name": "cacheable-lookup",
-      "downloads": 669828949
+      "downloads": 668915628
     },
     {
       "name": "is-installed-globally",
-      "downloads": 658002292
+      "downloads": 657279189
     },
     {
       "name": "http2-wrapper",
-      "downloads": 648415859
+      "downloads": 647532405
     },
     {
       "name": "untildify",
-      "downloads": 640626220
+      "downloads": 639330397
     },
     {
       "name": "is-path-cwd",
-      "downloads": 625797246
+      "downloads": 624777323
     },
     {
       "name": "gzip-size",
-      "downloads": 613606472
+      "downloads": 612673065
     },
     {
       "name": "clone-response",
-      "downloads": 611448429
+      "downloads": 610547954
     },
     {
       "name": "import-lazy",
-      "downloads": 590103799
+      "downloads": 589249472
     },
     {
       "name": "terminal-link",
-      "downloads": 578476436
+      "downloads": 577845354
     },
     {
       "name": "sort-keys",
-      "downloads": 574541433
+      "downloads": 573706897
     },
     {
       "name": "tempy",
-      "downloads": 543905514
+      "downloads": 542807633
     },
     {
       "name": "decamelize-keys",
-      "downloads": 538544317
+      "downloads": 537926605
     },
     {
       "name": "registry-url",
-      "downloads": 536536807
+      "downloads": 535951798
     },
     {
       "name": "prepend-http",
-      "downloads": 534284185
+      "downloads": 533491247
     },
     {
       "name": "html-tags",
-      "downloads": 523216007
+      "downloads": 522133606
     },
     {
       "name": "get-port",
-      "downloads": 518929847
+      "downloads": 518237631
     },
     {
       "name": "xdg-basedir",
-      "downloads": 513047485
+      "downloads": 512497408
     },
     {
       "name": "hard-rejection",
-      "downloads": 502396039
+      "downloads": 501735367
     },
     {
       "name": "default-browser-id",
-      "downloads": 493859152
+      "downloads": 493212083
     },
     {
       "name": "is-regexp",
-      "downloads": 488412962
+      "downloads": 487777603
     },
     {
       "name": "unicorn-magic",
-      "downloads": 483204480
+      "downloads": 483129006
     },
     {
       "name": "is-absolute-url",
-      "downloads": 472340939
+      "downloads": 471263378
     },
     {
       "name": "configstore",
-      "downloads": 471616206
+      "downloads": 471104624
     },
     {
       "name": "array-uniq",
-      "downloads": 459817641
+      "downloads": 459163940
     },
     {
       "name": "filter-obj",
-      "downloads": 450326130
+      "downloads": 449618393
     },
     {
       "name": "ip-regex",
-      "downloads": 436710565
+      "downloads": 436147239
     },
     {
       "name": "get-east-asian-width",
-      "downloads": 435858393
+      "downloads": 435712599
     },
     {
       "name": "serialize-error",
-      "downloads": 419422767
+      "downloads": 418899086
     },
     {
       "name": "debounce",
-      "downloads": 417889929
+      "downloads": 417186221
     },
     {
       "name": "package-json",
-      "downloads": 414129667
+      "downloads": 413649727
     },
     {
       "name": "import-from",
-      "downloads": 409378336
+      "downloads": 408758555
     },
     {
       "name": "url-parse-lax",
-      "downloads": 405679128
+      "downloads": 405093327
     },
     {
       "name": "semver-diff",
-      "downloads": 404559661
+      "downloads": 404088242
     },
     {
       "name": "is-inside-container",
-      "downloads": 402915504
+      "downloads": 402733116
     },
     {
       "name": "@sindresorhus/merge-streams",
-      "downloads": 395054628
+      "downloads": 394791222
     },
     {
       "name": "p-queue",
-      "downloads": 393583381
+      "downloads": 393159820
     },
     {
       "name": "stringify-object",
-      "downloads": 393449474
+      "downloads": 392988917
     },
     {
       "name": "is-retry-allowed",
-      "downloads": 390976544
+      "downloads": 390426294
     },
     {
       "name": "run-applescript",
-      "downloads": 377329672
+      "downloads": 377169530
     },
     {
       "name": "caller-path",
-      "downloads": 370486582
+      "downloads": 370108455
     },
     {
       "name": "latest-version",
-      "downloads": 369869715
+      "downloads": 369449469
     },
     {
       "name": "parse-ms",
-      "downloads": 367193129
+      "downloads": 366930281
     },
     {
       "name": "is-npm",
-      "downloads": 367106836
+      "downloads": 366685440
     },
     {
       "name": "pretty-ms",
-      "downloads": 365713965
+      "downloads": 365451772
     },
     {
       "name": "p-defer",
-      "downloads": 364880329
+      "downloads": 364428086
     },
     {
       "name": "dargs",
-      "downloads": 364564666
-    },
-    {
-      "name": "is-builtin-module",
-      "downloads": 363772510
+      "downloads": 364256364
     },
     {
       "name": "default-browser",
-      "downloads": 363478551
+      "downloads": 363346263
+    },
+    {
+      "name": "is-builtin-module",
+      "downloads": 363291550
     },
     {
       "name": "bundle-name",
-      "downloads": 363419111
+      "downloads": 363286756
     },
     {
       "name": "split-on-first",
-      "downloads": 346040579
+      "downloads": 345502060
     },
     {
       "name": "escape-goat",
-      "downloads": 343221284
+      "downloads": 342788430
     },
     {
       "name": "p-is-promise",
-      "downloads": 342455887
+      "downloads": 342103522
     },
     {
       "name": "update-notifier",
-      "downloads": 340956109
+      "downloads": 340568767
     },
     {
       "name": "duplexer3",
-      "downloads": 339812721
+      "downloads": 339362954
     },
     {
       "name": "text-extensions",
-      "downloads": 337971532
+      "downloads": 337712634
     },
     {
       "name": "is-text-path",
-      "downloads": 337762022
+      "downloads": 337508650
     },
     {
       "name": "mimic-function",
-      "downloads": 332721718
+      "downloads": 333139705
     },
     {
       "name": "environment",
-      "downloads": 331910764
+      "downloads": 332266871
     },
     {
       "name": "throttleit",
-      "downloads": 327508261
+      "downloads": 327060916
     },
     {
       "name": "os-locale",
-      "downloads": 316713520
+      "downloads": 316400131
     },
     {
       "name": "caller-callsite",
-      "downloads": 311053612
+      "downloads": 310681057
     },
     {
       "name": "p-event",
-      "downloads": 298169297
+      "downloads": 297674767
     },
     {
       "name": "hasha",
-      "downloads": 296743472
+      "downloads": 296567947
     },
     {
       "name": "is-path-in-cwd",
-      "downloads": 296383927
+      "downloads": 295920690
     },
     {
       "name": "invert-kv",
-      "downloads": 291768032
+      "downloads": 291482179
     },
     {
       "name": "lcid",
-      "downloads": 291556150
+      "downloads": 291270490
     },
     {
       "name": "array-differ",
-      "downloads": 290085794
+      "downloads": 289722153
     },
     {
       "name": "p-each-series",
-      "downloads": 286659015
+      "downloads": 286438200
     },
     {
       "name": "pupa",
-      "downloads": 285544151
+      "downloads": 285206492
     },
     {
       "name": "p-reduce",
-      "downloads": 281854054
+      "downloads": 281643557
     },
     {
       "name": "yoctocolors-cjs",
-      "downloads": 275816064
+      "downloads": 275991490
     },
     {
       "name": "repeating",
-      "downloads": 275089648
+      "downloads": 274797410
     },
     {
       "name": "default-require-extensions",
-      "downloads": 271221721
+      "downloads": 271098561
     },
     {
       "name": "semver-regex",
-      "downloads": 270790473
+      "downloads": 270504706
     },
     {
       "name": "append-transform",
-      "downloads": 269824011
+      "downloads": 269709845
     },
     {
       "name": "multimatch",
-      "downloads": 268178536
+      "downloads": 267840523
     },
     {
       "name": "find-versions",
-      "downloads": 267296706
+      "downloads": 267006776
     },
     {
       "name": "array-find-index",
-      "downloads": 265173458
+      "downloads": 264914482
     },
     {
       "name": "to-readable-stream",
-      "downloads": 264574179
+      "downloads": 264126624
     },
     {
       "name": "has-yarn",
-      "downloads": 264030098
+      "downloads": 263687547
     },
     {
       "name": "filenamify",
-      "downloads": 246832664
+      "downloads": 246481019
     },
     {
       "name": "is-root",
-      "downloads": 245236013
+      "downloads": 244860050
     },
     {
       "name": "p-filter",
-      "downloads": 243349376
+      "downloads": 243086140
     },
     {
       "name": "filename-reserved-regex",
-      "downloads": 243302047
+      "downloads": 242954435
     },
     {
       "name": "caching-transform",
-      "downloads": 234389918
+      "downloads": 234276689
     },
     {
       "name": "clipboardy",
-      "downloads": 219659002
+      "downloads": 219362277
     },
     {
       "name": "delay",
-      "downloads": 218394598
+      "downloads": 218055221
     },
     {
       "name": "trim-repeated",
-      "downloads": 212649919
+      "downloads": 212267938
     },
     {
       "name": "strip-outer",
-      "downloads": 211988248
+      "downloads": 211607916
     },
     {
       "name": "loud-rejection",
-      "downloads": 210448356
+      "downloads": 210249844
     },
     {
       "name": "auto-bind",
-      "downloads": 206072372
+      "downloads": 205771214
     },
     {
       "name": "into-stream",
-      "downloads": 198002239
+      "downloads": 197776765
     },
     {
       "name": "timed-out",
-      "downloads": 197815316
+      "downloads": 197513595
     },
     {
       "name": "import-cwd",
-      "downloads": 185403619
+      "downloads": 185109191
     },
     {
       "name": "internal-ip",
-      "downloads": 184228577
+      "downloads": 183919413
     },
     {
       "name": "has-own-prop",
-      "downloads": 179393039
+      "downloads": 179236953
     },
     {
       "name": "global-directory",
-      "downloads": 172049953
+      "downloads": 171945673
     },
     {
       "name": "eslint-plugin-unicorn",
-      "downloads": 171310087
+      "downloads": 171173839
     },
     {
       "name": "modify-values",
-      "downloads": 167216014
+      "downloads": 167196636
     },
     {
       "name": "os-name",
-      "downloads": 159812848
+      "downloads": 159653228
     },
     {
       "name": "is-network-error",
-      "downloads": 159294985
+      "downloads": 159239815
     },
     {
       "name": "windows-release",
-      "downloads": 156327737
+      "downloads": 156170058
     },
     {
       "name": "stdin-discarder",
-      "downloads": 155116475
+      "downloads": 155062057
     },
     {
       "name": "macos-release",
-      "downloads": 154935487
+      "downloads": 154774871
     },
     {
       "name": "exit-hook",
-      "downloads": 150073682
+      "downloads": 149979880
     },
     {
       "name": "array-equal",
-      "downloads": 148826789
+      "downloads": 148733616
     },
     {
       "name": "chalk-template",
-      "downloads": 147527622
+      "downloads": 147441398
     },
     {
       "name": "matcher",
-      "downloads": 144774508
+      "downloads": 144679833
     },
     {
       "name": "titleize",
-      "downloads": 144152293
+      "downloads": 143886247
     },
     {
       "name": "junk",
-      "downloads": 139771062
+      "downloads": 139554332
     },
     {
       "name": "find-up-simple",
-      "downloads": 135947935
+      "downloads": 136016247
     },
     {
       "name": "write-json-file",
-      "downloads": 132099584
+      "downloads": 132033271
     },
     {
       "name": "git-remote-origin-url",
-      "downloads": 126017533
-    },
-    {
-      "name": "semver-truncate",
-      "downloads": 118476302
-    },
-    {
-      "name": "resolve-global",
-      "downloads": 118446729
+      "downloads": 126001782
     },
     {
       "name": "index-to-position",
-      "downloads": 118378704
+      "downloads": 118470369
+    },
+    {
+      "name": "semver-truncate",
+      "downloads": 118302248
+    },
+    {
+      "name": "resolve-global",
+      "downloads": 118283756
     },
     {
       "name": "p-pipe",
-      "downloads": 116942811
+      "downloads": 116811899
     },
     {
       "name": "ky",
-      "downloads": 113977037
+      "downloads": 113904373
     },
     {
       "name": "home-or-tmp",
-      "downloads": 109733227
+      "downloads": 109628808
     },
     {
       "name": "screenfull",
-      "downloads": 108211687
+      "downloads": 107989893
     },
     {
       "name": "elegant-spinner",
-      "downloads": 105782265
+      "downloads": 105675553
     },
     {
       "name": "tildify",
-      "downloads": 105370800
+      "downloads": 105186536
     },
     {
       "name": "capture-stack-trace",
-      "downloads": 104757236
+      "downloads": 104617214
     },
     {
       "name": "archive-type",
-      "downloads": 103952809
+      "downloads": 103734926
     },
     {
       "name": "p-map-series",
-      "downloads": 103118475
+      "downloads": 103010923
     },
     {
       "name": "is-observable",
-      "downloads": 102561680
+      "downloads": 102460984
     },
     {
       "name": "yoctocolors",
-      "downloads": 101073575
+      "downloads": 101204294
     },
     {
       "name": "is-redirect",
-      "downloads": 98667909
+      "downloads": 98524454
     },
     {
       "name": "convert-hrtime",
-      "downloads": 97083333
+      "downloads": 97028296
     },
     {
       "name": "any-observable",
-      "downloads": 96270606
+      "downloads": 96181947
     },
     {
       "name": "clone-regexp",
-      "downloads": 96019727
+      "downloads": 95840297
     },
     {
       "name": "is-svg",
-      "downloads": 91233840
+      "downloads": 91124318
     },
     {
       "name": "plur",
-      "downloads": 89815597
+      "downloads": 89813667
     },
     {
       "name": "skin-tone",
-      "downloads": 89566713
+      "downloads": 89549710
     },
     {
       "name": "is-url-superb",
-      "downloads": 87234548
+      "downloads": 87160174
     },
     {
       "name": "execall",
-      "downloads": 85486639
+      "downloads": 85326050
     },
     {
       "name": "cpy",
-      "downloads": 82868587
+      "downloads": 82713577
     },
     {
       "name": "markdown-extensions",
-      "downloads": 82682195
+      "downloads": 82601343
     },
     {
       "name": "time-span",
-      "downloads": 81930560
+      "downloads": 81882582
     },
     {
       "name": "set-immediate-shim",
-      "downloads": 81359438
+      "downloads": 81249641
     },
     {
       "name": "tempfile",
-      "downloads": 80669745
+      "downloads": 80575884
     },
     {
       "name": "irregular-plurals",
-      "downloads": 79911598
+      "downloads": 79905925
     },
     {
       "name": "is-port-reachable",
-      "downloads": 79360069
+      "downloads": 79287077
     },
     {
       "name": "p-all",
-      "downloads": 79350660
+      "downloads": 79196584
     },
     {
       "name": "hook-std",
-      "downloads": 78897272
+      "downloads": 78863907
     },
     {
       "name": "stream-to-array",
-      "downloads": 78287963
+      "downloads": 78180673
     },
     {
       "name": "component-type",
-      "downloads": 76417730
+      "downloads": 76295355
     },
     {
       "name": "p-throttle",
-      "downloads": 76300670
+      "downloads": 76212848
     },
     {
       "name": "first-chunk-stream",
-      "downloads": 75888904
+      "downloads": 75762322
     },
     {
       "name": "ps-list",
-      "downloads": 73724364
+      "downloads": 73542159
     },
     {
       "name": "read-package-up",
-      "downloads": 72352073
+      "downloads": 72430309
     },
     {
       "name": "p-waterfall",
-      "downloads": 70161929
+      "downloads": 70127446
     },
     {
       "name": "resolve-pkg",
-      "downloads": 69603020
+      "downloads": 69479708
     },
     {
       "name": "p-wait-for",
-      "downloads": 66813320
+      "downloads": 66732641
     },
     {
       "name": "uint8array-extras",
-      "downloads": 65763255
+      "downloads": 65920769
     },
     {
       "name": "strip-bom-stream",
-      "downloads": 65301092
+      "downloads": 65189813
     },
     {
       "name": "@sindresorhus/slugify",
-      "downloads": 64118873
+      "downloads": 64067766
     },
     {
       "name": "@sindresorhus/transliterate",
-      "downloads": 60065693
+      "downloads": 60014796
     },
     {
       "name": "system-architecture",
-      "downloads": 59819867
+      "downloads": 59754198
     },
     {
       "name": "is64bit",
-      "downloads": 59630741
+      "downloads": 59565006
     },
     {
       "name": "is-ip",
-      "downloads": 57834243
+      "downloads": 57743837
     },
     {
       "name": "p-memoize",
-      "downloads": 52474159
+      "downloads": 52390147
     },
     {
       "name": "ink",
-      "downloads": 52263282
+      "downloads": 52253849
     },
     {
       "name": "env-editor",
-      "downloads": 51819151
+      "downloads": 51832126
     },
     {
       "name": "yeoman-generator",
-      "downloads": 50721535
+      "downloads": 50613505
     },
     {
       "name": "conf",
-      "downloads": 49753148
+      "downloads": 49672926
     },
     {
       "name": "vinyl-file",
-      "downloads": 49383266
+      "downloads": 49293752
     },
     {
       "name": "is-scoped",
-      "downloads": 47702311
+      "downloads": 47621746
     },
     {
       "name": "strip-bom-buf",
-      "downloads": 47661960
+      "downloads": 47596345
     },
     {
       "name": "scoped-regex",
-      "downloads": 47496515
+      "downloads": 47415908
     },
     {
       "name": "imagemin",
-      "downloads": 47481581
+      "downloads": 47381865
     },
     {
       "name": "super-regex",
-      "downloads": 46443814
-    },
-    {
-      "name": "ow",
-      "downloads": 46407737
+      "downloads": 46438287
     },
     {
       "name": "function-timeout",
-      "downloads": 46366174
+      "downloads": 46360761
+    },
+    {
+      "name": "ow",
+      "downloads": 46359353
     },
     {
       "name": "yeoman-environment",
-      "downloads": 46230749
+      "downloads": 46139260
     },
     {
       "name": "fn-name",
-      "downloads": 44572876
+      "downloads": 44518307
     },
     {
       "name": "debounce-fn",
-      "downloads": 44361656
+      "downloads": 44287204
     },
     {
       "name": "github-username",
-      "downloads": 42709072
+      "downloads": 42614765
     },
     {
       "name": "is-in-ci",
-      "downloads": 41990933
+      "downloads": 42025864
     },
     {
       "name": "srcset",
-      "downloads": 41537848
+      "downloads": 41474017
     },
     {
       "name": "md5-hex",
-      "downloads": 40406663
+      "downloads": 40414495
     },
     {
       "name": "date-time",
-      "downloads": 40297781
+      "downloads": 40278519
     },
     {
       "name": "extract-stack",
-      "downloads": 39265502
+      "downloads": 39180579
     },
     {
       "name": "clear-module",
-      "downloads": 38138983
+      "downloads": 38090784
     },
     {
       "name": "temp-write",
-      "downloads": 37249676
+      "downloads": 37266369
     },
     {
       "name": "time-zone",
-      "downloads": 36873720
+      "downloads": 36850989
     },
     {
       "name": "beeper",
-      "downloads": 36379101
+      "downloads": 36319493
     },
     {
       "name": "bin-build",
-      "downloads": 36212741
+      "downloads": 36133102
     },
     {
       "name": "read-chunk",
-      "downloads": 35281909
+      "downloads": 35227746
     },
     {
       "name": "is-png",
-      "downloads": 34934869
+      "downloads": 34866576
     },
     {
       "name": "is-jpg",
-      "downloads": 33043989
+      "downloads": 32979816
     },
     {
       "name": "new-github-release-url",
-      "downloads": 32470746
+      "downloads": 32472965
     },
     {
       "name": "run-node",
-      "downloads": 32344926
+      "downloads": 32353530
     },
     {
       "name": "p-some",
-      "downloads": 31959836
+      "downloads": 31913501
     },
     {
       "name": "p-any",
-      "downloads": 31958240
+      "downloads": 31911921
     },
     {
       "name": "parse-github-repo-url",
-      "downloads": 30598498
-    },
-    {
-      "name": "p-reflect",
-      "downloads": 28930183
+      "downloads": 30684942
     },
     {
       "name": "file-url",
-      "downloads": 28921553
+      "downloads": 28902195
+    },
+    {
+      "name": "p-reflect",
+      "downloads": 28876465
     },
     {
       "name": "imagemin-svgo",
-      "downloads": 28030712
+      "downloads": 27969642
     },
     {
       "name": "p-settle",
-      "downloads": 27929416
+      "downloads": 27875475
     },
     {
       "name": "component-indexof",
-      "downloads": 27187959
+      "downloads": 27131885
     },
     {
       "name": "gifsicle",
-      "downloads": 26427716
+      "downloads": 26371433
     },
     {
       "name": "optipng-bin",
-      "downloads": 26087628
+      "downloads": 26028306
     },
     {
       "name": "maxmin",
-      "downloads": 25979756
+      "downloads": 25941136
     },
     {
       "name": "is-gif",
-      "downloads": 25872994
+      "downloads": 25818305
     },
     {
       "name": "is-supported-regexp-flag",
-      "downloads": 25541784
+      "downloads": 25503910
     },
     {
       "name": "imagemin-optipng",
-      "downloads": 25524771
+      "downloads": 25467096
     },
     {
       "name": "imagemin-gifsicle",
-      "downloads": 25060708
+      "downloads": 25006831
     },
     {
       "name": "eslint-formatter-pretty",
-      "downloads": 23475574
+      "downloads": 23521461
     },
     {
       "name": "eslint-config-google",
-      "downloads": 23402892
+      "downloads": 23381531
     },
     {
       "name": "copy-text-to-clipboard",
-      "downloads": 23305802
+      "downloads": 23281658
     },
     {
       "name": "gh-got",
-      "downloads": 22559792
+      "downloads": 22517959
     },
     {
       "name": "import-modules",
-      "downloads": 22286015
+      "downloads": 22303128
     },
     {
       "name": "null-check",
-      "downloads": 22253274
+      "downloads": 22261582
     },
     {
       "name": "is-relative-url",
-      "downloads": 22074047
+      "downloads": 22059735
     },
     {
       "name": "memoize",
-      "downloads": 21774525
+      "downloads": 21778524
     },
     {
       "name": "array-parallel",
-      "downloads": 20088468
+      "downloads": 20069809
     },
     {
       "name": "pngquant-bin",
-      "downloads": 19970806
+      "downloads": 19922408
     },
     {
       "name": "array-series",
-      "downloads": 19766757
+      "downloads": 19748577
     },
     {
       "name": "passthrough-counter",
-      "downloads": 19467967
+      "downloads": 19434129
     },
     {
       "name": "move-file",
-      "downloads": 19451885
+      "downloads": 19430589
     },
     {
       "name": "yosay",
-      "downloads": 19000155
+      "downloads": 18969916
     },
     {
       "name": "ava",
-      "downloads": 18537439
-    },
-    {
-      "name": "imagemin-pngquant",
-      "downloads": 18537135
+      "downloads": 18556372
     },
     {
       "name": "hex-rgb",
-      "downloads": 18528654
+      "downloads": 18500531
+    },
+    {
+      "name": "imagemin-pngquant",
+      "downloads": 18491987
     },
     {
       "name": "is-html",
-      "downloads": 18387983
+      "downloads": 18363247
     },
     {
       "name": "mozjpeg",
-      "downloads": 18288510
+      "downloads": 18243557
     },
     {
       "name": "del-cli",
-      "downloads": 18246539
+      "downloads": 18222716
     },
     {
       "name": "modern-normalize",
-      "downloads": 18197052
+      "downloads": 18163895
     },
     {
       "name": "imagemin-mozjpeg",
-      "downloads": 17701875
+      "downloads": 17658686
     },
     {
       "name": "grunt-contrib-copy",
-      "downloads": 17661957
+      "downloads": 17623019
     },
     {
       "name": "grunt-contrib-clean",
-      "downloads": 17483363
+      "downloads": 17446190
     },
     {
       "name": "grunt-contrib-watch",
-      "downloads": 17240112
+      "downloads": 17205130
     },
     {
       "name": "eslint-config-xo",
-      "downloads": 16874777
+      "downloads": 16880731
     },
     {
       "name": "ink-spinner",
-      "downloads": 16211883
+      "downloads": 16197119
     },
     {
       "name": "spdx-license-list",
-      "downloads": 16030681
+      "downloads": 16022916
     },
     {
       "name": "fn-args",
-      "downloads": 15879037
+      "downloads": 15846751
     },
     {
       "name": "sort-on",
-      "downloads": 15571863
+      "downloads": 15536644
     },
     {
       "name": "humanize-string",
-      "downloads": 15419493
+      "downloads": 15397884
     },
     {
       "name": "nano-spawn",
-      "downloads": 15217708
+      "downloads": 15329485
     },
     {
       "name": "is-blob",
-      "downloads": 14982697
+      "downloads": 14949580
     },
     {
       "name": "array-move",
-      "downloads": 14750561
+      "downloads": 14720038
     },
     {
       "name": "crypto-hash",
-      "downloads": 14208878
+      "downloads": 14213180
     },
     {
       "name": "jpegtran-bin",
-      "downloads": 14169973
+      "downloads": 14144887
     },
     {
       "name": "cpy-cli",
-      "downloads": 14126789
+      "downloads": 14116725
     },
     {
       "name": "remote-git-tags",
-      "downloads": 14124554
+      "downloads": 14092796
     },
     {
       "name": "rgb-hex",
-      "downloads": 13853516
+      "downloads": 13816350
     },
     {
       "name": "escape-string-applescript",
-      "downloads": 13793679
+      "downloads": 13765437
     },
     {
       "name": "username",
-      "downloads": 13719875
+      "downloads": 13704587
     },
     {
       "name": "passwd-user",
-      "downloads": 13556463
+      "downloads": 13538182
     },
     {
       "name": "display-notification",
-      "downloads": 13473631
+      "downloads": 13444311
     },
     {
       "name": "gulp-babel",
-      "downloads": 13256862
+      "downloads": 13239302
     },
     {
       "name": "fullname",
-      "downloads": 13068995
+      "downloads": 13049876
     },
     {
       "name": "imagemin-jpegtran",
-      "downloads": 12934903
+      "downloads": 12912321
     },
     {
       "name": "grunt-contrib-concat",
-      "downloads": 12727236
+      "downloads": 12701719
     },
     {
       "name": "tsd",
-      "downloads": 12553691
+      "downloads": 12596608
     },
     {
       "name": "@sindresorhus/df",
-      "downloads": 12546789
+      "downloads": 12538523
     },
     {
       "name": "sudo-block",
-      "downloads": 12398148
+      "downloads": 12380940
     },
     {
       "name": "npm-keyword",
-      "downloads": 12389645
+      "downloads": 12372250
     },
     {
       "name": "yo",
-      "downloads": 12270764
+      "downloads": 12254517
     },
     {
       "name": "replace-string",
-      "downloads": 12227761
+      "downloads": 12198164
     },
     {
       "name": "root-check",
-      "downloads": 12202542
+      "downloads": 12185510
     },
     {
       "name": "yeoman-doctor",
-      "downloads": 12178207
+      "downloads": 12161499
     },
     {
       "name": "downgrade-root",
-      "downloads": 12164831
+      "downloads": 12147794
     },
     {
       "name": "yeoman-character",
-      "downloads": 12161722
+      "downloads": 12144672
     },
     {
       "name": "parse-help",
-      "downloads": 12123932
+      "downloads": 12106893
     },
     {
       "name": "default-uid",
-      "downloads": 12099176
+      "downloads": 12082139
     },
     {
       "name": "ink-select-input",
-      "downloads": 12038753
+      "downloads": 12029103
     },
     {
       "name": "num-sort",
-      "downloads": 11965248
+      "downloads": 11914291
     },
     {
       "name": "random-int",
-      "downloads": 11916459
+      "downloads": 11903801
     },
     {
       "name": "ky-universal",
-      "downloads": 11273363
+      "downloads": 11249672
     },
     {
       "name": "taskkill",
-      "downloads": 11239061
-    },
-    {
-      "name": "new-github-issue-url",
-      "downloads": 11167250
+      "downloads": 11192990
     },
     {
       "name": "js-types",
-      "downloads": 11150692
+      "downloads": 11164611
+    },
+    {
+      "name": "new-github-issue-url",
+      "downloads": 11145335
     },
     {
       "name": "yocto-spinner",
-      "downloads": 10541383
+      "downloads": 10582379
     },
     {
       "name": "issue-regex",
-      "downloads": 10454644
-    },
-    {
-      "name": "cwebp-bin",
-      "downloads": 10292539
+      "downloads": 10459783
     },
     {
       "name": "ink-text-input",
-      "downloads": 10281564
+      "downloads": 10280745
+    },
+    {
+      "name": "cwebp-bin",
+      "downloads": 10272292
     },
     {
       "name": "fkill",
-      "downloads": 10103596
-    },
-    {
-      "name": "process-exists",
-      "downloads": 10057196
+      "downloads": 10091218
     },
     {
       "name": "on-change",
-      "downloads": 10048051
+      "downloads": 10064103
+    },
+    {
+      "name": "process-exists",
+      "downloads": 10045009
     },
     {
       "name": "imagemin-webp",
-      "downloads": 9978304
+      "downloads": 9958799
     },
     {
       "name": "bower-config",
-      "downloads": 9967640
+      "downloads": 9950963
     },
     {
       "name": "gulp-autoprefixer",
-      "downloads": 9454917
+      "downloads": 9431603
     },
     {
       "name": "electron-store",
-      "downloads": 9406236
+      "downloads": 9401266
     },
     {
       "name": "eslint-plugin-ava",
-      "downloads": 9038559
+      "downloads": 9056259
     },
     {
       "name": "np",
-      "downloads": 8675206
+      "downloads": 8674827
     },
     {
       "name": "pid-port",
-      "downloads": 8574618
+      "downloads": 8565532
     },
     {
       "name": "gulp-filter",
-      "downloads": 8440479
-    },
-    {
-      "name": "load-grunt-tasks",
-      "downloads": 8373117
+      "downloads": 8431362
     },
     {
       "name": "npm-name",
-      "downloads": 8356476
+      "downloads": 8361206
+    },
+    {
+      "name": "load-grunt-tasks",
+      "downloads": 8358509
     },
     {
       "name": "public-ip",
-      "downloads": 8179738
+      "downloads": 8169366
     },
     {
       "name": "streaming-json-stringify",
-      "downloads": 8166931
+      "downloads": 8156373
     },
     {
       "name": "app-path",
-      "downloads": 7864435
-    },
-    {
-      "name": "filter-console",
-      "downloads": 7842262
+      "downloads": 7848073
     },
     {
       "name": "p-debounce",
-      "downloads": 7838346
+      "downloads": 7833025
     },
     {
-      "name": "term-img",
-      "downloads": 7828242
-    },
-    {
-      "name": "iterm2-version",
-      "downloads": 7824385
+      "name": "filter-console",
+      "downloads": 7816656
     },
     {
       "name": "electron-is-dev",
-      "downloads": 7820027
+      "downloads": 7814962
+    },
+    {
+      "name": "term-img",
+      "downloads": 7811786
+    },
+    {
+      "name": "iterm2-version",
+      "downloads": 7808108
     },
     {
       "name": "modify-filename",
-      "downloads": 7701767
+      "downloads": 7689033
     },
     {
       "name": "grunt-sass",
-      "downloads": 7616217
+      "downloads": 7596289
     },
     {
       "name": "insight",
-      "downloads": 7533313
+      "downloads": 7522283
     },
     {
       "name": "ncname",
-      "downloads": 7072566
+      "downloads": 7068807
     },
     {
       "name": "xml-char-classes",
-      "downloads": 6986557
+      "downloads": 6982822
     },
     {
       "name": "bower-endpoint-parser",
-      "downloads": 6807739
+      "downloads": 6797777
     },
     {
       "name": "open-cli",
-      "downloads": 6638608
+      "downloads": 6636060
     },
     {
       "name": "eslint-config-xo-typescript",
-      "downloads": 6598023
+      "downloads": 6601683
     },
     {
       "name": "grunt-contrib-jshint",
-      "downloads": 6595364
+      "downloads": 6583173
     },
     {
       "name": "rev-hash",
-      "downloads": 6582154
+      "downloads": 6567186
     },
     {
       "name": "get-own-enumerable-keys",
-      "downloads": 6540469
+      "downloads": 6555186
     },
     {
       "name": "stream-to-buffer",
-      "downloads": 6462673
+      "downloads": 6455427
     },
     {
       "name": "split-lines",
-      "downloads": 6424791
+      "downloads": 6415868
     },
     {
       "name": "open-editor",
-      "downloads": 6402790
-    },
-    {
-      "name": "neat-csv",
-      "downloads": 6373602
+      "downloads": 6413762
     },
     {
       "name": "stream-to",
-      "downloads": 6333243
+      "downloads": 6326230
+    },
+    {
+      "name": "neat-csv",
+      "downloads": 6323240
     },
     {
       "name": "line-column-path",
-      "downloads": 6253781
+      "downloads": 6267901
     },
     {
       "name": "humanize-url",
-      "downloads": 6090221
+      "downloads": 6100332
     },
     {
       "name": "is-fn",
-      "downloads": 6080389
+      "downloads": 6081243
     },
     {
       "name": "domify",
-      "downloads": 6054188
+      "downloads": 6041578
     },
     {
       "name": "reserved-identifiers",
-      "downloads": 5924800
+      "downloads": 5924860
     },
     {
       "name": "xo",
-      "downloads": 5888863
+      "downloads": 5901379
     },
     {
       "name": "identifier-regex",
-      "downloads": 5847045
+      "downloads": 5847004
     },
     {
       "name": "grunt-eslint",
-      "downloads": 5821320
+      "downloads": 5816064
     },
     {
       "name": "is-reachable",
-      "downloads": 5799069
+      "downloads": 5794644
     },
     {
       "name": "router-ips",
-      "downloads": 5784010
+      "downloads": 5779616
     },
     {
       "name": "filenamify-url",
-      "downloads": 5704552
+      "downloads": 5716168
     },
     {
       "name": "is-identifier",
-      "downloads": 5401371
-    },
-    {
-      "name": "import-global",
-      "downloads": 5398160
+      "downloads": 5400551
     },
     {
       "name": "package-config",
-      "downloads": 5390446
+      "downloads": 5393056
+    },
+    {
+      "name": "import-global",
+      "downloads": 5392644
     },
     {
       "name": "strip-url-auth",
-      "downloads": 5372473
+      "downloads": 5384169
     },
     {
       "name": "unique-temp-dir",
-      "downloads": 5366659
+      "downloads": 5373881
     },
     {
       "name": "@sindresorhus/fnv1a",
-      "downloads": 5230930
+      "downloads": 5222459
     },
     {
       "name": "copy-file",
-      "downloads": 5111155
+      "downloads": 5140324
     },
     {
       "name": "change-file-extension",
-      "downloads": 5106964
+      "downloads": 5106238
     },
     {
       "name": "unused-filename",
-      "downloads": 5026268
+      "downloads": 5022385
     },
     {
       "name": "ink-testing-library",
-      "downloads": 4952230
+      "downloads": 4949176
     },
     {
       "name": "eslint-config-xo-space",
-      "downloads": 4857254
+      "downloads": 4852280
     },
     {
       "name": "electron-dl",
-      "downloads": 4773886
+      "downloads": 4770971
     },
     {
       "name": "p-lazy",
-      "downloads": 4736393
+      "downloads": 4744719
     },
     {
       "name": "gulp-zip",
-      "downloads": 4718515
+      "downloads": 4706941
     },
     {
       "name": "gulp-imagemin",
-      "downloads": 4705176
+      "downloads": 4693126
     },
     {
       "name": "github-markdown-css",
-      "downloads": 4678454
+      "downloads": 4671932
     },
     {
       "name": "trash",
-      "downloads": 4657067
+      "downloads": 4652308
     },
     {
       "name": "xdg-trashdir",
-      "downloads": 4590960
+      "downloads": 4586177
     },
     {
       "name": "is-online",
-      "downloads": 4578839
+      "downloads": 4575398
     },
     {
       "name": "decompress-zip",
-      "downloads": 4326686
+      "downloads": 4320483
     },
     {
       "name": "jshint-stylish",
-      "downloads": 4316172
+      "downloads": 4305187
     },
     {
       "name": "gulp-debug",
-      "downloads": 4261121
+      "downloads": 4253720
     },
     {
       "name": "djb2a",
-      "downloads": 4127739
+      "downloads": 4126733
     },
     {
       "name": "grunt-babel",
-      "downloads": 3949513
+      "downloads": 3938436
     },
     {
       "name": "image-type",
-      "downloads": 3913451
+      "downloads": 3906882
     },
     {
       "name": "grunt-shell",
-      "downloads": 3767085
-    },
-    {
-      "name": "gulp-rev",
-      "downloads": 3715337
+      "downloads": 3757409
     },
     {
       "name": "electron-context-menu",
-      "downloads": 3711103
+      "downloads": 3710494
+    },
+    {
+      "name": "gulp-rev",
+      "downloads": 3706462
     },
     {
       "name": "rev-path",
-      "downloads": 3678248
+      "downloads": 3669693
     },
     {
       "name": "observable-to-promise",
-      "downloads": 3554958
+      "downloads": 3565537
     },
     {
       "name": "valid-filename",
-      "downloads": 3499234
+      "downloads": 3493589
     },
     {
       "name": "terminal-size",
-      "downloads": 3441554
+      "downloads": 3440929
     },
     {
       "name": "filled-array",
-      "downloads": 3412454
+      "downloads": 3410441
     },
     {
       "name": "@ava/babel-preset-stage-4",
-      "downloads": 3354018
+      "downloads": 3362836
     },
     {
       "name": "@ava/babel-preset-transform-test-files",
-      "downloads": 3350969
+      "downloads": 3359324
     },
     {
       "name": "pngout-bin",
-      "downloads": 3293494
+      "downloads": 3279327
     },
     {
       "name": "@sindresorhus/to-milliseconds",
-      "downloads": 3152488
+      "downloads": 3148300
     },
     {
       "name": "ink-link",
-      "downloads": 3135941
+      "downloads": 3145947
     },
     {
       "name": "imagemin-pngout",
-      "downloads": 3121728
+      "downloads": 3107923
     },
     {
       "name": "unique-random",
-      "downloads": 3051753
+      "downloads": 3043547
     },
     {
       "name": "gulp-mocha",
-      "downloads": 3033072
-    },
-    {
-      "name": "default-shell",
-      "downloads": 2992486
-    },
-    {
-      "name": "get-port-cli",
-      "downloads": 2986810
+      "downloads": 3030804
     },
     {
       "name": "@ava/babel-plugin-throws-helper",
-      "downloads": 2983847
+      "downloads": 2993339
+    },
+    {
+      "name": "default-shell",
+      "downloads": 2986941
+    },
+    {
+      "name": "get-port-cli",
+      "downloads": 2983045
     },
     {
       "name": "grunt-concurrent",
-      "downloads": 2926508
+      "downloads": 2919065
     },
     {
       "name": "normalize-newline",
-      "downloads": 2895589
+      "downloads": 2893198
     },
     {
       "name": "gulp-plugin-extras",
-      "downloads": 2871045
+      "downloads": 2868423
     },
     {
       "name": "unique-random-array",
-      "downloads": 2857864
+      "downloads": 2850135
     },
     {
       "name": "video-extensions",
-      "downloads": 2851071
+      "downloads": 2849192
     },
     {
       "name": "sec",
-      "downloads": 2786084
-    },
-    {
-      "name": "tasklist",
-      "downloads": 2778222
-    },
-    {
-      "name": "compare-urls",
-      "downloads": 2750582
+      "downloads": 2747682
     },
     {
       "name": "imagemin-cli",
-      "downloads": 2747195
+      "downloads": 2747190
+    },
+    {
+      "name": "tasklist",
+      "downloads": 2739912
+    },
+    {
+      "name": "compare-urls",
+      "downloads": 2735518
     }
   ]
 }
